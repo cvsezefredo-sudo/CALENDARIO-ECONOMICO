@@ -1,0 +1,38 @@
+name: Atualizar calendário BCB
+
+on:
+  schedule:
+    # Minuto 17 de cada hora (UTC). O commit só acontece quando o ICS muda.
+    - cron: "17 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: calendario-bcb
+  cancel-in-progress: false
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Baixar o repositório
+        uses: actions/checkout@v4
+
+      - name: Gerar o calendário
+        run: python3 scripts/merge_bcb_ics.py
+
+      - name: Publicar se o conteúdo mudou
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- calendario-bcb.ics
+          if git diff --cached --quiet -- calendario-bcb.ics; then
+            echo "Calendário sem mudanças; nenhum commit."
+            exit 0
+          fi
+          git commit -m "Atualiza o calendário econômico do BCB"
+          git push
