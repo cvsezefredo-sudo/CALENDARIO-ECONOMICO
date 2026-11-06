@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
-"""Junta os calendários ICS públicos do Banco Central num único arquivo.
+"""Monta o calendário econômico único: BCB, IBGE, PMI, Fed e BLS.
 
-Busca a lista oficial de feeds e, se ela falhar, usa a lista fixa abaixo.
-Um feed com erro é ignorado. O arquivo de saída só é substituído quando o
-resultado é um VCALENDAR válido e não vazio.
+O Banco Central continua vindo dos feeds ICS oficiais. As outras fontes
+entram pelo módulo fontes_extras. Uma fonte que falha não apaga as demais:
+o script reaproveita o cache da última coleta boa. O arquivo publicado só
+é trocado quando o resultado é um VCALENDAR válido e não vazio.
 """
 
 from __future__ import annotations
@@ -19,10 +20,12 @@ import urllib.parse
 import urllib.request
 from concurrent.futures import ThreadPoolExecutor
 from dataclasses import dataclass, field
-from datetime import datetime
+from datetime import date, datetime, timedelta
 from html.parser import HTMLParser
 from pathlib import Path
 from zoneinfo import ZoneInfo
+
+import fontes_extras
 
 ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_OUTPUT = ROOT / "calendario-bcb.ics"
@@ -31,9 +34,10 @@ INDEX_URL = (
 )
 EVENTOS_URL = "https://www.bcb.gov.br/api/exportarics/sitebcb/eventosics"
 AGENDA_URL = "https://www.bcb.gov.br/api/exportarics/sitebcb/agendaics"
-CALNAME = "Calendário Econômico BCB"
+CALNAME = "Calendário Econômico"
 CALDESC = (
-    "Eventos, reuniões, relatórios e estatísticas do Banco Central do Brasil"
+    "Agenda econômica centralizada: Banco Central, IBGE, PMI Brasil, "
+    "FOMC e divulgações do BLS, no horário de Brasília"
 )
 TZID = "America/Sao_Paulo"
 SAO_PAULO = ZoneInfo(TZID)
@@ -130,7 +134,7 @@ VTIMEZONE = "\r\n".join(
         f"TZID:{TZID}",
         f"X-LIC-LOCATION:{TZID}",
         "BEGIN:STANDARD",
-        "DTSTART:19700101T000000",
+        "DTSTART:19900101T000000",
         "TZNAME:BRT",
         "TZOFFSETFROM:-0300",
         "TZOFFSETTO:-0300",
@@ -500,6 +504,81 @@ def end_before_start(
     return False
 
 
+MIN_YEAR = 1990
+MAX_YEAR = 2100
+CANON_DT_RE = re.compile(r"^\d{8}T\d{6}(?:Z|[+-]\d{4})?$")
+SLASH_DT_RE = re.compile(
+    r"^(\d{1,2})/(\d{1,2})/(\d{4})(?:[ T](\d{2}):(\d{2})(?::(\d{2}))?)?$"
+)
+ISO_DT_RE = re.compile(
+    r"^(\d{4})-(\d{2})-(\d{2})(?:[T ](\d{2}):(\d{2})(?::(\d{2}))?)?(Z)?$"
+)
+
+
+def _real_date(year: int, month: int, day: int) -> bool:
+    try:
+        date(year, month, day)
+    except ValueError:
+        return False
+    return MIN_YEAR <= year <= MAX_YEAR
+
+
+def _write_when(prop: Prop, year: int, month: int, day: int, clock: tuple[int, int, int] | None) -> None:
+    if clock is None:
+        prop.params = ";VALUE=DATE"
+        prop.value = f"{year:04d}{month:02d}{day:02d}"
+        return
+    hour, minute, second = clock
+    prop.params = f";TZID={TZID}"
+    prop.value = f"{year:04d}{month:02d}{day:02d}T{hour:02d}{minute:02d}{second:02d}"
+
+
+def canonicalize_when(prop: Prop) -> bool:
+    """Garante um DTSTART/DTEND que o calendário consegue ler.
+
+    O feed do BCB às vezes traz data nula como 19700101 (epoch do Unix) ou
+    deixa a data em texto dd/mm/aaaa. O app mostra isso como 1º de janeiro
+    de 1970. Datas anteriores a 1990 são recusadas. Texto com data válida é
+    reescrito no formato iCal. Valor que já está canônico e é uma data real
+    permanece byte a byte.
+    """
+    value = prop.value.strip()
+    if CANON_DT_RE.fullmatch(value):
+        return _real_date(int(value[0:4]), int(value[4:6]), int(value[6:8]))
+    if DATE_RE.fullmatch(value):
+        if not _real_date(int(value[0:4]), int(value[4:6]), int(value[6:8])):
+            return False
+        if "VALUE=DATE" not in prop.params.upper():
+            prop.params = ";VALUE=DATE"
+        return True
+    slash = SLASH_DT_RE.fullmatch(value)
+    if slash:
+        day, month, year = int(slash.group(1)), int(slash.group(2)), int(slash.group(3))
+        if not _real_date(year, month, day):
+            return False
+        clock = None
+        if slash.group(4) is not None:
+            clock = (int(slash.group(4)), int(slash.group(5)), int(slash.group(6) or 0))
+        _write_when(prop, year, month, day, clock)
+        return True
+    iso = ISO_DT_RE.fullmatch(value)
+    if iso:
+        year, month, day = int(iso.group(1)), int(iso.group(2)), int(iso.group(3))
+        if not _real_date(year, month, day):
+            return False
+        if iso.group(4) is None:
+            _write_when(prop, year, month, day, None)
+            return True
+        hour, minute, second = int(iso.group(4)), int(iso.group(5)), int(iso.group(6) or 0)
+        if iso.group(7):
+            local = datetime(year, month, day, hour, minute, second, tzinfo=UTC).astimezone(SAO_PAULO)
+            _write_when(prop, local.year, local.month, local.day, (local.hour, local.minute, local.second))
+        else:
+            _write_when(prop, year, month, day, (hour, minute, second))
+        return True
+    return False
+
+
 def prop_map(props: list[Prop]) -> dict[str, Prop]:
     mapped: dict[str, Prop] = {}
     for prop in props:
@@ -587,8 +666,14 @@ def build_event(props: list[Prop], tag: str) -> Event | None:
         stamp.value = normalize_dtstamp(stamp.value)
         stamp.params = ""
 
-    start = dt_parts(start_prop.params, start_prop.value)
+    if not canonicalize_when(start_prop):
+        log(f"Evento descartado, data inválida ({start_prop.value!r}): {uid}")
+        return None
     end_prop = by_name.get("DTEND")
+    if end_prop is not None and not canonicalize_when(end_prop):
+        props = [prop for prop in props if prop.name != "DTEND"]
+        end_prop = None
+    start = dt_parts(start_prop.params, start_prop.value)
     dropped = False
     if end_prop is not None and end_before_start(
         start, dt_parts(end_prop.params, end_prop.value)
@@ -647,7 +732,7 @@ def render_calendar(events: list[Event]) -> bytes:
     header = [
         "BEGIN:VCALENDAR",
         "VERSION:2.0",
-        "PRODID:-//cvsezefredo//Calendario Economico BCB//PT",
+        "PRODID:-//cvsezefredo//Calendario Economico//PT",
         "CALSCALE:GREGORIAN",
         "METHOD:PUBLISH",
         fold("X-WR-CALNAME:" + escape_text(CALNAME)),
@@ -683,6 +768,213 @@ def fetch_feed(index: int, url: str) -> tuple[int, FeedResult]:
     if not result.events:
         result.error = "nenhum evento"
     return index, result
+
+
+CACHE_DIR = ROOT / "data" / "cache"
+DECISION_NOTE = (
+    "Decisão de juros do Copom. O calendário do BCB marca este dia à meia-noite, "
+    "sem horário. A decisão costuma ser divulgada às 18:30 (horário de Brasília)."
+)
+MEETING_NOTE = (
+    "Dia de reunião do Copom, sem a divulgação da decisão. "
+    "A decisão sai no último dia da reunião, em geral às 18:30 (horário de Brasília)."
+)
+EXTRA_MINIMUM = {"ibge": 20, "fed": 4, "bls": 4, "pmi": 4}
+
+
+def _prop(event: Event, name: str) -> Prop | None:
+    for prop in event.props:
+        if prop.name == name:
+            return prop
+    return None
+
+
+def _set_only(event: Event, name: str, params: str, value: str) -> None:
+    event.props = [prop for prop in event.props if prop.name != name]
+    event.props.append(Prop(name, params, value))
+
+
+def _append_note(event: Event, note: str) -> None:
+    prop = _prop(event, "DESCRIPTION")
+    if prop is None:
+        event.props.append(Prop("DESCRIPTION", "", note))
+        return
+    if note in prop.value:
+        return
+    prop.value = (prop.value.rstrip() + "\n" + note).strip()
+
+
+def _summary_body(summary: str) -> str:
+    return re.sub(r"^\[[^\]]+\]\s*", "", summary).strip()
+
+
+def refresh_sort(event: Event) -> None:
+    start = _prop(event, "DTSTART")
+    if start is None:
+        return
+    parts = dt_parts(start.params, start.value)
+    if parts is None:
+        return
+    event.sort_key = (parts[0], parts[1], parts[2] + event.uid)
+
+
+def fix_copom_decisions(events: list[Event]) -> int:
+    """Coloca 18:30 no segundo dia da reunião quando o BCB manda meia-noite.
+
+    O primeiro dia, também à meia-noite, vira compromisso de dia inteiro para
+    não disparar alarme à 00:00. Reuniões que já trazem horário ficam como estão.
+    """
+    meetings: list[tuple[date, Event]] = []
+    for event in events:
+        if event.tag != "Copom":
+            continue
+        summary = _prop(event, "SUMMARY")
+        start = _prop(event, "DTSTART")
+        if summary is None or start is None:
+            continue
+        if _summary_body(summary.value).casefold() != "reunião do copom":
+            continue
+        value = start.value.strip()
+        if "VALUE=DATE" in start.params.upper() or not re.fullmatch(r"\d{8}T\d{6}", value):
+            continue
+        if not value.endswith("T000000"):
+            continue
+        try:
+            day = datetime.strptime(value[:8], "%Y%m%d").date()
+        except ValueError:
+            continue
+        meetings.append((day, event))
+    if not meetings:
+        return 0
+    meetings.sort(key=lambda item: (item[0], item[1].uid))
+    clusters: list[list[tuple[date, Event]]] = []
+    for item in meetings:
+        if not clusters or (item[0] - clusters[-1][-1][0]).days > 1:
+            clusters.append([item])
+        else:
+            clusters[-1].append(item)
+    fixed = 0
+    for cluster in clusters:
+        decision_day = max(day for day, _event in cluster)
+        for day, event in cluster:
+            if day == decision_day:
+                stamp = day.strftime("%Y%m%d")
+                _set_only(event, "DTSTART", f";TZID={TZID}", stamp + "T183000")
+                _set_only(event, "DTEND", f";TZID={TZID}", stamp + "T190000")
+                summary = _prop(event, "SUMMARY")
+                if summary is not None:
+                    summary.value = "[Copom] Decisão de juros (Copom)"
+                _append_note(event, DECISION_NOTE)
+            else:
+                _set_only(event, "DTSTART", ";VALUE=DATE", day.strftime("%Y%m%d"))
+                _set_only(
+                    event,
+                    "DTEND",
+                    ";VALUE=DATE",
+                    (day + timedelta(days=1)).strftime("%Y%m%d"),
+                )
+                _append_note(event, MEETING_NOTE)
+            refresh_sort(event)
+            fixed += 1
+    return fixed
+
+
+def save_cache(name: str, payload: list) -> None:
+    CACHE_DIR.mkdir(parents=True, exist_ok=True)
+    path = CACHE_DIR / f"{name}.json"
+    path.write_text(
+        json.dumps(payload, ensure_ascii=False, indent=2) + "\n",
+        encoding="utf-8",
+    )
+
+
+def load_cache(name: str) -> list:
+    path = CACHE_DIR / f"{name}.json"
+    if not path.exists():
+        return []
+    try:
+        data = json.loads(path.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError) as exc:
+        log(f"Cache {name} ilegível ({exc}).")
+        return []
+    return data if isinstance(data, list) else []
+
+
+def event_to_cache(event: Event) -> dict:
+    return {
+        "tag": event.tag,
+        "props": [
+            {"name": prop.name, "params": prop.params, "value": prop.value}
+            for prop in event.props
+        ],
+    }
+
+
+def event_from_cache(payload: dict) -> Event | None:
+    props = [
+        Prop(item["name"], item.get("params", ""), item.get("value", ""))
+        for item in payload.get("props") or []
+    ]
+    return build_event(props, str(payload.get("tag") or "BCB"))
+
+
+def events_from_items(items: list[dict]) -> list[Event]:
+    built: list[Event] = []
+    for item in items:
+        start = datetime.fromisoformat(item["start"])
+        if start.tzinfo is None:
+            start = start.replace(tzinfo=SAO_PAULO)
+        local = start.astimezone(SAO_PAULO)
+        props = [
+            Prop("UID", "", item["uid"]),
+            Prop("DTSTAMP", "", local.astimezone(UTC).strftime("%Y%m%dT%H%M%SZ")),
+        ]
+        if item.get("all_day"):
+            props.append(Prop("DTSTART", ";VALUE=DATE", local.strftime("%Y%m%d")))
+        else:
+            props.append(Prop("DTSTART", f";TZID={TZID}", local.strftime("%Y%m%dT%H%M%S")))
+            if item.get("end"):
+                end = datetime.fromisoformat(item["end"])
+                if end.tzinfo is None:
+                    end = end.replace(tzinfo=SAO_PAULO)
+                end = end.astimezone(SAO_PAULO)
+                props.append(Prop("DTEND", f";TZID={TZID}", end.strftime("%Y%m%dT%H%M%S")))
+        props.append(Prop("SUMMARY", "", item["summary"]))
+        if item.get("description"):
+            props.append(Prop("DESCRIPTION", "", item["description"]))
+        if item.get("url"):
+            props.append(Prop("URL", "", item["url"]))
+        event = build_event(props, item["tag"])
+        if event is not None:
+            built.append(event)
+    return built
+
+
+def load_named_source(name: str, title: str, tag: str, fetcher) -> FeedResult:
+    result = FeedResult(url=name, name=title, tag=tag)
+    try:
+        items = fetcher()
+    except (fontes_extras.FetchError, TimeoutError, ValueError, OSError, json.JSONDecodeError) as exc:
+        items = None
+        failure: Exception = exc
+    else:
+        failure = None
+    minimum = EXTRA_MINIMUM.get(name, 1)
+    if items is not None and len(items) >= minimum:
+        save_cache(name, items)
+        result.events = events_from_items(items)
+        return result
+    reason = str(failure) if failure is not None else f"só {0 if items is None else len(items)} eventos"
+    cached = load_cache(name)
+    if cached:
+        result.events = events_from_items(cached)
+        log(
+            f"AVISO [{tag}] {title}: {reason}. "
+            f"Mantidos {len(result.events)} eventos da coleta anterior."
+        )
+        return result
+    result.error = reason
+    return result
 
 
 def merge(feeds: list[FeedResult]) -> tuple[list[Event], int]:
@@ -775,19 +1067,7 @@ def validate(data: bytes) -> int:
     return event_count
 
 
-def publish(path: Path, data: bytes) -> None:
-    count = validate(data)
-    if path.exists():
-        previous = path.read_bytes()
-        if previous == data:
-            log(f"Arquivo inalterado ({count} eventos).")
-            return
-        previous_count = previous.count(b"BEGIN:VEVENT")
-        if previous_count >= 50 and count < max(1, previous_count // 4):
-            raise SystemExit(
-                "Recusando substituir o calendário bom "
-                f"({previous_count} eventos) por um resultado pequeno ({count})."
-            )
+def _write_atomic(path: Path, data: bytes) -> None:
     temporary = path.with_name(path.name + ".tmp")
     try:
         temporary.write_bytes(data)
@@ -797,10 +1077,39 @@ def publish(path: Path, data: bytes) -> None:
     finally:
         if temporary.exists():
             temporary.unlink()
+
+
+def publish(path: Path, data: bytes) -> None:
+    count = validate(data)
+    if path.exists():
+        previous = path.read_bytes()
+        if previous == data:
+            log(f"Arquivo inalterado ({count} eventos).")
+            _publish_alias(path, data)
+            return
+        previous_count = previous.count(b"BEGIN:VEVENT")
+        if previous_count >= 50 and count < max(1, previous_count // 4):
+            raise SystemExit(
+                "Recusando substituir o calendário bom "
+                f"({previous_count} eventos) por um resultado pequeno ({count})."
+            )
+    _write_atomic(path, data)
     log(f"Arquivo gravado: {path} ({count} eventos).")
+    _publish_alias(path, data)
 
 
-def build(urls: list[str]) -> tuple[bytes, list[FeedResult], int]:
+def _publish_alias(path: Path, data: bytes) -> None:
+    if path.name != "calendario-bcb.ics":
+        return
+    alias = path.with_name("calendario-economico.ics")
+    if alias.exists() and alias.read_bytes() == data:
+        log(f"Cópia inalterada: {alias}")
+        return
+    _write_atomic(alias, data)
+    log(f"Cópia gravada: {alias}")
+
+
+def build(urls: list[str]) -> tuple[list[Event], list[FeedResult], int]:
     results: list[FeedResult | None] = [None] * len(urls)
     with ThreadPoolExecutor(max_workers=4) as pool:
         futures = [pool.submit(fetch_feed, index, url) for index, url in enumerate(urls)]
@@ -809,13 +1118,13 @@ def build(urls: list[str]) -> tuple[bytes, list[FeedResult], int]:
             results[index] = result
     feeds = [result for result in results if result is not None]
     events, duplicates = merge(feeds)
-    return render_calendar(events), feeds, duplicates
+    return events, feeds, duplicates
 
 
-def report(feeds: list[FeedResult], duplicates: int, repaired: int) -> None:
+def report(feeds: list[FeedResult], duplicates: int, repaired: int, copom_fixed: int) -> None:
     ok = [feed for feed in feeds if not feed.error]
     failed = [feed for feed in feeds if feed.error]
-    total = sum(len(feed.events) for feed in ok)
+    total = sum(len(feed.events) for feed in feeds)
     for feed in ok:
         log(f"OK  [{feed.tag}] {feed.name}: {len(feed.events)} eventos")
     for feed in failed:
@@ -823,7 +1132,8 @@ def report(feeds: list[FeedResult], duplicates: int, repaired: int) -> None:
     print(
         f"Resumo: {len(ok)} calendários, {len(failed)} falhas, "
         f"{total - duplicates} eventos, {duplicates} UIDs repetidos, "
-        f"{repaired} horários corrigidos."
+        f"{repaired} términos inválidos removidos, "
+        f"{copom_fixed} dias de Copom com horário ajustado."
     )
 
 
@@ -838,18 +1148,46 @@ def parse_args() -> argparse.Namespace:
     return parser.parse_args()
 
 
+def remember_bcb(feeds: list[FeedResult]) -> list[FeedResult]:
+    current = [event for feed in feeds if not feed.error for event in feed.events]
+    previous = []
+    for payload in load_cache("bcb"):
+        if isinstance(payload, dict):
+            event = event_from_cache(payload)
+            if event is not None:
+                previous.append(event)
+    if current and (not previous or len(current) >= max(1, len(previous) // 2)):
+        save_cache("bcb", [event_to_cache(event) for event in current])
+        return feeds
+    if not current and previous:
+        log(f"BCB indisponível. Mantidos {len(previous)} eventos da coleta anterior.")
+        return [
+            FeedResult(url="cache:bcb", name="Banco Central (cache)", tag="BCB", events=previous)
+        ]
+    return feeds
+
+
 def main() -> int:
     args = parse_args()
     urls = load_feed_urls()
-    data, feeds, duplicates = build(urls)
-    repaired = sum(
-        1 for feed in feeds for event in feed.events if event.dropped_dtend
-    )
-    report(feeds, duplicates, repaired)
-    ok = sum(1 for feed in feeds if not feed.error)
-    if ok < 1:
-        log("Nenhum calendário foi baixado. O arquivo anterior foi mantido.")
+    _bcb_events, feeds, _duplicates = build(urls)
+    feeds = remember_bcb(feeds)
+    extras = [
+        load_named_source("ibge", "Calendário de divulgações do IBGE", "IBGE", fontes_extras.fetch_ibge),
+        load_named_source("pmi", "PMI Brasil (S&P Global)", "PMI", fontes_extras.fetch_pmi),
+        load_named_source("fed", "Calendário do Federal Reserve", "Fed", fontes_extras.fetch_fed),
+        load_named_source("bls", "Cronograma do BLS", "BLS", fontes_extras.fetch_bls),
+    ]
+    feeds = feeds + extras
+    events, duplicates = merge(feeds)
+    copom_fixed = fix_copom_decisions(events)
+    events.sort(key=lambda event: event.sort_key)
+    repaired = sum(1 for event in events if event.dropped_dtend)
+    report(feeds, duplicates, repaired, copom_fixed)
+    if not events:
+        log("Nenhum evento disponível. O arquivo anterior foi mantido.")
         return 1
+    data = render_calendar(events)
     try:
         publish(args.output, data)
     except ValueError as exc:

@@ -1,0 +1,702 @@
+[
+  {
+    "uid": "bls-empsit-2025-01-10@calendario-economico",
+    "tag": "BLS",
+    "summary": "Payroll dos EUA – dezembro/2024",
+    "description": "Payroll dos EUA. O mês de referência (dezembro/2024) foi calculado como o mês anterior à divulgação, porque o .ics do BLS não traz essa informação.\nHorário original no Leste dos EUA, 10:30 em Brasília.\nFonte: https://www.bls.gov/schedule/news_release/bls.ics",
+    "start": "2025-01-10T10:30:00-03:00",
+    "end": "2025-01-10T11:00:00-03:00",
+    "url": "https://www.bls.gov/schedule/news_release/empsit.htm",
+    "all_day": false
+  },
+  {
+    "uid": "bls-cpi-2025-01-15@calendario-economico",
+    "tag": "BLS",
+    "summary": "CPI dos EUA – dezembro/2024",
+    "description": "CPI dos EUA. O mês de referência (dezembro/2024) foi calculado como o mês anterior à divulgação, porque o .ics do BLS não traz essa informação.\nHorário original no Leste dos EUA, 10:30 em Brasília.\nFonte: https://www.bls.gov/schedule/news_release/bls.ics",
+    "start": "2025-01-15T10:30:00-03:00",
+    "end": "2025-01-15T11:00:00-03:00",
+    "url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+    "all_day": false
+  },
+  {
+    "uid": "bls-empsit-2025-02-07@calendario-economico",
+    "tag": "BLS",
+    "summary": "Payroll dos EUA – janeiro/2025",
+    "description": "Payroll dos EUA. O mês de referência (janeiro/2025) foi calculado como o mês anterior à divulgação, porque o .ics do BLS não traz essa informação.\nHorário original no Leste dos EUA, 10:30 em Brasília.\nFonte: https://www.bls.gov/schedule/news_release/bls.ics",
+    "start": "2025-02-07T10:30:00-03:00",
+    "end": "2025-02-07T11:00:00-03:00",
+    "url": "https://www.bls.gov/schedule/news_release/empsit.htm",
+    "all_day": false
+  },
+  {
+    "uid": "bls-cpi-2025-02-12@calendario-economico",
+    "tag": "BLS",
+    "summary": "CPI dos EUA – janeiro/2025",
+    "description": "CPI dos EUA. O mês de referência (janeiro/2025) foi calculado como o mês anterior à divulgação, porque o .ics do BLS não traz essa informação.\nHorário original no Leste dos EUA, 10:30 em Brasília.\nFonte: https://www.bls.gov/schedule/news_release/bls.ics",
+    "start": "2025-02-12T10:30:00-03:00",
+    "end": "2025-02-12T11:00:00-03:00",
+    "url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+    "all_day": false
+  },
+  {
+    "uid": "bls-empsit-2025-03-07@calendario-economico",
+    "tag": "BLS",
+    "summary": "Payroll dos EUA – fevereiro/2025",
+    "description": "Payroll dos EUA. O mês de referência (fevereiro/2025) foi calculado como o mês anterior à divulgação, porque o .ics do BLS não traz essa informação.\nHorário original no Leste dos EUA, 10:30 em Brasília.\nFonte: https://www.bls.gov/schedule/news_release/bls.ics",
+    "start": "2025-03-07T10:30:00-03:00",
+    "end": "2025-03-07T11:00:00-03:00",
+    "url": "https://www.bls.gov/schedule/news_release/empsit.htm",
+    "all_day": false
+  },
+  {
+    "uid": "bls-cpi-2025-03-12@calendario-economico",
+    "tag": "BLS",
+    "summary": "CPI dos EUA – fevereiro/2025",
+    "description": "CPI dos EUA. O mês de referência (fevereiro/2025) foi calculado como o mês anterior à divulgação, porque o .ics do BLS não traz essa informação.\nHorário original no Leste dos EUA, 09:30 em Brasília.\nFonte: https://www.bls.gov/schedule/news_release/bls.ics",
+    "start": "2025-03-12T09:30:00-03:00",
+    "end": "2025-03-12T10:00:00-03:00",
+    "url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+    "all_day": false
+  },
+  {
+    "uid": "bls-empsit-2025-04-04@calendario-economico",
+    "tag": "BLS",
+    "summary": "Payroll dos EUA – março/2025",
+    "description": "Payroll dos EUA. O mês de referência (março/2025) foi calculado como o mês anterior à divulgação, porque o .ics do BLS não traz essa informação.\nHorário original no Leste dos EUA, 09:30 em Brasília.\nFonte: https://www.bls.gov/schedule/news_release/bls.ics",
+    "start": "2025-04-04T09:30:00-03:00",
+    "end": "2025-04-04T10:00:00-03:00",
+    "url": "https://www.bls.gov/schedule/news_release/empsit.htm",
+    "all_day": false
+  },
+  {
+    "uid": "bls-cpi-2025-04-10@calendario-economico",
+    "tag": "BLS",
+    "summary": "CPI dos EUA – março/2025",
+    "description": "CPI dos EUA. O mês de referência (março/2025) foi calculado como o mês anterior à divulgação, porque o .ics do BLS não traz essa informação.\nHorário original no Leste dos EUA, 09:30 em Brasília.\nFonte: https://www.bls.gov/schedule/news_release/bls.ics",
+    "start": "2025-04-10T09:30:00-03:00",
+    "end": "2025-04-10T10:00:00-03:00",
+    "url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+    "all_day": false
+  },
+  {
+    "uid": "bls-empsit-2025-05-02@calendario-economico",
+    "tag": "BLS",
+    "summary": "Payroll dos EUA – abril/2025",
+    "description": "Payroll dos EUA. O mês de referência (abril/2025) foi calculado como o mês anterior à divulgação, porque o .ics do BLS não traz essa informação.\nHorário original no Leste dos EUA, 09:30 em Brasília.\nFonte: https://www.bls.gov/schedule/news_release/bls.ics",
+    "start": "2025-05-02T09:30:00-03:00",
+    "end": "2025-05-02T10:00:00-03:00",
+    "url": "https://www.bls.gov/schedule/news_release/empsit.htm",
+    "all_day": false
+  },
+  {
+    "uid": "bls-cpi-2025-05-13@calendario-economico",
+    "tag": "BLS",
+    "summary": "CPI dos EUA – abril/2025",
+    "description": "CPI dos EUA. O mês de referência (abril/2025) foi calculado como o mês anterior à divulgação, porque o .ics do BLS não traz essa informação.\nHorário original no Leste dos EUA, 09:30 em Brasília.\nFonte: https://www.bls.gov/schedule/news_release/bls.ics",
+    "start": "2025-05-13T09:30:00-03:00",
+    "end": "2025-05-13T10:00:00-03:00",
+    "url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+    "all_day": false
+  },
+  {
+    "uid": "bls-empsit-2025-06-06@calendario-economico",
+    "tag": "BLS",
+    "summary": "Payroll dos EUA – maio/2025",
+    "description": "Payroll dos EUA. O mês de referência (maio/2025) foi calculado como o mês anterior à divulgação, porque o .ics do BLS não traz essa informação.\nHorário original no Leste dos EUA, 09:30 em Brasília.\nFonte: https://www.bls.gov/schedule/news_release/bls.ics",
+    "start": "2025-06-06T09:30:00-03:00",
+    "end": "2025-06-06T10:00:00-03:00",
+    "url": "https://www.bls.gov/schedule/news_release/empsit.htm",
+    "all_day": false
+  },
+  {
+    "uid": "bls-cpi-2025-06-11@calendario-economico",
+    "tag": "BLS",
+    "summary": "CPI dos EUA – maio/2025",
+    "description": "CPI dos EUA. O mês de referência (maio/2025) foi calculado como o mês anterior à divulgação, porque o .ics do BLS não traz essa informação.\nHorário original no Leste dos EUA, 09:30 em Brasília.\nFonte: https://www.bls.gov/schedule/news_release/bls.ics",
+    "start": "2025-06-11T09:30:00-03:00",
+    "end": "2025-06-11T10:00:00-03:00",
+    "url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+    "all_day": false
+  },
+  {
+    "uid": "bls-empsit-2025-07-03@calendario-economico",
+    "tag": "BLS",
+    "summary": "Payroll dos EUA – junho/2025",
+    "description": "Payroll dos EUA. O mês de referência (junho/2025) foi calculado como o mês anterior à divulgação, porque o .ics do BLS não traz essa informação.\nHorário original no Leste dos EUA, 09:30 em Brasília.\nFonte: https://www.bls.gov/schedule/news_release/bls.ics",
+    "start": "2025-07-03T09:30:00-03:00",
+    "end": "2025-07-03T10:00:00-03:00",
+    "url": "https://www.bls.gov/schedule/news_release/empsit.htm",
+    "all_day": false
+  },
+  {
+    "uid": "bls-cpi-2025-07-15@calendario-economico",
+    "tag": "BLS",
+    "summary": "CPI dos EUA – junho/2025",
+    "description": "CPI dos EUA. O mês de referência (junho/2025) foi calculado como o mês anterior à divulgação, porque o .ics do BLS não traz essa informação.\nHorário original no Leste dos EUA, 09:30 em Brasília.\nFonte: https://www.bls.gov/schedule/news_release/bls.ics",
+    "start": "2025-07-15T09:30:00-03:00",
+    "end": "2025-07-15T10:00:00-03:00",
+    "url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+    "all_day": false
+  },
+  {
+    "uid": "bls-empsit-2025-08-01@calendario-economico",
+    "tag": "BLS",
+    "summary": "Payroll dos EUA – julho/2025",
+    "description": "Payroll dos EUA. O mês de referência (julho/2025) foi calculado como o mês anterior à divulgação, porque o .ics do BLS não traz essa informação.\nHorário original no Leste dos EUA, 09:30 em Brasília.\nFonte: https://www.bls.gov/schedule/news_release/bls.ics",
+    "start": "2025-08-01T09:30:00-03:00",
+    "end": "2025-08-01T10:00:00-03:00",
+    "url": "https://www.bls.gov/schedule/news_release/empsit.htm",
+    "all_day": false
+  },
+  {
+    "uid": "bls-cpi-2025-08-12@calendario-economico",
+    "tag": "BLS",
+    "summary": "CPI dos EUA – julho/2025",
+    "description": "CPI dos EUA. O mês de referência (julho/2025) foi calculado como o mês anterior à divulgação, porque o .ics do BLS não traz essa informação.\nHorário original no Leste dos EUA, 09:30 em Brasília.\nFonte: https://www.bls.gov/schedule/news_release/bls.ics",
+    "start": "2025-08-12T09:30:00-03:00",
+    "end": "2025-08-12T10:00:00-03:00",
+    "url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+    "all_day": false
+  },
+  {
+    "uid": "bls-empsit-2025-09-05@calendario-economico",
+    "tag": "BLS",
+    "summary": "Payroll dos EUA – agosto/2025",
+    "description": "Payroll dos EUA. O mês de referência (agosto/2025) foi calculado como o mês anterior à divulgação, porque o .ics do BLS não traz essa informação.\nHorário original no Leste dos EUA, 09:30 em Brasília.\nFonte: https://www.bls.gov/schedule/news_release/bls.ics",
+    "start": "2025-09-05T09:30:00-03:00",
+    "end": "2025-09-05T10:00:00-03:00",
+    "url": "https://www.bls.gov/schedule/news_release/empsit.htm",
+    "all_day": false
+  },
+  {
+    "uid": "bls-cpi-2025-09-11@calendario-economico",
+    "tag": "BLS",
+    "summary": "CPI dos EUA – agosto/2025",
+    "description": "CPI dos EUA. O mês de referência (agosto/2025) foi calculado como o mês anterior à divulgação, porque o .ics do BLS não traz essa informação.\nHorário original no Leste dos EUA, 09:30 em Brasília.\nFonte: https://www.bls.gov/schedule/news_release/bls.ics",
+    "start": "2025-09-11T09:30:00-03:00",
+    "end": "2025-09-11T10:00:00-03:00",
+    "url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+    "all_day": false
+  },
+  {
+    "uid": "bls-cpi-2025-10-24@calendario-economico",
+    "tag": "BLS",
+    "summary": "CPI dos EUA – setembro/2025",
+    "description": "CPI dos EUA. O mês de referência (setembro/2025) foi calculado como o mês anterior à divulgação, porque o .ics do BLS não traz essa informação.\nHorário original no Leste dos EUA, 09:30 em Brasília.\nFonte: https://www.bls.gov/schedule/news_release/bls.ics",
+    "start": "2025-10-24T09:30:00-03:00",
+    "end": "2025-10-24T10:00:00-03:00",
+    "url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+    "all_day": false
+  },
+  {
+    "uid": "bls-empsit-2025-11-20@calendario-economico",
+    "tag": "BLS",
+    "summary": "Payroll dos EUA – outubro/2025",
+    "description": "Payroll dos EUA. O mês de referência (outubro/2025) foi calculado como o mês anterior à divulgação, porque o .ics do BLS não traz essa informação.\nHorário original no Leste dos EUA, 10:30 em Brasília.\nFonte: https://www.bls.gov/schedule/news_release/bls.ics",
+    "start": "2025-11-20T10:30:00-03:00",
+    "end": "2025-11-20T11:00:00-03:00",
+    "url": "https://www.bls.gov/schedule/news_release/empsit.htm",
+    "all_day": false
+  },
+  {
+    "uid": "bls-empsit-2025-12-16@calendario-economico",
+    "tag": "BLS",
+    "summary": "Payroll dos EUA – novembro/2025",
+    "description": "Payroll dos EUA. O mês de referência (novembro/2025) foi calculado como o mês anterior à divulgação, porque o .ics do BLS não traz essa informação.\nHorário original no Leste dos EUA, 10:30 em Brasília.\nFonte: https://www.bls.gov/schedule/news_release/bls.ics",
+    "start": "2025-12-16T10:30:00-03:00",
+    "end": "2025-12-16T11:00:00-03:00",
+    "url": "https://www.bls.gov/schedule/news_release/empsit.htm",
+    "all_day": false
+  },
+  {
+    "uid": "bls-cpi-2025-12-18@calendario-economico",
+    "tag": "BLS",
+    "summary": "CPI dos EUA – novembro/2025",
+    "description": "CPI dos EUA. O mês de referência (novembro/2025) foi calculado como o mês anterior à divulgação, porque o .ics do BLS não traz essa informação.\nHorário original no Leste dos EUA, 10:30 em Brasília.\nFonte: https://www.bls.gov/schedule/news_release/bls.ics",
+    "start": "2025-12-18T10:30:00-03:00",
+    "end": "2025-12-18T11:00:00-03:00",
+    "url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+    "all_day": false
+  },
+  {
+    "uid": "bls-empsit-2026-01-09@calendario-economico",
+    "tag": "BLS",
+    "summary": "Payroll dos EUA – dezembro/2025",
+    "description": "Payroll dos EUA. O mês de referência (dezembro/2025) foi calculado como o mês anterior à divulgação, porque o .ics do BLS não traz essa informação.\nHorário original no Leste dos EUA, 10:30 em Brasília.\nFonte: https://www.bls.gov/schedule/news_release/bls.ics",
+    "start": "2026-01-09T10:30:00-03:00",
+    "end": "2026-01-09T11:00:00-03:00",
+    "url": "https://www.bls.gov/schedule/news_release/empsit.htm",
+    "all_day": false
+  },
+  {
+    "uid": "bls-cpi-2026-01-13@calendario-economico",
+    "tag": "BLS",
+    "summary": "CPI dos EUA – dezembro/2025",
+    "description": "CPI dos EUA. O mês de referência (dezembro/2025) foi calculado como o mês anterior à divulgação, porque o .ics do BLS não traz essa informação.\nHorário original no Leste dos EUA, 10:30 em Brasília.\nFonte: https://www.bls.gov/schedule/news_release/bls.ics",
+    "start": "2026-01-13T10:30:00-03:00",
+    "end": "2026-01-13T11:00:00-03:00",
+    "url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+    "all_day": false
+  },
+  {
+    "uid": "bls-empsit-2026-02-11@calendario-economico",
+    "tag": "BLS",
+    "summary": "Payroll dos EUA – janeiro/2026",
+    "description": "Payroll dos EUA. O mês de referência (janeiro/2026) foi calculado como o mês anterior à divulgação, porque o .ics do BLS não traz essa informação.\nHorário original no Leste dos EUA, 10:30 em Brasília.\nFonte: https://www.bls.gov/schedule/news_release/bls.ics",
+    "start": "2026-02-11T10:30:00-03:00",
+    "end": "2026-02-11T11:00:00-03:00",
+    "url": "https://www.bls.gov/schedule/news_release/empsit.htm",
+    "all_day": false
+  },
+  {
+    "uid": "bls-cpi-2026-02-13@calendario-economico",
+    "tag": "BLS",
+    "summary": "CPI dos EUA – janeiro/2026",
+    "description": "CPI dos EUA. O mês de referência (janeiro/2026) foi calculado como o mês anterior à divulgação, porque o .ics do BLS não traz essa informação.\nHorário original no Leste dos EUA, 10:30 em Brasília.\nFonte: https://www.bls.gov/schedule/news_release/bls.ics",
+    "start": "2026-02-13T10:30:00-03:00",
+    "end": "2026-02-13T11:00:00-03:00",
+    "url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+    "all_day": false
+  },
+  {
+    "uid": "bls-empsit-2026-03-06@calendario-economico",
+    "tag": "BLS",
+    "summary": "Payroll dos EUA – fevereiro/2026",
+    "description": "Payroll dos EUA. O mês de referência (fevereiro/2026) foi calculado como o mês anterior à divulgação, porque o .ics do BLS não traz essa informação.\nHorário original no Leste dos EUA, 10:30 em Brasília.\nFonte: https://www.bls.gov/schedule/news_release/bls.ics",
+    "start": "2026-03-06T10:30:00-03:00",
+    "end": "2026-03-06T11:00:00-03:00",
+    "url": "https://www.bls.gov/schedule/news_release/empsit.htm",
+    "all_day": false
+  },
+  {
+    "uid": "bls-cpi-2026-03-11@calendario-economico",
+    "tag": "BLS",
+    "summary": "CPI dos EUA – fevereiro/2026",
+    "description": "CPI dos EUA. O mês de referência (fevereiro/2026) foi calculado como o mês anterior à divulgação, porque o .ics do BLS não traz essa informação.\nHorário original no Leste dos EUA, 09:30 em Brasília.\nFonte: https://www.bls.gov/schedule/news_release/bls.ics",
+    "start": "2026-03-11T09:30:00-03:00",
+    "end": "2026-03-11T10:00:00-03:00",
+    "url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+    "all_day": false
+  },
+  {
+    "uid": "bls-empsit-2026-04-03@calendario-economico",
+    "tag": "BLS",
+    "summary": "Payroll dos EUA – março/2026",
+    "description": "Payroll dos EUA. O mês de referência (março/2026) foi calculado como o mês anterior à divulgação, porque o .ics do BLS não traz essa informação.\nHorário original no Leste dos EUA, 09:30 em Brasília.\nFonte: https://www.bls.gov/schedule/news_release/bls.ics",
+    "start": "2026-04-03T09:30:00-03:00",
+    "end": "2026-04-03T10:00:00-03:00",
+    "url": "https://www.bls.gov/schedule/news_release/empsit.htm",
+    "all_day": false
+  },
+  {
+    "uid": "bls-cpi-2026-04-10@calendario-economico",
+    "tag": "BLS",
+    "summary": "CPI dos EUA – março/2026",
+    "description": "CPI dos EUA. O mês de referência (março/2026) foi calculado como o mês anterior à divulgação, porque o .ics do BLS não traz essa informação.\nHorário original no Leste dos EUA, 09:30 em Brasília.\nFonte: https://www.bls.gov/schedule/news_release/bls.ics",
+    "start": "2026-04-10T09:30:00-03:00",
+    "end": "2026-04-10T10:00:00-03:00",
+    "url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+    "all_day": false
+  },
+  {
+    "uid": "bls-empsit-2026-05-08@calendario-economico",
+    "tag": "BLS",
+    "summary": "Payroll dos EUA – abril/2026",
+    "description": "Payroll dos EUA. O mês de referência (abril/2026) foi calculado como o mês anterior à divulgação, porque o .ics do BLS não traz essa informação.\nHorário original no Leste dos EUA, 09:30 em Brasília.\nFonte: https://www.bls.gov/schedule/news_release/bls.ics",
+    "start": "2026-05-08T09:30:00-03:00",
+    "end": "2026-05-08T10:00:00-03:00",
+    "url": "https://www.bls.gov/schedule/news_release/empsit.htm",
+    "all_day": false
+  },
+  {
+    "uid": "bls-cpi-2026-05-12@calendario-economico",
+    "tag": "BLS",
+    "summary": "CPI dos EUA – abril/2026",
+    "description": "CPI dos EUA. O mês de referência (abril/2026) foi calculado como o mês anterior à divulgação, porque o .ics do BLS não traz essa informação.\nHorário original no Leste dos EUA, 09:30 em Brasília.\nFonte: https://www.bls.gov/schedule/news_release/bls.ics",
+    "start": "2026-05-12T09:30:00-03:00",
+    "end": "2026-05-12T10:00:00-03:00",
+    "url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+    "all_day": false
+  },
+  {
+    "uid": "bls-empsit-2026-06-05@calendario-economico",
+    "tag": "BLS",
+    "summary": "Payroll dos EUA – maio/2026",
+    "description": "Payroll dos EUA. O mês de referência (maio/2026) foi calculado como o mês anterior à divulgação, porque o .ics do BLS não traz essa informação.\nHorário original no Leste dos EUA, 09:30 em Brasília.\nFonte: https://www.bls.gov/schedule/news_release/bls.ics",
+    "start": "2026-06-05T09:30:00-03:00",
+    "end": "2026-06-05T10:00:00-03:00",
+    "url": "https://www.bls.gov/schedule/news_release/empsit.htm",
+    "all_day": false
+  },
+  {
+    "uid": "bls-cpi-2026-06-10@calendario-economico",
+    "tag": "BLS",
+    "summary": "CPI dos EUA – maio/2026",
+    "description": "CPI dos EUA. O mês de referência (maio/2026) foi calculado como o mês anterior à divulgação, porque o .ics do BLS não traz essa informação.\nHorário original no Leste dos EUA, 09:30 em Brasília.\nFonte: https://www.bls.gov/schedule/news_release/bls.ics",
+    "start": "2026-06-10T09:30:00-03:00",
+    "end": "2026-06-10T10:00:00-03:00",
+    "url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+    "all_day": false
+  },
+  {
+    "uid": "bls-empsit-2026-07-02@calendario-economico",
+    "tag": "BLS",
+    "summary": "Payroll dos EUA – junho/2026",
+    "description": "Payroll dos EUA. O mês de referência (junho/2026) foi calculado como o mês anterior à divulgação, porque o .ics do BLS não traz essa informação.\nHorário original no Leste dos EUA, 09:30 em Brasília.\nFonte: https://www.bls.gov/schedule/news_release/bls.ics",
+    "start": "2026-07-02T09:30:00-03:00",
+    "end": "2026-07-02T10:00:00-03:00",
+    "url": "https://www.bls.gov/schedule/news_release/empsit.htm",
+    "all_day": false
+  },
+  {
+    "uid": "bls-cpi-2026-07-14@calendario-economico",
+    "tag": "BLS",
+    "summary": "CPI dos EUA – junho/2026",
+    "description": "CPI dos EUA. O mês de referência (junho/2026) foi calculado como o mês anterior à divulgação, porque o .ics do BLS não traz essa informação.\nHorário original no Leste dos EUA, 09:30 em Brasília.\nFonte: https://www.bls.gov/schedule/news_release/bls.ics",
+    "start": "2026-07-14T09:30:00-03:00",
+    "end": "2026-07-14T10:00:00-03:00",
+    "url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+    "all_day": false
+  },
+  {
+    "uid": "bls-empsit-2026-08-07@calendario-economico",
+    "tag": "BLS",
+    "summary": "Payroll dos EUA – julho/2026",
+    "description": "Payroll dos EUA. O mês de referência (julho/2026) foi calculado como o mês anterior à divulgação, porque o .ics do BLS não traz essa informação.\nHorário original no Leste dos EUA, 09:30 em Brasília.\nFonte: https://www.bls.gov/schedule/news_release/bls.ics",
+    "start": "2026-08-07T09:30:00-03:00",
+    "end": "2026-08-07T10:00:00-03:00",
+    "url": "https://www.bls.gov/schedule/news_release/empsit.htm",
+    "all_day": false
+  },
+  {
+    "uid": "bls-cpi-2026-08-12@calendario-economico",
+    "tag": "BLS",
+    "summary": "CPI dos EUA – julho/2026",
+    "description": "CPI dos EUA. O mês de referência (julho/2026) foi calculado como o mês anterior à divulgação, porque o .ics do BLS não traz essa informação.\nHorário original no Leste dos EUA, 09:30 em Brasília.\nFonte: https://www.bls.gov/schedule/news_release/bls.ics",
+    "start": "2026-08-12T09:30:00-03:00",
+    "end": "2026-08-12T10:00:00-03:00",
+    "url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+    "all_day": false
+  },
+  {
+    "uid": "bls-empsit-2026-09-04@calendario-economico",
+    "tag": "BLS",
+    "summary": "Payroll dos EUA – agosto/2026",
+    "description": "Payroll dos EUA. O mês de referência (agosto/2026) foi calculado como o mês anterior à divulgação, porque o .ics do BLS não traz essa informação.\nHorário original no Leste dos EUA, 09:30 em Brasília.\nFonte: https://www.bls.gov/schedule/news_release/bls.ics",
+    "start": "2026-09-04T09:30:00-03:00",
+    "end": "2026-09-04T10:00:00-03:00",
+    "url": "https://www.bls.gov/schedule/news_release/empsit.htm",
+    "all_day": false
+  },
+  {
+    "uid": "bls-cpi-2026-09-11@calendario-economico",
+    "tag": "BLS",
+    "summary": "CPI dos EUA – agosto/2026",
+    "description": "CPI dos EUA. O mês de referência (agosto/2026) foi calculado como o mês anterior à divulgação, porque o .ics do BLS não traz essa informação.\nHorário original no Leste dos EUA, 09:30 em Brasília.\nFonte: https://www.bls.gov/schedule/news_release/bls.ics",
+    "start": "2026-09-11T09:30:00-03:00",
+    "end": "2026-09-11T10:00:00-03:00",
+    "url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+    "all_day": false
+  },
+  {
+    "uid": "bls-empsit-2026-10-02@calendario-economico",
+    "tag": "BLS",
+    "summary": "Payroll dos EUA – setembro/2026",
+    "description": "Payroll dos EUA. O mês de referência (setembro/2026) foi calculado como o mês anterior à divulgação, porque o .ics do BLS não traz essa informação.\nHorário original no Leste dos EUA, 09:30 em Brasília.\nFonte: https://www.bls.gov/schedule/news_release/bls.ics",
+    "start": "2026-10-02T09:30:00-03:00",
+    "end": "2026-10-02T10:00:00-03:00",
+    "url": "https://www.bls.gov/schedule/news_release/empsit.htm",
+    "all_day": false
+  },
+  {
+    "uid": "bls-cpi-2026-10-14@calendario-economico",
+    "tag": "BLS",
+    "summary": "CPI dos EUA – setembro/2026",
+    "description": "CPI dos EUA. O mês de referência (setembro/2026) foi calculado como o mês anterior à divulgação, porque o .ics do BLS não traz essa informação.\nHorário original no Leste dos EUA, 09:30 em Brasília.\nFonte: https://www.bls.gov/schedule/news_release/bls.ics",
+    "start": "2026-10-14T09:30:00-03:00",
+    "end": "2026-10-14T10:00:00-03:00",
+    "url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+    "all_day": false
+  },
+  {
+    "uid": "bls-empsit-2026-11-06@calendario-economico",
+    "tag": "BLS",
+    "summary": "Payroll dos EUA – outubro/2026",
+    "description": "Payroll dos EUA, mês de referência outubro/2026.\nHorário original: 08:30 no Leste dos EUA, 10:30 em Brasília.\nFonte: https://www.bls.gov/schedule/news_release/empsit.htm",
+    "start": "2026-11-06T10:30:00-03:00",
+    "end": "2026-11-06T11:00:00-03:00",
+    "url": "https://www.bls.gov/schedule/news_release/empsit.htm",
+    "all_day": false
+  },
+  {
+    "uid": "bls-cpi-2026-11-10@calendario-economico",
+    "tag": "BLS",
+    "summary": "CPI dos EUA – outubro/2026",
+    "description": "CPI dos EUA, mês de referência outubro/2026.\nHorário original: 08:30 no Leste dos EUA, 10:30 em Brasília.\nFonte: https://www.bls.gov/schedule/news_release/cpi.htm",
+    "start": "2026-11-10T10:30:00-03:00",
+    "end": "2026-11-10T11:00:00-03:00",
+    "url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+    "all_day": false
+  },
+  {
+    "uid": "bls-empsit-2026-12-04@calendario-economico",
+    "tag": "BLS",
+    "summary": "Payroll dos EUA – novembro/2026",
+    "description": "Payroll dos EUA, mês de referência novembro/2026.\nHorário original: 08:30 no Leste dos EUA, 10:30 em Brasília.\nFonte: https://www.bls.gov/schedule/news_release/empsit.htm",
+    "start": "2026-12-04T10:30:00-03:00",
+    "end": "2026-12-04T11:00:00-03:00",
+    "url": "https://www.bls.gov/schedule/news_release/empsit.htm",
+    "all_day": false
+  },
+  {
+    "uid": "bls-cpi-2026-12-10@calendario-economico",
+    "tag": "BLS",
+    "summary": "CPI dos EUA – novembro/2026",
+    "description": "CPI dos EUA, mês de referência novembro/2026.\nHorário original: 08:30 no Leste dos EUA, 10:30 em Brasília.\nFonte: https://www.bls.gov/schedule/news_release/cpi.htm",
+    "start": "2026-12-10T10:30:00-03:00",
+    "end": "2026-12-10T11:00:00-03:00",
+    "url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+    "all_day": false
+  },
+  {
+    "uid": "bls-cpi-2027-01-13@calendario-economico",
+    "tag": "BLS",
+    "summary": "CPI dos EUA – dezembro/2026",
+    "description": "CPI dos EUA, mês de referência dezembro/2026.\nHorário original: 08:30 no Leste dos EUA, 10:30 em Brasília.\nFonte: https://www.bls.gov/schedule/news_release/cpi.htm",
+    "start": "2027-01-13T10:30:00-03:00",
+    "end": "2027-01-13T11:00:00-03:00",
+    "url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+    "all_day": false
+  },
+  {
+    "uid": "bls-cpi-2027-02-11@calendario-economico",
+    "tag": "BLS",
+    "summary": "CPI dos EUA – janeiro/2027",
+    "description": "CPI dos EUA, mês de referência janeiro/2027.\nHorário original: 08:30 no Leste dos EUA, 10:30 em Brasília.\nFonte: https://www.bls.gov/schedule/news_release/cpi.htm",
+    "start": "2027-02-11T10:30:00-03:00",
+    "end": "2027-02-11T11:00:00-03:00",
+    "url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+    "all_day": false
+  },
+  {
+    "uid": "bls-cpi-2027-03-10@calendario-economico",
+    "tag": "BLS",
+    "summary": "CPI dos EUA – fevereiro/2027",
+    "description": "CPI dos EUA, mês de referência fevereiro/2027.\nHorário original: 08:30 no Leste dos EUA, 10:30 em Brasília.\nFonte: https://www.bls.gov/schedule/news_release/cpi.htm",
+    "start": "2027-03-10T10:30:00-03:00",
+    "end": "2027-03-10T11:00:00-03:00",
+    "url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+    "all_day": false
+  },
+  {
+    "uid": "bls-cpi-2027-04-13@calendario-economico",
+    "tag": "BLS",
+    "summary": "CPI dos EUA – março/2027",
+    "description": "CPI dos EUA, mês de referência março/2027.\nHorário original: 08:30 no Leste dos EUA, 09:30 em Brasília.\nFonte: https://www.bls.gov/schedule/news_release/cpi.htm",
+    "start": "2027-04-13T09:30:00-03:00",
+    "end": "2027-04-13T10:00:00-03:00",
+    "url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+    "all_day": false
+  },
+  {
+    "uid": "bls-cpi-2027-05-12@calendario-economico",
+    "tag": "BLS",
+    "summary": "CPI dos EUA – abril/2027",
+    "description": "CPI dos EUA, mês de referência abril/2027.\nHorário original: 08:30 no Leste dos EUA, 09:30 em Brasília.\nFonte: https://www.bls.gov/schedule/news_release/cpi.htm",
+    "start": "2027-05-12T09:30:00-03:00",
+    "end": "2027-05-12T10:00:00-03:00",
+    "url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+    "all_day": false
+  },
+  {
+    "uid": "bls-cpi-2027-06-10@calendario-economico",
+    "tag": "BLS",
+    "summary": "CPI dos EUA – maio/2027",
+    "description": "CPI dos EUA, mês de referência maio/2027.\nHorário original: 08:30 no Leste dos EUA, 09:30 em Brasília.\nFonte: https://www.bls.gov/schedule/news_release/cpi.htm",
+    "start": "2027-06-10T09:30:00-03:00",
+    "end": "2027-06-10T10:00:00-03:00",
+    "url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+    "all_day": false
+  },
+  {
+    "uid": "bls-cpi-2027-07-14@calendario-economico",
+    "tag": "BLS",
+    "summary": "CPI dos EUA – junho/2027",
+    "description": "CPI dos EUA, mês de referência junho/2027.\nHorário original: 08:30 no Leste dos EUA, 09:30 em Brasília.\nFonte: https://www.bls.gov/schedule/news_release/cpi.htm",
+    "start": "2027-07-14T09:30:00-03:00",
+    "end": "2027-07-14T10:00:00-03:00",
+    "url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+    "all_day": false
+  },
+  {
+    "uid": "bls-cpi-2027-08-11@calendario-economico",
+    "tag": "BLS",
+    "summary": "CPI dos EUA – julho/2027",
+    "description": "CPI dos EUA, mês de referência julho/2027.\nHorário original: 08:30 no Leste dos EUA, 09:30 em Brasília.\nFonte: https://www.bls.gov/schedule/news_release/cpi.htm",
+    "start": "2027-08-11T09:30:00-03:00",
+    "end": "2027-08-11T10:00:00-03:00",
+    "url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+    "all_day": false
+  },
+  {
+    "uid": "bls-cpi-2027-09-14@calendario-economico",
+    "tag": "BLS",
+    "summary": "CPI dos EUA – agosto/2027",
+    "description": "CPI dos EUA, mês de referência agosto/2027.\nHorário original: 08:30 no Leste dos EUA, 09:30 em Brasília.\nFonte: https://www.bls.gov/schedule/news_release/cpi.htm",
+    "start": "2027-09-14T09:30:00-03:00",
+    "end": "2027-09-14T10:00:00-03:00",
+    "url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+    "all_day": false
+  },
+  {
+    "uid": "bls-cpi-2027-10-14@calendario-economico",
+    "tag": "BLS",
+    "summary": "CPI dos EUA – setembro/2027",
+    "description": "CPI dos EUA, mês de referência setembro/2027.\nHorário original: 08:30 no Leste dos EUA, 09:30 em Brasília.\nFonte: https://www.bls.gov/schedule/news_release/cpi.htm",
+    "start": "2027-10-14T09:30:00-03:00",
+    "end": "2027-10-14T10:00:00-03:00",
+    "url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+    "all_day": false
+  },
+  {
+    "uid": "bls-cpi-2027-11-10@calendario-economico",
+    "tag": "BLS",
+    "summary": "CPI dos EUA – outubro/2027",
+    "description": "CPI dos EUA, mês de referência outubro/2027.\nHorário original: 08:30 no Leste dos EUA, 10:30 em Brasília.\nFonte: https://www.bls.gov/schedule/news_release/cpi.htm",
+    "start": "2027-11-10T10:30:00-03:00",
+    "end": "2027-11-10T11:00:00-03:00",
+    "url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+    "all_day": false
+  },
+  {
+    "uid": "bls-cpi-2027-12-10@calendario-economico",
+    "tag": "BLS",
+    "summary": "CPI dos EUA – novembro/2027",
+    "description": "CPI dos EUA, mês de referência novembro/2027.\nHorário original: 08:30 no Leste dos EUA, 10:30 em Brasília.\nFonte: https://www.bls.gov/schedule/news_release/cpi.htm",
+    "start": "2027-12-10T10:30:00-03:00",
+    "end": "2027-12-10T11:00:00-03:00",
+    "url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+    "all_day": false
+  },
+  {
+    "uid": "bls-empsit-2027-01-08@calendario-economico",
+    "tag": "BLS",
+    "summary": "Payroll dos EUA – dezembro/2026",
+    "description": "Payroll dos EUA, mês de referência dezembro/2026.\nHorário original: 08:30 no Leste dos EUA, 10:30 em Brasília.\nFonte: https://www.bls.gov/schedule/news_release/empsit.htm",
+    "start": "2027-01-08T10:30:00-03:00",
+    "end": "2027-01-08T11:00:00-03:00",
+    "url": "https://www.bls.gov/schedule/news_release/empsit.htm",
+    "all_day": false
+  },
+  {
+    "uid": "bls-empsit-2027-02-05@calendario-economico",
+    "tag": "BLS",
+    "summary": "Payroll dos EUA – janeiro/2027",
+    "description": "Payroll dos EUA, mês de referência janeiro/2027.\nHorário original: 08:30 no Leste dos EUA, 10:30 em Brasília.\nFonte: https://www.bls.gov/schedule/news_release/empsit.htm",
+    "start": "2027-02-05T10:30:00-03:00",
+    "end": "2027-02-05T11:00:00-03:00",
+    "url": "https://www.bls.gov/schedule/news_release/empsit.htm",
+    "all_day": false
+  },
+  {
+    "uid": "bls-empsit-2027-03-05@calendario-economico",
+    "tag": "BLS",
+    "summary": "Payroll dos EUA – fevereiro/2027",
+    "description": "Payroll dos EUA, mês de referência fevereiro/2027.\nHorário original: 08:30 no Leste dos EUA, 10:30 em Brasília.\nFonte: https://www.bls.gov/schedule/news_release/empsit.htm",
+    "start": "2027-03-05T10:30:00-03:00",
+    "end": "2027-03-05T11:00:00-03:00",
+    "url": "https://www.bls.gov/schedule/news_release/empsit.htm",
+    "all_day": false
+  },
+  {
+    "uid": "bls-empsit-2027-04-02@calendario-economico",
+    "tag": "BLS",
+    "summary": "Payroll dos EUA – março/2027",
+    "description": "Payroll dos EUA, mês de referência março/2027.\nHorário original: 08:30 no Leste dos EUA, 09:30 em Brasília.\nFonte: https://www.bls.gov/schedule/news_release/empsit.htm",
+    "start": "2027-04-02T09:30:00-03:00",
+    "end": "2027-04-02T10:00:00-03:00",
+    "url": "https://www.bls.gov/schedule/news_release/empsit.htm",
+    "all_day": false
+  },
+  {
+    "uid": "bls-empsit-2027-05-07@calendario-economico",
+    "tag": "BLS",
+    "summary": "Payroll dos EUA – abril/2027",
+    "description": "Payroll dos EUA, mês de referência abril/2027.\nHorário original: 08:30 no Leste dos EUA, 09:30 em Brasília.\nFonte: https://www.bls.gov/schedule/news_release/empsit.htm",
+    "start": "2027-05-07T09:30:00-03:00",
+    "end": "2027-05-07T10:00:00-03:00",
+    "url": "https://www.bls.gov/schedule/news_release/empsit.htm",
+    "all_day": false
+  },
+  {
+    "uid": "bls-empsit-2027-06-04@calendario-economico",
+    "tag": "BLS",
+    "summary": "Payroll dos EUA – maio/2027",
+    "description": "Payroll dos EUA, mês de referência maio/2027.\nHorário original: 08:30 no Leste dos EUA, 09:30 em Brasília.\nFonte: https://www.bls.gov/schedule/news_release/empsit.htm",
+    "start": "2027-06-04T09:30:00-03:00",
+    "end": "2027-06-04T10:00:00-03:00",
+    "url": "https://www.bls.gov/schedule/news_release/empsit.htm",
+    "all_day": false
+  },
+  {
+    "uid": "bls-empsit-2027-07-02@calendario-economico",
+    "tag": "BLS",
+    "summary": "Payroll dos EUA – junho/2027",
+    "description": "Payroll dos EUA, mês de referência junho/2027.\nHorário original: 08:30 no Leste dos EUA, 09:30 em Brasília.\nFonte: https://www.bls.gov/schedule/news_release/empsit.htm",
+    "start": "2027-07-02T09:30:00-03:00",
+    "end": "2027-07-02T10:00:00-03:00",
+    "url": "https://www.bls.gov/schedule/news_release/empsit.htm",
+    "all_day": false
+  },
+  {
+    "uid": "bls-empsit-2027-08-06@calendario-economico",
+    "tag": "BLS",
+    "summary": "Payroll dos EUA – julho/2027",
+    "description": "Payroll dos EUA, mês de referência julho/2027.\nHorário original: 08:30 no Leste dos EUA, 09:30 em Brasília.\nFonte: https://www.bls.gov/schedule/news_release/empsit.htm",
+    "start": "2027-08-06T09:30:00-03:00",
+    "end": "2027-08-06T10:00:00-03:00",
+    "url": "https://www.bls.gov/schedule/news_release/empsit.htm",
+    "all_day": false
+  },
+  {
+    "uid": "bls-empsit-2027-09-03@calendario-economico",
+    "tag": "BLS",
+    "summary": "Payroll dos EUA – agosto/2027",
+    "description": "Payroll dos EUA, mês de referência agosto/2027.\nHorário original: 08:30 no Leste dos EUA, 09:30 em Brasília.\nFonte: https://www.bls.gov/schedule/news_release/empsit.htm",
+    "start": "2027-09-03T09:30:00-03:00",
+    "end": "2027-09-03T10:00:00-03:00",
+    "url": "https://www.bls.gov/schedule/news_release/empsit.htm",
+    "all_day": false
+  },
+  {
+    "uid": "bls-empsit-2027-10-08@calendario-economico",
+    "tag": "BLS",
+    "summary": "Payroll dos EUA – setembro/2027",
+    "description": "Payroll dos EUA, mês de referência setembro/2027.\nHorário original: 08:30 no Leste dos EUA, 09:30 em Brasília.\nFonte: https://www.bls.gov/schedule/news_release/empsit.htm",
+    "start": "2027-10-08T09:30:00-03:00",
+    "end": "2027-10-08T10:00:00-03:00",
+    "url": "https://www.bls.gov/schedule/news_release/empsit.htm",
+    "all_day": false
+  },
+  {
+    "uid": "bls-empsit-2027-11-05@calendario-economico",
+    "tag": "BLS",
+    "summary": "Payroll dos EUA – outubro/2027",
+    "description": "Payroll dos EUA, mês de referência outubro/2027.\nHorário original: 08:30 no Leste dos EUA, 09:30 em Brasília.\nFonte: https://www.bls.gov/schedule/news_release/empsit.htm",
+    "start": "2027-11-05T09:30:00-03:00",
+    "end": "2027-11-05T10:00:00-03:00",
+    "url": "https://www.bls.gov/schedule/news_release/empsit.htm",
+    "all_day": false
+  },
+  {
+    "uid": "bls-empsit-2027-12-03@calendario-economico",
+    "tag": "BLS",
+    "summary": "Payroll dos EUA – novembro/2027",
+    "description": "Payroll dos EUA, mês de referência novembro/2027.\nHorário original: 08:30 no Leste dos EUA, 10:30 em Brasília.\nFonte: https://www.bls.gov/schedule/news_release/empsit.htm",
+    "start": "2027-12-03T10:30:00-03:00",
+    "end": "2027-12-03T11:00:00-03:00",
+    "url": "https://www.bls.gov/schedule/news_release/empsit.htm",
+    "all_day": false
+  }
+]

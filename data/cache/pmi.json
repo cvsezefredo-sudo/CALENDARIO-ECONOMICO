@@ -1,0 +1,322 @@
+[
+  {
+    "uid": "pmi-industrial-2026-11@calendario-economico",
+    "tag": "PMI",
+    "summary": "PMI Industrial Brasil – novembro/2026",
+    "description": "PMI Industrial Brasil, referência novembro/2026. Horário oficial convertido de UTC para Brasília (10:00).\nFonte: https://www.pmi.spglobal.com/Public/Release/ReleaseDates",
+    "start": "2026-12-01T10:00:00-03:00",
+    "end": "2026-12-01T10:30:00-03:00",
+    "url": "https://www.pmi.spglobal.com/Public/Release/ReleaseDates",
+    "all_day": false
+  },
+  {
+    "uid": "pmi-servicos-2026-11@calendario-economico",
+    "tag": "PMI",
+    "summary": "PMI de Serviços Brasil – novembro/2026",
+    "description": "PMI de Serviços Brasil, referência novembro/2026. Horário oficial convertido de UTC para Brasília (10:00).\nFonte: https://www.pmi.spglobal.com/Public/Release/ReleaseDates",
+    "start": "2026-12-03T10:00:00-03:00",
+    "end": "2026-12-03T10:30:00-03:00",
+    "url": "https://www.pmi.spglobal.com/Public/Release/ReleaseDates",
+    "all_day": false
+  },
+  {
+    "uid": "pmi-industrial-2026-09@calendario-economico",
+    "tag": "PMI",
+    "summary": "PMI Industrial Brasil – setembro/2026",
+    "description": "PMI Industrial Brasil, referência setembro/2026. Data estimada pela regra publicada pela S&P Global: PMI industrial no 1º dia útil do mês e PMI de serviços no 3º dia útil, por volta das 10:00 em Brasília (13:00 UTC). O calendário oficial não listou este mês. A conta de dia útil pula fim de semana e feriado nacional (inclui carnaval, sexta-feira santa e Corpus Christi); a S&P pode não observar algum desses feriados.\nFonte da regra: https://www.pmi.spglobal.com/Public/Release/ReleaseDates",
+    "start": "2026-10-01T10:00:00-03:00",
+    "end": "2026-10-01T10:30:00-03:00",
+    "url": "https://www.pmi.spglobal.com/Public/Release/ReleaseDates",
+    "all_day": false
+  },
+  {
+    "uid": "pmi-servicos-2026-09@calendario-economico",
+    "tag": "PMI",
+    "summary": "PMI de Serviços Brasil – setembro/2026",
+    "description": "PMI de Serviços Brasil, referência setembro/2026. Data estimada pela regra publicada pela S&P Global: PMI industrial no 1º dia útil do mês e PMI de serviços no 3º dia útil, por volta das 10:00 em Brasília (13:00 UTC). O calendário oficial não listou este mês. A conta de dia útil pula fim de semana e feriado nacional (inclui carnaval, sexta-feira santa e Corpus Christi); a S&P pode não observar algum desses feriados.\nFonte da regra: https://www.pmi.spglobal.com/Public/Release/ReleaseDates",
+    "start": "2026-10-05T10:00:00-03:00",
+    "end": "2026-10-05T10:30:00-03:00",
+    "url": "https://www.pmi.spglobal.com/Public/Release/ReleaseDates",
+    "all_day": false
+  },
+  {
+    "uid": "pmi-industrial-2026-10@calendario-economico",
+    "tag": "PMI",
+    "summary": "PMI Industrial Brasil – outubro/2026",
+    "description": "PMI Industrial Brasil, referência outubro/2026. Data estimada pela regra publicada pela S&P Global: PMI industrial no 1º dia útil do mês e PMI de serviços no 3º dia útil, por volta das 10:00 em Brasília (13:00 UTC). O calendário oficial não listou este mês. A conta de dia útil pula fim de semana e feriado nacional (inclui carnaval, sexta-feira santa e Corpus Christi); a S&P pode não observar algum desses feriados.\nFonte da regra: https://www.pmi.spglobal.com/Public/Release/ReleaseDates",
+    "start": "2026-11-03T10:00:00-03:00",
+    "end": "2026-11-03T10:30:00-03:00",
+    "url": "https://www.pmi.spglobal.com/Public/Release/ReleaseDates",
+    "all_day": false
+  },
+  {
+    "uid": "pmi-servicos-2026-10@calendario-economico",
+    "tag": "PMI",
+    "summary": "PMI de Serviços Brasil – outubro/2026",
+    "description": "PMI de Serviços Brasil, referência outubro/2026. Data estimada pela regra publicada pela S&P Global: PMI industrial no 1º dia útil do mês e PMI de serviços no 3º dia útil, por volta das 10:00 em Brasília (13:00 UTC). O calendário oficial não listou este mês. A conta de dia útil pula fim de semana e feriado nacional (inclui carnaval, sexta-feira santa e Corpus Christi); a S&P pode não observar algum desses feriados.\nFonte da regra: https://www.pmi.spglobal.com/Public/Release/ReleaseDates",
+    "start": "2026-11-05T10:00:00-03:00",
+    "end": "2026-11-05T10:30:00-03:00",
+    "url": "https://www.pmi.spglobal.com/Public/Release/ReleaseDates",
+    "all_day": false
+  },
+  {
+    "uid": "pmi-industrial-2026-12@calendario-economico",
+    "tag": "PMI",
+    "summary": "PMI Industrial Brasil – dezembro/2026",
+    "description": "PMI Industrial Brasil, referência dezembro/2026. Data estimada pela regra publicada pela S&P Global: PMI industrial no 1º dia útil do mês e PMI de serviços no 3º dia útil, por volta das 10:00 em Brasília (13:00 UTC). O calendário oficial não listou este mês. A conta de dia útil pula fim de semana e feriado nacional (inclui carnaval, sexta-feira santa e Corpus Christi); a S&P pode não observar algum desses feriados.\nFonte da regra: https://www.pmi.spglobal.com/Public/Release/ReleaseDates",
+    "start": "2027-01-04T10:00:00-03:00",
+    "end": "2027-01-04T10:30:00-03:00",
+    "url": "https://www.pmi.spglobal.com/Public/Release/ReleaseDates",
+    "all_day": false
+  },
+  {
+    "uid": "pmi-servicos-2026-12@calendario-economico",
+    "tag": "PMI",
+    "summary": "PMI de Serviços Brasil – dezembro/2026",
+    "description": "PMI de Serviços Brasil, referência dezembro/2026. Data estimada pela regra publicada pela S&P Global: PMI industrial no 1º dia útil do mês e PMI de serviços no 3º dia útil, por volta das 10:00 em Brasília (13:00 UTC). O calendário oficial não listou este mês. A conta de dia útil pula fim de semana e feriado nacional (inclui carnaval, sexta-feira santa e Corpus Christi); a S&P pode não observar algum desses feriados.\nFonte da regra: https://www.pmi.spglobal.com/Public/Release/ReleaseDates",
+    "start": "2027-01-06T10:00:00-03:00",
+    "end": "2027-01-06T10:30:00-03:00",
+    "url": "https://www.pmi.spglobal.com/Public/Release/ReleaseDates",
+    "all_day": false
+  },
+  {
+    "uid": "pmi-industrial-2027-01@calendario-economico",
+    "tag": "PMI",
+    "summary": "PMI Industrial Brasil – janeiro/2027",
+    "description": "PMI Industrial Brasil, referência janeiro/2027. Data estimada pela regra publicada pela S&P Global: PMI industrial no 1º dia útil do mês e PMI de serviços no 3º dia útil, por volta das 10:00 em Brasília (13:00 UTC). O calendário oficial não listou este mês. A conta de dia útil pula fim de semana e feriado nacional (inclui carnaval, sexta-feira santa e Corpus Christi); a S&P pode não observar algum desses feriados.\nFonte da regra: https://www.pmi.spglobal.com/Public/Release/ReleaseDates",
+    "start": "2027-02-01T10:00:00-03:00",
+    "end": "2027-02-01T10:30:00-03:00",
+    "url": "https://www.pmi.spglobal.com/Public/Release/ReleaseDates",
+    "all_day": false
+  },
+  {
+    "uid": "pmi-servicos-2027-01@calendario-economico",
+    "tag": "PMI",
+    "summary": "PMI de Serviços Brasil – janeiro/2027",
+    "description": "PMI de Serviços Brasil, referência janeiro/2027. Data estimada pela regra publicada pela S&P Global: PMI industrial no 1º dia útil do mês e PMI de serviços no 3º dia útil, por volta das 10:00 em Brasília (13:00 UTC). O calendário oficial não listou este mês. A conta de dia útil pula fim de semana e feriado nacional (inclui carnaval, sexta-feira santa e Corpus Christi); a S&P pode não observar algum desses feriados.\nFonte da regra: https://www.pmi.spglobal.com/Public/Release/ReleaseDates",
+    "start": "2027-02-03T10:00:00-03:00",
+    "end": "2027-02-03T10:30:00-03:00",
+    "url": "https://www.pmi.spglobal.com/Public/Release/ReleaseDates",
+    "all_day": false
+  },
+  {
+    "uid": "pmi-industrial-2027-02@calendario-economico",
+    "tag": "PMI",
+    "summary": "PMI Industrial Brasil – fevereiro/2027",
+    "description": "PMI Industrial Brasil, referência fevereiro/2027. Data estimada pela regra publicada pela S&P Global: PMI industrial no 1º dia útil do mês e PMI de serviços no 3º dia útil, por volta das 10:00 em Brasília (13:00 UTC). O calendário oficial não listou este mês. A conta de dia útil pula fim de semana e feriado nacional (inclui carnaval, sexta-feira santa e Corpus Christi); a S&P pode não observar algum desses feriados.\nFonte da regra: https://www.pmi.spglobal.com/Public/Release/ReleaseDates",
+    "start": "2027-03-01T10:00:00-03:00",
+    "end": "2027-03-01T10:30:00-03:00",
+    "url": "https://www.pmi.spglobal.com/Public/Release/ReleaseDates",
+    "all_day": false
+  },
+  {
+    "uid": "pmi-servicos-2027-02@calendario-economico",
+    "tag": "PMI",
+    "summary": "PMI de Serviços Brasil – fevereiro/2027",
+    "description": "PMI de Serviços Brasil, referência fevereiro/2027. Data estimada pela regra publicada pela S&P Global: PMI industrial no 1º dia útil do mês e PMI de serviços no 3º dia útil, por volta das 10:00 em Brasília (13:00 UTC). O calendário oficial não listou este mês. A conta de dia útil pula fim de semana e feriado nacional (inclui carnaval, sexta-feira santa e Corpus Christi); a S&P pode não observar algum desses feriados.\nFonte da regra: https://www.pmi.spglobal.com/Public/Release/ReleaseDates",
+    "start": "2027-03-03T10:00:00-03:00",
+    "end": "2027-03-03T10:30:00-03:00",
+    "url": "https://www.pmi.spglobal.com/Public/Release/ReleaseDates",
+    "all_day": false
+  },
+  {
+    "uid": "pmi-industrial-2027-03@calendario-economico",
+    "tag": "PMI",
+    "summary": "PMI Industrial Brasil – março/2027",
+    "description": "PMI Industrial Brasil, referência março/2027. Data estimada pela regra publicada pela S&P Global: PMI industrial no 1º dia útil do mês e PMI de serviços no 3º dia útil, por volta das 10:00 em Brasília (13:00 UTC). O calendário oficial não listou este mês. A conta de dia útil pula fim de semana e feriado nacional (inclui carnaval, sexta-feira santa e Corpus Christi); a S&P pode não observar algum desses feriados.\nFonte da regra: https://www.pmi.spglobal.com/Public/Release/ReleaseDates",
+    "start": "2027-04-01T10:00:00-03:00",
+    "end": "2027-04-01T10:30:00-03:00",
+    "url": "https://www.pmi.spglobal.com/Public/Release/ReleaseDates",
+    "all_day": false
+  },
+  {
+    "uid": "pmi-servicos-2027-03@calendario-economico",
+    "tag": "PMI",
+    "summary": "PMI de Serviços Brasil – março/2027",
+    "description": "PMI de Serviços Brasil, referência março/2027. Data estimada pela regra publicada pela S&P Global: PMI industrial no 1º dia útil do mês e PMI de serviços no 3º dia útil, por volta das 10:00 em Brasília (13:00 UTC). O calendário oficial não listou este mês. A conta de dia útil pula fim de semana e feriado nacional (inclui carnaval, sexta-feira santa e Corpus Christi); a S&P pode não observar algum desses feriados.\nFonte da regra: https://www.pmi.spglobal.com/Public/Release/ReleaseDates",
+    "start": "2027-04-05T10:00:00-03:00",
+    "end": "2027-04-05T10:30:00-03:00",
+    "url": "https://www.pmi.spglobal.com/Public/Release/ReleaseDates",
+    "all_day": false
+  },
+  {
+    "uid": "pmi-industrial-2027-04@calendario-economico",
+    "tag": "PMI",
+    "summary": "PMI Industrial Brasil – abril/2027",
+    "description": "PMI Industrial Brasil, referência abril/2027. Data estimada pela regra publicada pela S&P Global: PMI industrial no 1º dia útil do mês e PMI de serviços no 3º dia útil, por volta das 10:00 em Brasília (13:00 UTC). O calendário oficial não listou este mês. A conta de dia útil pula fim de semana e feriado nacional (inclui carnaval, sexta-feira santa e Corpus Christi); a S&P pode não observar algum desses feriados.\nFonte da regra: https://www.pmi.spglobal.com/Public/Release/ReleaseDates",
+    "start": "2027-05-03T10:00:00-03:00",
+    "end": "2027-05-03T10:30:00-03:00",
+    "url": "https://www.pmi.spglobal.com/Public/Release/ReleaseDates",
+    "all_day": false
+  },
+  {
+    "uid": "pmi-servicos-2027-04@calendario-economico",
+    "tag": "PMI",
+    "summary": "PMI de Serviços Brasil – abril/2027",
+    "description": "PMI de Serviços Brasil, referência abril/2027. Data estimada pela regra publicada pela S&P Global: PMI industrial no 1º dia útil do mês e PMI de serviços no 3º dia útil, por volta das 10:00 em Brasília (13:00 UTC). O calendário oficial não listou este mês. A conta de dia útil pula fim de semana e feriado nacional (inclui carnaval, sexta-feira santa e Corpus Christi); a S&P pode não observar algum desses feriados.\nFonte da regra: https://www.pmi.spglobal.com/Public/Release/ReleaseDates",
+    "start": "2027-05-05T10:00:00-03:00",
+    "end": "2027-05-05T10:30:00-03:00",
+    "url": "https://www.pmi.spglobal.com/Public/Release/ReleaseDates",
+    "all_day": false
+  },
+  {
+    "uid": "pmi-industrial-2027-05@calendario-economico",
+    "tag": "PMI",
+    "summary": "PMI Industrial Brasil – maio/2027",
+    "description": "PMI Industrial Brasil, referência maio/2027. Data estimada pela regra publicada pela S&P Global: PMI industrial no 1º dia útil do mês e PMI de serviços no 3º dia útil, por volta das 10:00 em Brasília (13:00 UTC). O calendário oficial não listou este mês. A conta de dia útil pula fim de semana e feriado nacional (inclui carnaval, sexta-feira santa e Corpus Christi); a S&P pode não observar algum desses feriados.\nFonte da regra: https://www.pmi.spglobal.com/Public/Release/ReleaseDates",
+    "start": "2027-06-01T10:00:00-03:00",
+    "end": "2027-06-01T10:30:00-03:00",
+    "url": "https://www.pmi.spglobal.com/Public/Release/ReleaseDates",
+    "all_day": false
+  },
+  {
+    "uid": "pmi-servicos-2027-05@calendario-economico",
+    "tag": "PMI",
+    "summary": "PMI de Serviços Brasil – maio/2027",
+    "description": "PMI de Serviços Brasil, referência maio/2027. Data estimada pela regra publicada pela S&P Global: PMI industrial no 1º dia útil do mês e PMI de serviços no 3º dia útil, por volta das 10:00 em Brasília (13:00 UTC). O calendário oficial não listou este mês. A conta de dia útil pula fim de semana e feriado nacional (inclui carnaval, sexta-feira santa e Corpus Christi); a S&P pode não observar algum desses feriados.\nFonte da regra: https://www.pmi.spglobal.com/Public/Release/ReleaseDates",
+    "start": "2027-06-03T10:00:00-03:00",
+    "end": "2027-06-03T10:30:00-03:00",
+    "url": "https://www.pmi.spglobal.com/Public/Release/ReleaseDates",
+    "all_day": false
+  },
+  {
+    "uid": "pmi-industrial-2027-06@calendario-economico",
+    "tag": "PMI",
+    "summary": "PMI Industrial Brasil – junho/2027",
+    "description": "PMI Industrial Brasil, referência junho/2027. Data estimada pela regra publicada pela S&P Global: PMI industrial no 1º dia útil do mês e PMI de serviços no 3º dia útil, por volta das 10:00 em Brasília (13:00 UTC). O calendário oficial não listou este mês. A conta de dia útil pula fim de semana e feriado nacional (inclui carnaval, sexta-feira santa e Corpus Christi); a S&P pode não observar algum desses feriados.\nFonte da regra: https://www.pmi.spglobal.com/Public/Release/ReleaseDates",
+    "start": "2027-07-01T10:00:00-03:00",
+    "end": "2027-07-01T10:30:00-03:00",
+    "url": "https://www.pmi.spglobal.com/Public/Release/ReleaseDates",
+    "all_day": false
+  },
+  {
+    "uid": "pmi-servicos-2027-06@calendario-economico",
+    "tag": "PMI",
+    "summary": "PMI de Serviços Brasil – junho/2027",
+    "description": "PMI de Serviços Brasil, referência junho/2027. Data estimada pela regra publicada pela S&P Global: PMI industrial no 1º dia útil do mês e PMI de serviços no 3º dia útil, por volta das 10:00 em Brasília (13:00 UTC). O calendário oficial não listou este mês. A conta de dia útil pula fim de semana e feriado nacional (inclui carnaval, sexta-feira santa e Corpus Christi); a S&P pode não observar algum desses feriados.\nFonte da regra: https://www.pmi.spglobal.com/Public/Release/ReleaseDates",
+    "start": "2027-07-05T10:00:00-03:00",
+    "end": "2027-07-05T10:30:00-03:00",
+    "url": "https://www.pmi.spglobal.com/Public/Release/ReleaseDates",
+    "all_day": false
+  },
+  {
+    "uid": "pmi-industrial-2027-07@calendario-economico",
+    "tag": "PMI",
+    "summary": "PMI Industrial Brasil – julho/2027",
+    "description": "PMI Industrial Brasil, referência julho/2027. Data estimada pela regra publicada pela S&P Global: PMI industrial no 1º dia útil do mês e PMI de serviços no 3º dia útil, por volta das 10:00 em Brasília (13:00 UTC). O calendário oficial não listou este mês. A conta de dia útil pula fim de semana e feriado nacional (inclui carnaval, sexta-feira santa e Corpus Christi); a S&P pode não observar algum desses feriados.\nFonte da regra: https://www.pmi.spglobal.com/Public/Release/ReleaseDates",
+    "start": "2027-08-02T10:00:00-03:00",
+    "end": "2027-08-02T10:30:00-03:00",
+    "url": "https://www.pmi.spglobal.com/Public/Release/ReleaseDates",
+    "all_day": false
+  },
+  {
+    "uid": "pmi-servicos-2027-07@calendario-economico",
+    "tag": "PMI",
+    "summary": "PMI de Serviços Brasil – julho/2027",
+    "description": "PMI de Serviços Brasil, referência julho/2027. Data estimada pela regra publicada pela S&P Global: PMI industrial no 1º dia útil do mês e PMI de serviços no 3º dia útil, por volta das 10:00 em Brasília (13:00 UTC). O calendário oficial não listou este mês. A conta de dia útil pula fim de semana e feriado nacional (inclui carnaval, sexta-feira santa e Corpus Christi); a S&P pode não observar algum desses feriados.\nFonte da regra: https://www.pmi.spglobal.com/Public/Release/ReleaseDates",
+    "start": "2027-08-04T10:00:00-03:00",
+    "end": "2027-08-04T10:30:00-03:00",
+    "url": "https://www.pmi.spglobal.com/Public/Release/ReleaseDates",
+    "all_day": false
+  },
+  {
+    "uid": "pmi-industrial-2027-08@calendario-economico",
+    "tag": "PMI",
+    "summary": "PMI Industrial Brasil – agosto/2027",
+    "description": "PMI Industrial Brasil, referência agosto/2027. Data estimada pela regra publicada pela S&P Global: PMI industrial no 1º dia útil do mês e PMI de serviços no 3º dia útil, por volta das 10:00 em Brasília (13:00 UTC). O calendário oficial não listou este mês. A conta de dia útil pula fim de semana e feriado nacional (inclui carnaval, sexta-feira santa e Corpus Christi); a S&P pode não observar algum desses feriados.\nFonte da regra: https://www.pmi.spglobal.com/Public/Release/ReleaseDates",
+    "start": "2027-09-01T10:00:00-03:00",
+    "end": "2027-09-01T10:30:00-03:00",
+    "url": "https://www.pmi.spglobal.com/Public/Release/ReleaseDates",
+    "all_day": false
+  },
+  {
+    "uid": "pmi-servicos-2027-08@calendario-economico",
+    "tag": "PMI",
+    "summary": "PMI de Serviços Brasil – agosto/2027",
+    "description": "PMI de Serviços Brasil, referência agosto/2027. Data estimada pela regra publicada pela S&P Global: PMI industrial no 1º dia útil do mês e PMI de serviços no 3º dia útil, por volta das 10:00 em Brasília (13:00 UTC). O calendário oficial não listou este mês. A conta de dia útil pula fim de semana e feriado nacional (inclui carnaval, sexta-feira santa e Corpus Christi); a S&P pode não observar algum desses feriados.\nFonte da regra: https://www.pmi.spglobal.com/Public/Release/ReleaseDates",
+    "start": "2027-09-03T10:00:00-03:00",
+    "end": "2027-09-03T10:30:00-03:00",
+    "url": "https://www.pmi.spglobal.com/Public/Release/ReleaseDates",
+    "all_day": false
+  },
+  {
+    "uid": "pmi-industrial-2027-09@calendario-economico",
+    "tag": "PMI",
+    "summary": "PMI Industrial Brasil – setembro/2027",
+    "description": "PMI Industrial Brasil, referência setembro/2027. Data estimada pela regra publicada pela S&P Global: PMI industrial no 1º dia útil do mês e PMI de serviços no 3º dia útil, por volta das 10:00 em Brasília (13:00 UTC). O calendário oficial não listou este mês. A conta de dia útil pula fim de semana e feriado nacional (inclui carnaval, sexta-feira santa e Corpus Christi); a S&P pode não observar algum desses feriados.\nFonte da regra: https://www.pmi.spglobal.com/Public/Release/ReleaseDates",
+    "start": "2027-10-01T10:00:00-03:00",
+    "end": "2027-10-01T10:30:00-03:00",
+    "url": "https://www.pmi.spglobal.com/Public/Release/ReleaseDates",
+    "all_day": false
+  },
+  {
+    "uid": "pmi-servicos-2027-09@calendario-economico",
+    "tag": "PMI",
+    "summary": "PMI de Serviços Brasil – setembro/2027",
+    "description": "PMI de Serviços Brasil, referência setembro/2027. Data estimada pela regra publicada pela S&P Global: PMI industrial no 1º dia útil do mês e PMI de serviços no 3º dia útil, por volta das 10:00 em Brasília (13:00 UTC). O calendário oficial não listou este mês. A conta de dia útil pula fim de semana e feriado nacional (inclui carnaval, sexta-feira santa e Corpus Christi); a S&P pode não observar algum desses feriados.\nFonte da regra: https://www.pmi.spglobal.com/Public/Release/ReleaseDates",
+    "start": "2027-10-05T10:00:00-03:00",
+    "end": "2027-10-05T10:30:00-03:00",
+    "url": "https://www.pmi.spglobal.com/Public/Release/ReleaseDates",
+    "all_day": false
+  },
+  {
+    "uid": "pmi-industrial-2027-10@calendario-economico",
+    "tag": "PMI",
+    "summary": "PMI Industrial Brasil – outubro/2027",
+    "description": "PMI Industrial Brasil, referência outubro/2027. Data estimada pela regra publicada pela S&P Global: PMI industrial no 1º dia útil do mês e PMI de serviços no 3º dia útil, por volta das 10:00 em Brasília (13:00 UTC). O calendário oficial não listou este mês. A conta de dia útil pula fim de semana e feriado nacional (inclui carnaval, sexta-feira santa e Corpus Christi); a S&P pode não observar algum desses feriados.\nFonte da regra: https://www.pmi.spglobal.com/Public/Release/ReleaseDates",
+    "start": "2027-11-01T10:00:00-03:00",
+    "end": "2027-11-01T10:30:00-03:00",
+    "url": "https://www.pmi.spglobal.com/Public/Release/ReleaseDates",
+    "all_day": false
+  },
+  {
+    "uid": "pmi-servicos-2027-10@calendario-economico",
+    "tag": "PMI",
+    "summary": "PMI de Serviços Brasil – outubro/2027",
+    "description": "PMI de Serviços Brasil, referência outubro/2027. Data estimada pela regra publicada pela S&P Global: PMI industrial no 1º dia útil do mês e PMI de serviços no 3º dia útil, por volta das 10:00 em Brasília (13:00 UTC). O calendário oficial não listou este mês. A conta de dia útil pula fim de semana e feriado nacional (inclui carnaval, sexta-feira santa e Corpus Christi); a S&P pode não observar algum desses feriados.\nFonte da regra: https://www.pmi.spglobal.com/Public/Release/ReleaseDates",
+    "start": "2027-11-04T10:00:00-03:00",
+    "end": "2027-11-04T10:30:00-03:00",
+    "url": "https://www.pmi.spglobal.com/Public/Release/ReleaseDates",
+    "all_day": false
+  },
+  {
+    "uid": "pmi-industrial-2027-11@calendario-economico",
+    "tag": "PMI",
+    "summary": "PMI Industrial Brasil – novembro/2027",
+    "description": "PMI Industrial Brasil, referência novembro/2027. Data estimada pela regra publicada pela S&P Global: PMI industrial no 1º dia útil do mês e PMI de serviços no 3º dia útil, por volta das 10:00 em Brasília (13:00 UTC). O calendário oficial não listou este mês. A conta de dia útil pula fim de semana e feriado nacional (inclui carnaval, sexta-feira santa e Corpus Christi); a S&P pode não observar algum desses feriados.\nFonte da regra: https://www.pmi.spglobal.com/Public/Release/ReleaseDates",
+    "start": "2027-12-01T10:00:00-03:00",
+    "end": "2027-12-01T10:30:00-03:00",
+    "url": "https://www.pmi.spglobal.com/Public/Release/ReleaseDates",
+    "all_day": false
+  },
+  {
+    "uid": "pmi-servicos-2027-11@calendario-economico",
+    "tag": "PMI",
+    "summary": "PMI de Serviços Brasil – novembro/2027",
+    "description": "PMI de Serviços Brasil, referência novembro/2027. Data estimada pela regra publicada pela S&P Global: PMI industrial no 1º dia útil do mês e PMI de serviços no 3º dia útil, por volta das 10:00 em Brasília (13:00 UTC). O calendário oficial não listou este mês. A conta de dia útil pula fim de semana e feriado nacional (inclui carnaval, sexta-feira santa e Corpus Christi); a S&P pode não observar algum desses feriados.\nFonte da regra: https://www.pmi.spglobal.com/Public/Release/ReleaseDates",
+    "start": "2027-12-03T10:00:00-03:00",
+    "end": "2027-12-03T10:30:00-03:00",
+    "url": "https://www.pmi.spglobal.com/Public/Release/ReleaseDates",
+    "all_day": false
+  },
+  {
+    "uid": "pmi-industrial-2027-12@calendario-economico",
+    "tag": "PMI",
+    "summary": "PMI Industrial Brasil – dezembro/2027",
+    "description": "PMI Industrial Brasil, referência dezembro/2027. Data estimada pela regra publicada pela S&P Global: PMI industrial no 1º dia útil do mês e PMI de serviços no 3º dia útil, por volta das 10:00 em Brasília (13:00 UTC). O calendário oficial não listou este mês. A conta de dia útil pula fim de semana e feriado nacional (inclui carnaval, sexta-feira santa e Corpus Christi); a S&P pode não observar algum desses feriados.\nFonte da regra: https://www.pmi.spglobal.com/Public/Release/ReleaseDates",
+    "start": "2028-01-03T10:00:00-03:00",
+    "end": "2028-01-03T10:30:00-03:00",
+    "url": "https://www.pmi.spglobal.com/Public/Release/ReleaseDates",
+    "all_day": false
+  },
+  {
+    "uid": "pmi-servicos-2027-12@calendario-economico",
+    "tag": "PMI",
+    "summary": "PMI de Serviços Brasil – dezembro/2027",
+    "description": "PMI de Serviços Brasil, referência dezembro/2027. Data estimada pela regra publicada pela S&P Global: PMI industrial no 1º dia útil do mês e PMI de serviços no 3º dia útil, por volta das 10:00 em Brasília (13:00 UTC). O calendário oficial não listou este mês. A conta de dia útil pula fim de semana e feriado nacional (inclui carnaval, sexta-feira santa e Corpus Christi); a S&P pode não observar algum desses feriados.\nFonte da regra: https://www.pmi.spglobal.com/Public/Release/ReleaseDates",
+    "start": "2028-01-05T10:00:00-03:00",
+    "end": "2028-01-05T10:30:00-03:00",
+    "url": "https://www.pmi.spglobal.com/Public/Release/ReleaseDates",
+    "all_day": false
+  }
+]

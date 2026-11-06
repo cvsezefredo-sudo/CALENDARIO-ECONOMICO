@@ -1,0 +1,2362 @@
+[
+  {
+    "uid": "ibge-4365@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Pesquisas Trimestrais do Abate de Animais, do Leite, do Couro e da Produção de O – 4º trimestre/2026",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisas Trimestrais do Abate de Animais, do Leite, do Couro e da Produção de Ovos de Galinha.\nReferência: 4º trimestre/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/19111",
+    "start": "2027-03-23T09:00:00-03:00",
+    "end": "2027-03-23T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/19111",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4364@calendario-economico",
+    "tag": "IBGE",
+    "summary": "PIB trimestral – 4º trimestre/2026",
+    "description": "Divulgação de Indicadores do IBGE: Sistema de Contas Nacionais Trimestrais.\nReferência: 4º trimestre/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9300",
+    "start": "2027-03-02T09:00:00-03:00",
+    "end": "2027-03-02T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9300",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4363@calendario-economico",
+    "tag": "IBGE",
+    "summary": "PNAD Contínua (trimestral) – 4º trimestre/2026",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisa Nacional por Amostra de Domicílios Contínua Trimestral.\nReferência: 4º trimestre/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9173",
+    "start": "2027-02-19T09:00:00-03:00",
+    "end": "2027-02-19T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9173",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4362@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Pesquisas Trimestrais do Abate de Animais, do Leite, do Couro e da Produção de O – 4º trimestre/2026",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisas Trimestrais do Abate de Animais, do Leite, do Couro e da Produção de Ovos de Galinha: Primeiros resultados.\nReferência: 4º trimestre/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/19120",
+    "start": "2027-02-19T09:00:00-03:00",
+    "end": "2027-02-19T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/19120",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4361@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Vendas no varejo (PMC) – dezembro/2026",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisa Mensal de Comércio.\nReferência: dezembro/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9227",
+    "start": "2027-02-17T09:00:00-03:00",
+    "end": "2027-02-17T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9227",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4360@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Volume de serviços (PMS) – dezembro/2026",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisa Mensal de Serviços.\nReferência: dezembro/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9229",
+    "start": "2027-02-16T09:00:00-03:00",
+    "end": "2027-02-16T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9229",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4359@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Produção industrial regional (PIM) – dezembro/2026",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisa Industrial Mensal: Produção Física - Regional.\nReferência: dezembro/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9296",
+    "start": "2027-02-12T09:00:00-03:00",
+    "end": "2027-02-12T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9296",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4358@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Produção industrial (PIM) – dezembro/2026",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisa Industrial Mensal: Produção Física - Brasil.\nReferência: dezembro/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9294",
+    "start": "2027-02-03T09:00:00-03:00",
+    "end": "2027-02-03T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9294",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4357@calendario-economico",
+    "tag": "IBGE",
+    "summary": "PNAD Contínua – dezembro/2026",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisa Nacional por Amostra de Domicílios Contínua Mensal.\nReferência: dezembro/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9171",
+    "start": "2027-01-29T09:00:00-03:00",
+    "end": "2027-01-29T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9171",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4356@calendario-economico",
+    "tag": "IBGE",
+    "summary": "IPP – dezembro/2026",
+    "description": "Divulgação de Indicadores do IBGE: Índice de Preços ao Produtor - Indústrias Extrativas e de Transformação.\nReferência: dezembro/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9282",
+    "start": "2027-01-28T09:00:00-03:00",
+    "end": "2027-01-28T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9282",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4355@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Vendas no varejo (PMC) – novembro/2026",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisa Mensal de Comércio.\nReferência: novembro/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9227",
+    "start": "2027-01-15T09:00:00-03:00",
+    "end": "2027-01-15T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9227",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4354@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Produção industrial regional (PIM) – novembro/2026",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisa Industrial Mensal: Produção Física - Regional.\nReferência: novembro/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9296",
+    "start": "2027-01-15T09:00:00-03:00",
+    "end": "2027-01-15T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9296",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4353@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Prognóstico da Safra (3º prognóstico) – 2027",
+    "description": "Divulgação de Indicadores do IBGE: Prognóstico da Safra (3º prognóstico).\nReferência: 2027.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/19068",
+    "start": "2027-01-14T09:00:00-03:00",
+    "end": "2027-01-14T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/19068",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4352@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Levantamento Sistemático da Produção Agrícola – dezembro/2026",
+    "description": "Divulgação de Indicadores do IBGE: Levantamento Sistemático da Produção Agrícola.\nReferência: dezembro/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9201",
+    "start": "2027-01-14T09:00:00-03:00",
+    "end": "2027-01-14T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9201",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4351@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Volume de serviços (PMS) – novembro/2026",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisa Mensal de Serviços.\nReferência: novembro/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9229",
+    "start": "2027-01-13T09:00:00-03:00",
+    "end": "2027-01-13T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9229",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4350@calendario-economico",
+    "tag": "IBGE",
+    "summary": "SINAPI – dezembro/2026",
+    "description": "Divulgação de Indicadores do IBGE: Sistema Nacional de Pesquisa de Custos e Índices da Construção Civil.\nReferência: dezembro/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9270",
+    "start": "2027-01-12T09:00:00-03:00",
+    "end": "2027-01-12T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9270",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4349@calendario-economico",
+    "tag": "IBGE",
+    "summary": "IPCA – dezembro/2026",
+    "description": "Divulgação de Indicadores do IBGE: Índice Nacional de Preços ao Consumidor Amplo.\nReferência: dezembro/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9256",
+    "start": "2027-01-12T09:00:00-03:00",
+    "end": "2027-01-12T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9256",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4348@calendario-economico",
+    "tag": "IBGE",
+    "summary": "INPC – dezembro/2026",
+    "description": "Divulgação de Indicadores do IBGE: Índice Nacional de Preços ao Consumidor.\nReferência: dezembro/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9258",
+    "start": "2027-01-12T09:00:00-03:00",
+    "end": "2027-01-12T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9258",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4347@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Produção industrial (PIM) – novembro/2026",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisa Industrial Mensal: Produção Física - Brasil.\nReferência: novembro/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9294",
+    "start": "2027-01-07T09:00:00-03:00",
+    "end": "2027-01-07T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9294",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4346@calendario-economico",
+    "tag": "IBGE",
+    "summary": "IPP – novembro/2026",
+    "description": "Divulgação de Indicadores do IBGE: Índice de Preços ao Produtor - Indústrias Extrativas e de Transformação.\nReferência: novembro/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9282",
+    "start": "2027-01-06T09:00:00-03:00",
+    "end": "2027-01-06T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9282",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4345@calendario-economico",
+    "tag": "IBGE",
+    "summary": "PNAD Contínua – novembro/2026",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisa Nacional por Amostra de Domicílios Contínua Mensal.\nReferência: novembro/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9171",
+    "start": "2026-12-29T09:00:00-03:00",
+    "end": "2026-12-29T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9171",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4344@calendario-economico",
+    "tag": "IBGE",
+    "summary": "IPCA-E – 4º trimestre/2026",
+    "description": "Divulgação de Indicadores do IBGE: Índice Nacional de Preços ao Consumidor Amplo Especial.\nReferência: 4º trimestre/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9262",
+    "start": "2026-12-23T09:00:00-03:00",
+    "end": "2026-12-23T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9262",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4343@calendario-economico",
+    "tag": "IBGE",
+    "summary": "IPCA-15 – dezembro/2026",
+    "description": "Divulgação de Indicadores do IBGE: Índice Nacional de Preços ao Consumidor Amplo 15.\nReferência: dezembro/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9260",
+    "start": "2026-12-23T09:00:00-03:00",
+    "end": "2026-12-23T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9260",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4585@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Pesquisa Nacional de Demografia e Saúde: Características gerais, acesso e utiliz – 2023",
+    "description": "Estudos e Pesquisas Estruturais e Especiais do IBGE: Pesquisa Nacional de Demografia e Saúde: Características gerais, acesso e utilização ao serviço de saúde e violência contra a mulher.\nReferência: 2023.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/",
+    "start": "2026-12-18T10:00:00-03:00",
+    "end": "2026-12-18T10:30:00-03:00",
+    "url": "https://www.ibge.gov.br/comunicados/48471",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4577@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Pesquisa Nacional por Amostra de Domicílios Contínua: Outras formas de trabalho – 2025",
+    "description": "Estudos e Pesquisas Estruturais e Especiais do IBGE: Pesquisa Nacional por Amostra de Domicílios Contínua: Outras formas de trabalho.\nReferência: 2025.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/17270",
+    "start": "2026-12-16T10:00:00-03:00",
+    "end": "2026-12-16T10:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/17270",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4342@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Prognóstico da Safra (2º prognóstico) – 2027",
+    "description": "Divulgação de Indicadores do IBGE: Prognóstico da Safra (2º prognóstico).\nReferência: 2027.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/19068",
+    "start": "2026-12-15T09:00:00-03:00",
+    "end": "2026-12-15T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/19068",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4341@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Levantamento Sistemático da Produção Agrícola – novembro/2026",
+    "description": "Divulgação de Indicadores do IBGE: Levantamento Sistemático da Produção Agrícola.\nReferência: novembro/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9201",
+    "start": "2026-12-15T09:00:00-03:00",
+    "end": "2026-12-15T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9201",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4340@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Pesquisas Trimestrais do Abate de Animais, do Leite, do Couro e da Produção de O – 3º trimestre/2026",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisas Trimestrais do Abate de Animais, do Leite, do Couro e da Produção de Ovos de Galinha.\nReferência: 3º trimestre/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/19111",
+    "start": "2026-12-15T09:00:00-03:00",
+    "end": "2026-12-15T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/19111",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4339@calendario-economico",
+    "tag": "IBGE",
+    "summary": "SINAPI – novembro/2026",
+    "description": "Divulgação de Indicadores do IBGE: Sistema Nacional de Pesquisa de Custos e Índices da Construção Civil.\nReferência: novembro/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9270",
+    "start": "2026-12-11T09:00:00-03:00",
+    "end": "2026-12-11T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9270",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4338@calendario-economico",
+    "tag": "IBGE",
+    "summary": "IPCA – novembro/2026",
+    "description": "Divulgação de Indicadores do IBGE: Índice Nacional de Preços ao Consumidor Amplo.\nReferência: novembro/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9256",
+    "start": "2026-12-11T09:00:00-03:00",
+    "end": "2026-12-11T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9256",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4337@calendario-economico",
+    "tag": "IBGE",
+    "summary": "INPC – novembro/2026",
+    "description": "Divulgação de Indicadores do IBGE: Índice Nacional de Preços ao Consumidor.\nReferência: novembro/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9258",
+    "start": "2026-12-11T09:00:00-03:00",
+    "end": "2026-12-11T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9258",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4336@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Volume de serviços (PMS) – outubro/2026",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisa Mensal de Serviços.\nReferência: outubro/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9229",
+    "start": "2026-12-10T09:00:00-03:00",
+    "end": "2026-12-10T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9229",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4578@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Estatísticas do Registro Civil – 2025",
+    "description": "Estudos e Pesquisas Estruturais e Especiais do IBGE: Estatísticas do Registro Civil.\nReferência: 2025.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9110",
+    "start": "2026-12-09T10:00:00-03:00",
+    "end": "2026-12-09T10:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9110",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4335@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Produção industrial regional (PIM) – outubro/2026",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisa Industrial Mensal: Produção Física - Regional.\nReferência: outubro/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9296",
+    "start": "2026-12-09T09:00:00-03:00",
+    "end": "2026-12-09T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9296",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4334@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Vendas no varejo (PMC) – outubro/2026",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisa Mensal de Comércio.\nReferência: outubro/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9227",
+    "start": "2026-12-08T09:00:00-03:00",
+    "end": "2026-12-08T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9227",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4584@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Censo Demográfico 2022: Localidades indígenas: Características socioorganizativa – 2022",
+    "description": "Estudos e Pesquisas Estruturais e Especiais do IBGE: Censo Demográfico 2022: Localidades indígenas: Características socioorganizativas, acesso a infraestrutura e hábitos e práticas comunitárias.\nReferência: 2022.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/22827",
+    "start": "2026-12-07T10:00:00-03:00",
+    "end": "2026-12-07T10:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/22827",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4333@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Produção industrial (PIM) – outubro/2026",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisa Industrial Mensal: Produção Física - Brasil.\nReferência: outubro/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9294",
+    "start": "2026-12-03T09:00:00-03:00",
+    "end": "2026-12-03T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9294",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4332@calendario-economico",
+    "tag": "IBGE",
+    "summary": "PIB trimestral – 3º trimestre/2026",
+    "description": "Divulgação de Indicadores do IBGE: Sistema de Contas Nacionais Trimestrais.\nReferência: 3º trimestre/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9300",
+    "start": "2026-12-02T09:00:00-03:00",
+    "end": "2026-12-02T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9300",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4579@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Pesquisa de Orçamentos Familiares - 2024-2025 - Primeiros resultados",
+    "description": "Estudos e Pesquisas Estruturais e Especiais do IBGE: Pesquisa de Orçamentos Familiares - 2024-2025 - Primeiros resultados.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/",
+    "start": "2026-11-27T10:00:00-03:00",
+    "end": "2026-11-27T10:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4331@calendario-economico",
+    "tag": "IBGE",
+    "summary": "PNAD Contínua – outubro/2026",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisa Nacional por Amostra de Domicílios Contínua Mensal.\nReferência: outubro/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9171",
+    "start": "2026-11-27T09:00:00-03:00",
+    "end": "2026-11-27T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9171",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4574@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Estatísticas de Finanças Públicas e Conta Intermediária de Governo: Brasil – 2025",
+    "description": "Estudos e Pesquisas Estruturais e Especiais do IBGE: Estatísticas de Finanças Públicas e Conta Intermediária de Governo: Brasil.\nReferência: 2025.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9083",
+    "start": "2026-11-26T10:00:00-03:00",
+    "end": "2026-11-26T10:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9083",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4330@calendario-economico",
+    "tag": "IBGE",
+    "summary": "IPCA-15 – novembro/2026",
+    "description": "Divulgação de Indicadores do IBGE: Índice Nacional de Preços ao Consumidor Amplo 15.\nReferência: novembro/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9260",
+    "start": "2026-11-26T09:00:00-03:00",
+    "end": "2026-11-26T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9260",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4329@calendario-economico",
+    "tag": "IBGE",
+    "summary": "IPP – outubro/2026",
+    "description": "Divulgação de Indicadores do IBGE: Índice de Preços ao Produtor - Indústrias Extrativas e de Transformação.\nReferência: outubro/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9282",
+    "start": "2026-11-26T09:00:00-03:00",
+    "end": "2026-11-26T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9282",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4575@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Pesquisa Nacional de Saneamento Básico 2024 - Limpeza Urbana e Manejo de Resíduo – 2024",
+    "description": "Estudos e Pesquisas Estruturais e Especiais do IBGE: Pesquisa Nacional de Saneamento Básico 2024 - Limpeza Urbana e Manejo de Resíduos Sólidos e Drenagem e Manejo de Águas Pluviais.\nReferência: 2024.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9073",
+    "start": "2026-11-25T10:00:00-03:00",
+    "end": "2026-11-25T10:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9073",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4328@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Pesquisas Trimestrais do Abate de Animais, do Leite, do Couro e da Produção de O – 3º trimestre/2026",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisas Trimestrais do Abate de Animais, do Leite, do Couro e da Produção de Ovos de Galinha: Primeiros resultados.\nReferência: 3º trimestre/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/19120",
+    "start": "2026-11-19T09:00:00-03:00",
+    "end": "2026-11-19T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/19120",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4576@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Desigualdades Sociais por Cor ou Raça - 3ª edição",
+    "description": "Estudos e Pesquisas Estruturais e Especiais do IBGE: Desigualdades Sociais por Cor ou Raça - 3ª edição.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/25844",
+    "start": "2026-11-18T10:00:00-03:00",
+    "end": "2026-11-18T10:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/25844",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4327@calendario-economico",
+    "tag": "IBGE",
+    "summary": "PNAD Contínua (trimestral) – 3º trimestre/2026",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisa Nacional por Amostra de Domicílios Contínua Trimestral.\nReferência: 3º trimestre/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9173",
+    "start": "2026-11-18T09:00:00-03:00",
+    "end": "2026-11-18T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9173",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4583@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Sistema de Contas Regionais: Brasil – 2024",
+    "description": "Estudos e Pesquisas Estruturais e Especiais do IBGE: Sistema de Contas Regionais: Brasil.\nReferência: 2024.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9054",
+    "start": "2026-11-13T10:00:00-03:00",
+    "end": "2026-11-13T10:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9054",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4326@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Pesquisa de Estoques – janeiro/2026 a junho/2026",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisa de Estoques.\nReferência: janeiro/2026 a junho/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9199",
+    "start": "2026-11-13T09:00:00-03:00",
+    "end": "2026-11-13T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9199",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4325@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Prognóstico da Safra (1º prognóstico) – 2027",
+    "description": "Divulgação de Indicadores do IBGE: Prognóstico da Safra (1º prognóstico).\nReferência: 2027.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/19068",
+    "start": "2026-11-13T09:00:00-03:00",
+    "end": "2026-11-13T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/19068",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4324@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Levantamento Sistemático da Produção Agrícola – outubro/2026",
+    "description": "Divulgação de Indicadores do IBGE: Levantamento Sistemático da Produção Agrícola.\nReferência: outubro/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9201",
+    "start": "2026-11-13T09:00:00-03:00",
+    "end": "2026-11-13T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9201",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4323@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Vendas no varejo (PMC) – setembro/2026",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisa Mensal de Comércio.\nReferência: setembro/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9227",
+    "start": "2026-11-13T09:00:00-03:00",
+    "end": "2026-11-13T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9227",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4322@calendario-economico",
+    "tag": "IBGE",
+    "summary": "SINAPI – outubro/2026",
+    "description": "Divulgação de Indicadores do IBGE: Sistema Nacional de Pesquisa de Custos e Índices da Construção Civil.\nReferência: outubro/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9270",
+    "start": "2026-11-12T09:00:00-03:00",
+    "end": "2026-11-12T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9270",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4321@calendario-economico",
+    "tag": "IBGE",
+    "summary": "IPCA – outubro/2026",
+    "description": "Divulgação de Indicadores do IBGE: Índice Nacional de Preços ao Consumidor Amplo.\nReferência: outubro/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9256",
+    "start": "2026-11-12T09:00:00-03:00",
+    "end": "2026-11-12T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9256",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4320@calendario-economico",
+    "tag": "IBGE",
+    "summary": "INPC – outubro/2026",
+    "description": "Divulgação de Indicadores do IBGE: Índice Nacional de Preços ao Consumidor.\nReferência: outubro/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9258",
+    "start": "2026-11-12T09:00:00-03:00",
+    "end": "2026-11-12T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9258",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4582@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Pesquisa de Informações Básicas Estaduais – 2025",
+    "description": "Estudos e Pesquisas Estruturais e Especiais do IBGE: Pesquisa de Informações Básicas Estaduais.\nReferência: 2025.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/16770",
+    "start": "2026-11-11T11:00:00-03:00",
+    "end": "2026-11-11T11:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/16770",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4581@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Pesquisa de Informações Básicas Municipais – 2025",
+    "description": "Estudos e Pesquisas Estruturais e Especiais do IBGE: Pesquisa de Informações Básicas Municipais.\nReferência: 2025.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/10586",
+    "start": "2026-11-11T10:00:00-03:00",
+    "end": "2026-11-11T10:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/10586",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4319@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Volume de serviços (PMS) – setembro/2026",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisa Mensal de Serviços.\nReferência: setembro/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9229",
+    "start": "2026-11-11T09:00:00-03:00",
+    "end": "2026-11-11T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9229",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4318@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Produção industrial regional (PIM) – setembro/2026",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisa Industrial Mensal: Produção Física - Regional.\nReferência: setembro/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9296",
+    "start": "2026-11-11T09:00:00-03:00",
+    "end": "2026-11-11T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9296",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4580@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Sistema de Contas Nacionais: Brasil – 2024",
+    "description": "Estudos e Pesquisas Estruturais e Especiais do IBGE: Sistema de Contas Nacionais: Brasil.\nReferência: 2024.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9052",
+    "start": "2026-11-06T10:00:00-03:00",
+    "end": "2026-11-06T10:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9052",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4317@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Produção industrial (PIM) – setembro/2026",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisa Industrial Mensal: Produção Física - Brasil.\nReferência: setembro/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9294",
+    "start": "2026-11-05T09:00:00-03:00",
+    "end": "2026-11-05T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9294",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4316@calendario-economico",
+    "tag": "IBGE",
+    "summary": "PNAD Contínua – setembro/2026",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisa Nacional por Amostra de Domicílios Contínua Mensal.\nReferência: setembro/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9171",
+    "start": "2026-10-30T09:00:00-03:00",
+    "end": "2026-10-30T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9171",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4566@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Mapa dos Macrocompartimentos de Relevo do Brasil: Primeiro Nível Taxonômico do S",
+    "description": "Produtos da Geociências do IBGE: Mapa dos Macrocompartimentos de Relevo do Brasil: Primeiro Nível Taxonômico do Sistema Brasileiro de Classificação de Relevo - SBCR.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/",
+    "start": "2026-10-29T10:00:00-03:00",
+    "end": "2026-10-29T10:30:00-03:00",
+    "url": "https://www.ibge.gov.br/comunicados/47876",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4315@calendario-economico",
+    "tag": "IBGE",
+    "summary": "IPP – setembro/2026",
+    "description": "Divulgação de Indicadores do IBGE: Índice de Preços ao Produtor - Indústrias Extrativas e de Transformação.\nReferência: setembro/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9282",
+    "start": "2026-10-27T09:00:00-03:00",
+    "end": "2026-10-27T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9282",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4314@calendario-economico",
+    "tag": "IBGE",
+    "summary": "IPCA-15 – outubro/2026",
+    "description": "Divulgação de Indicadores do IBGE: Índice Nacional de Preços ao Consumidor Amplo 15.\nReferência: outubro/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9260",
+    "start": "2026-10-23T09:00:00-03:00",
+    "end": "2026-10-23T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9260",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4573@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Contas Econômicas Ambientais - Contas de Ecossistemas: uma abordagem para Unidad",
+    "description": "Produtos Geocientíficos Experimentais do IBGE: Contas Econômicas Ambientais - Contas de Ecossistemas: uma abordagem para Unidades de Conservação.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/28920",
+    "start": "2026-10-22T10:00:00-03:00",
+    "end": "2026-10-22T10:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/28920",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-3673@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Pesquisa Nacional por Amostra de Domicílios Contínua: Trabalho de Crianças e Ado",
+    "description": "Investigações Experimentais do IBGE: Pesquisa Nacional por Amostra de Domicílios Contínua: Trabalho de Crianças e Adolescentes de 5 a 17 anos de idade 2025.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/",
+    "start": "2026-10-16T10:00:00-03:00",
+    "end": "2026-10-16T10:30:00-03:00",
+    "url": "https://www.ibge.gov.br/comunicados/48063-ibge-divulgara-em-16-de-outubro-como-estatisticas-experimentais-a-pesquisa-nacional-por-amostra-de-domicilio",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4572@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Elaboração e aplicação de metodologia de priorização de áreas para levantamentos",
+    "description": "Produtos da Geociências do IBGE: Elaboração e aplicação de metodologia de priorização de áreas para levantamentos florísticos no Brasil.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/38371",
+    "start": "2026-10-15T10:00:00-03:00",
+    "end": "2026-10-15T10:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/38371",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4313@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Vendas no varejo (PMC) – agosto/2026",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisa Mensal de Comércio.\nReferência: agosto/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9227",
+    "start": "2026-10-15T09:00:00-03:00",
+    "end": "2026-10-15T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9227",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4312@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Levantamento Sistemático da Produção Agrícola – setembro/2026",
+    "description": "Divulgação de Indicadores do IBGE: Levantamento Sistemático da Produção Agrícola.\nReferência: setembro/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9201",
+    "start": "2026-10-15T09:00:00-03:00",
+    "end": "2026-10-15T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9201",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4311@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Volume de serviços (PMS) – agosto/2026",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisa Mensal de Serviços.\nReferência: agosto/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9229",
+    "start": "2026-10-14T09:00:00-03:00",
+    "end": "2026-10-14T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9229",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4310@calendario-economico",
+    "tag": "IBGE",
+    "summary": "SINAPI – setembro/2026",
+    "description": "Divulgação de Indicadores do IBGE: Sistema Nacional de Pesquisa de Custos e Índices da Construção Civil.\nReferência: setembro/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9270",
+    "start": "2026-10-09T09:00:00-03:00",
+    "end": "2026-10-09T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9270",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4309@calendario-economico",
+    "tag": "IBGE",
+    "summary": "IPCA – setembro/2026",
+    "description": "Divulgação de Indicadores do IBGE: Índice Nacional de Preços ao Consumidor Amplo.\nReferência: setembro/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9256",
+    "start": "2026-10-09T09:00:00-03:00",
+    "end": "2026-10-09T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9256",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4308@calendario-economico",
+    "tag": "IBGE",
+    "summary": "INPC – setembro/2026",
+    "description": "Divulgação de Indicadores do IBGE: Índice Nacional de Preços ao Consumidor.\nReferência: setembro/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9258",
+    "start": "2026-10-09T09:00:00-03:00",
+    "end": "2026-10-09T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9258",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4307@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Produção industrial regional (PIM) – agosto/2026",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisa Industrial Mensal: Produção Física - Regional.\nReferência: agosto/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9296",
+    "start": "2026-10-08T09:00:00-03:00",
+    "end": "2026-10-08T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9296",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4306@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Produção industrial (PIM) – agosto/2026",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisa Industrial Mensal: Produção Física - Brasil.\nReferência: agosto/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9294",
+    "start": "2026-10-02T09:00:00-03:00",
+    "end": "2026-10-02T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9294",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4571@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Produção da Pecuária Municipal - PPM – 2025",
+    "description": "Estudos e Pesquisas Estruturais e Especiais do IBGE: Produção da Pecuária Municipal - PPM.\nReferência: 2025.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9107",
+    "start": "2026-09-30T10:00:00-03:00",
+    "end": "2026-09-30T10:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9107",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4305@calendario-economico",
+    "tag": "IBGE",
+    "summary": "IPP – agosto/2026",
+    "description": "Divulgação de Indicadores do IBGE: Índice de Preços ao Produtor - Indústrias Extrativas e de Transformação.\nReferência: agosto/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9282",
+    "start": "2026-09-30T09:00:00-03:00",
+    "end": "2026-09-30T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9282",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4570@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Revista Brasileira de Geografia",
+    "description": "Produtos da Geociências do IBGE: Revista Brasileira de Geografia.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/27499",
+    "start": "2026-09-29T10:00:00-03:00",
+    "end": "2026-09-29T10:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/27499",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4304@calendario-economico",
+    "tag": "IBGE",
+    "summary": "PNAD Contínua – agosto/2026",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisa Nacional por Amostra de Domicílios Contínua Mensal.\nReferência: agosto/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9171",
+    "start": "2026-09-29T09:00:00-03:00",
+    "end": "2026-09-29T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9171",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4303@calendario-economico",
+    "tag": "IBGE",
+    "summary": "IPCA-E – 3º trimestre/2026",
+    "description": "Divulgação de Indicadores do IBGE: Índice Nacional de Preços ao Consumidor Amplo Especial.\nReferência: 3º trimestre/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9262",
+    "start": "2026-09-25T09:00:00-03:00",
+    "end": "2026-09-25T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9262",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4302@calendario-economico",
+    "tag": "IBGE",
+    "summary": "IPCA-15 – setembro/2026",
+    "description": "Divulgação de Indicadores do IBGE: Índice Nacional de Preços ao Consumidor Amplo 15.\nReferência: setembro/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9260",
+    "start": "2026-09-25T09:00:00-03:00",
+    "end": "2026-09-25T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9260",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4569@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Produção da Extração Vegetal e da Silvicultura - PEVS – 2025",
+    "description": "Estudos e Pesquisas Estruturais e Especiais do IBGE: Produção da Extração Vegetal e da Silvicultura - PEVS.\nReferência: 2025.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9105",
+    "start": "2026-09-24T10:00:00-03:00",
+    "end": "2026-09-24T10:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9105",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4563@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Pesquisa Nacional por Amostra de Domicílios Contínua: Características Adicionais",
+    "description": "Estudos e Pesquisas Estruturais e Especiais do IBGE: Pesquisa Nacional por Amostra de Domicílios Contínua: Características Adicionais de Mercado de Trabalho 2025.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/17270",
+    "start": "2026-09-23T10:00:00-03:00",
+    "end": "2026-09-23T10:30:00-03:00",
+    "url": "https://www.ibge.gov.br/novo-portal-destaques.html?destaque=47816",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4561@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Pessoas com Deficiência e as Desigualdades Sociais no Brasil - 2a edição",
+    "description": "Estudos e Pesquisas Estruturais e Especiais do IBGE: Pessoas com Deficiência e as Desigualdades Sociais no Brasil - 2a edição.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/34889",
+    "start": "2026-09-18T10:00:00-03:00",
+    "end": "2026-09-18T10:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/34889",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4567@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Pesquisa Agrícola Municipal (PAM) 2025 – 2025",
+    "description": "Estudos e Pesquisas Estruturais e Especiais do IBGE: Pesquisa Agrícola Municipal (PAM) 2025.\nReferência: 2025.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9117",
+    "start": "2026-09-17T10:00:00-03:00",
+    "end": "2026-09-17T10:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9117",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4301@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Vendas no varejo (PMC) – julho/2026",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisa Mensal de Comércio.\nReferência: julho/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9227",
+    "start": "2026-09-15T09:00:00-03:00",
+    "end": "2026-09-15T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9227",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4300@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Levantamento Sistemático da Produção Agrícola – agosto/2026",
+    "description": "Divulgação de Indicadores do IBGE: Levantamento Sistemático da Produção Agrícola.\nReferência: agosto/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9201",
+    "start": "2026-09-15T09:00:00-03:00",
+    "end": "2026-09-15T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9201",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4299@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Pesquisas Trimestrais do Abate de Animais, do Leite, do Couro e da Produção de O – 2º trimestre/2026",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisas Trimestrais do Abate de Animais, do Leite, do Couro e da Produção de Ovos de Galinha.\nReferência: 2º trimestre/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/19111",
+    "start": "2026-09-15T09:00:00-03:00",
+    "end": "2026-09-15T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/19111",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4298@calendario-economico",
+    "tag": "IBGE",
+    "summary": "SINAPI – agosto/2026",
+    "description": "Divulgação de Indicadores do IBGE: Sistema Nacional de Pesquisa de Custos e Índices da Construção Civil.\nReferência: agosto/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9270",
+    "start": "2026-09-11T09:00:00-03:00",
+    "end": "2026-09-11T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9270",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4297@calendario-economico",
+    "tag": "IBGE",
+    "summary": "IPCA – agosto/2026",
+    "description": "Divulgação de Indicadores do IBGE: Índice Nacional de Preços ao Consumidor Amplo.\nReferência: agosto/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9256",
+    "start": "2026-09-11T09:00:00-03:00",
+    "end": "2026-09-11T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9256",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4296@calendario-economico",
+    "tag": "IBGE",
+    "summary": "INPC – agosto/2026",
+    "description": "Divulgação de Indicadores do IBGE: Índice Nacional de Preços ao Consumidor.\nReferência: agosto/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9258",
+    "start": "2026-09-11T09:00:00-03:00",
+    "end": "2026-09-11T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9258",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4295@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Produção industrial regional (PIM) – julho/2026",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisa Industrial Mensal: Produção Física - Regional.\nReferência: julho/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9296",
+    "start": "2026-09-10T09:00:00-03:00",
+    "end": "2026-09-10T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9296",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4294@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Volume de serviços (PMS) – julho/2026",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisa Mensal de Serviços.\nReferência: julho/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9229",
+    "start": "2026-09-10T09:00:00-03:00",
+    "end": "2026-09-10T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9229",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4557@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Pesquisa Nacional por Amostra de Domicílios Contínua: Trabalho por meio de plata",
+    "description": "Investigações Experimentais do IBGE: Pesquisa Nacional por Amostra de Domicílios Contínua: Trabalho por meio de plataformas digitais 2025.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/",
+    "start": "2026-09-04T10:00:00-03:00",
+    "end": "2026-09-04T10:30:00-03:00",
+    "url": "https://www.ibge.gov.br/novo-portal-destaques.html?destaque=47607",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4293@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Produção industrial (PIM) – julho/2026",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisa Industrial Mensal: Produção Física - Brasil.\nReferência: julho/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9294",
+    "start": "2026-09-02T09:00:00-03:00",
+    "end": "2026-09-02T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9294",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4292@calendario-economico",
+    "tag": "IBGE",
+    "summary": "PIB trimestral – 2º trimestre/2026",
+    "description": "Divulgação de Indicadores do IBGE: Sistema de Contas Nacionais Trimestrais.\nReferência: 2º trimestre/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9300",
+    "start": "2026-09-01T09:00:00-03:00",
+    "end": "2026-09-01T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9300",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4560@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Censo Demográfico 2022: Áreas de ponderação – 2022",
+    "description": "Estudos e Pesquisas Estruturais e Especiais do IBGE: Censo Demográfico 2022: Áreas de ponderação.\nReferência: 2022.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/22827",
+    "start": "2026-08-31T10:00:00-03:00",
+    "end": "2026-08-31T10:30:00-03:00",
+    "url": "https://www.ibge.gov.br/novo-portal-destaques.html?destaque=47670",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4559@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Censo Demográfico 2022: Microdados da amostra – 2022",
+    "description": "Estudos e Pesquisas Estruturais e Especiais do IBGE: Censo Demográfico 2022: Microdados da amostra.\nReferência: 2022.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/22827",
+    "start": "2026-08-31T10:00:00-03:00",
+    "end": "2026-08-31T10:30:00-03:00",
+    "url": "https://www.ibge.gov.br/novo-portal-destaques.html?destaque=47670",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4565@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Estimativas da População – 2026",
+    "description": "Estudos e Pesquisas Estruturais e Especiais do IBGE: Estimativas da População.\nReferência: 2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9103",
+    "start": "2026-08-28T09:00:00-03:00",
+    "end": "2026-08-28T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9103",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4564@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Pesquisa Anual de Serviços – 2024",
+    "description": "Estudos e Pesquisas Estruturais e Especiais do IBGE: Pesquisa Anual de Serviços.\nReferência: 2024.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9028",
+    "start": "2026-08-27T10:00:00-03:00",
+    "end": "2026-08-27T10:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9028",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4290@calendario-economico",
+    "tag": "IBGE",
+    "summary": "PNAD Contínua – julho/2026",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisa Nacional por Amostra de Domicílios Contínua Mensal.\nReferência: julho/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9171",
+    "start": "2026-08-27T09:00:00-03:00",
+    "end": "2026-08-27T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9171",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4289@calendario-economico",
+    "tag": "IBGE",
+    "summary": "IPCA-15 – agosto/2026",
+    "description": "Divulgação de Indicadores do IBGE: Índice Nacional de Preços ao Consumidor Amplo 15.\nReferência: agosto/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9260",
+    "start": "2026-08-26T09:00:00-03:00",
+    "end": "2026-08-26T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9260",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4288@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Pesquisas Trimestrais do Abate de Animais, do Leite, do Couro e da Produção de O – 2º trimestre/2026",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisas Trimestrais do Abate de Animais, do Leite, do Couro e da Produção de Ovos de Galinha: Primeiros resultados.\nReferência: 2º trimestre/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/19120",
+    "start": "2026-08-19T09:00:00-03:00",
+    "end": "2026-08-19T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/19120",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4562@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Áreas Urbanizadas – 2022",
+    "description": "Produtos da Geociências do IBGE: Áreas Urbanizadas.\nReferência: 2022.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/15789",
+    "start": "2026-08-18T10:00:00-03:00",
+    "end": "2026-08-18T10:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/15789",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4287@calendario-economico",
+    "tag": "IBGE",
+    "summary": "PNAD Contínua (trimestral) – 2º trimestre/2026",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisa Nacional por Amostra de Domicílios Contínua Trimestral.\nReferência: 2º trimestre/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9173",
+    "start": "2026-08-14T09:00:00-03:00",
+    "end": "2026-08-14T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9173",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4285@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Vendas no varejo (PMC) – junho/2026",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisa Mensal de Comércio.\nReferência: junho/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9227",
+    "start": "2026-08-13T09:00:00-03:00",
+    "end": "2026-08-13T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9227",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4286@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Levantamento Sistemático da Produção Agrícola – julho/2026",
+    "description": "Divulgação de Indicadores do IBGE: Levantamento Sistemático da Produção Agrícola.\nReferência: julho/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9201",
+    "start": "2026-08-13T09:00:00-03:00",
+    "end": "2026-08-13T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9201",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4284@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Volume de serviços (PMS) – junho/2026",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisa Mensal de Serviços.\nReferência: junho/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9229",
+    "start": "2026-08-12T09:00:00-03:00",
+    "end": "2026-08-12T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9229",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4280@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Produção industrial regional (PIM) – junho/2026",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisa Industrial Mensal: Produção Física - Regional.\nReferência: junho/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9296",
+    "start": "2026-08-11T09:00:00-03:00",
+    "end": "2026-08-11T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9296",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4281@calendario-economico",
+    "tag": "IBGE",
+    "summary": "INPC – julho/2026",
+    "description": "Divulgação de Indicadores do IBGE: Índice Nacional de Preços ao Consumidor.\nReferência: julho/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9258",
+    "start": "2026-08-11T09:00:00-03:00",
+    "end": "2026-08-11T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9258",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4282@calendario-economico",
+    "tag": "IBGE",
+    "summary": "IPCA – julho/2026",
+    "description": "Divulgação de Indicadores do IBGE: Índice Nacional de Preços ao Consumidor Amplo.\nReferência: julho/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9256",
+    "start": "2026-08-11T09:00:00-03:00",
+    "end": "2026-08-11T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9256",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4283@calendario-economico",
+    "tag": "IBGE",
+    "summary": "SINAPI – julho/2026",
+    "description": "Divulgação de Indicadores do IBGE: Sistema Nacional de Pesquisa de Custos e Índices da Construção Civil.\nReferência: julho/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9270",
+    "start": "2026-08-11T09:00:00-03:00",
+    "end": "2026-08-11T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9270",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4279@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Produção industrial (PIM) – junho/2026",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisa Industrial Mensal: Produção Física - Brasil.\nReferência: junho/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9294",
+    "start": "2026-08-04T09:00:00-03:00",
+    "end": "2026-08-04T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9294",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4278@calendario-economico",
+    "tag": "IBGE",
+    "summary": "IPP – junho/2026",
+    "description": "Divulgação de Indicadores do IBGE: Índice de Preços ao Produtor - Indústrias Extrativas e de Transformação.\nReferência: junho/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9282",
+    "start": "2026-07-31T09:00:00-03:00",
+    "end": "2026-07-31T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9282",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4277@calendario-economico",
+    "tag": "IBGE",
+    "summary": "PNAD Contínua – junho/2026",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisa Nacional por Amostra de Domicílios Contínua Mensal.\nReferência: junho/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9171",
+    "start": "2026-07-30T09:00:00-03:00",
+    "end": "2026-07-30T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9171",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4558@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Pesquisa Anual de Comércio – 2024",
+    "description": "Estudos e Pesquisas Estruturais e Especiais do IBGE: Pesquisa Anual de Comércio.\nReferência: 2024.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9075",
+    "start": "2026-07-29T10:00:00-03:00",
+    "end": "2026-07-29T10:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9075",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4276@calendario-economico",
+    "tag": "IBGE",
+    "summary": "IPCA-15 – julho/2026",
+    "description": "Divulgação de Indicadores do IBGE: Índice Nacional de Preços ao Consumidor Amplo 15.\nReferência: julho/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9260",
+    "start": "2026-07-28T09:00:00-03:00",
+    "end": "2026-07-28T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9260",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4275@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Vendas no varejo (PMC) – maio/2026",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisa Mensal de Comércio.\nReferência: maio/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9227",
+    "start": "2026-07-16T09:00:00-03:00",
+    "end": "2026-07-16T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9227",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4274@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Volume de serviços (PMS) – maio/2026",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisa Mensal de Serviços.\nReferência: maio/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9229",
+    "start": "2026-07-15T09:00:00-03:00",
+    "end": "2026-07-15T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9229",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4273@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Levantamento Sistemático da Produção Agrícola – junho/2026",
+    "description": "Divulgação de Indicadores do IBGE: Levantamento Sistemático da Produção Agrícola.\nReferência: junho/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9201",
+    "start": "2026-07-14T09:00:00-03:00",
+    "end": "2026-07-14T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9201",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4553@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Logística dos Transportes – 2024",
+    "description": "Produtos da Geociências do IBGE: Logística dos Transportes.\nReferência: 2024.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/15793",
+    "start": "2026-07-13T10:00:00-03:00",
+    "end": "2026-07-13T10:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/15793",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4269@calendario-economico",
+    "tag": "IBGE",
+    "summary": "INPC – junho/2026",
+    "description": "Divulgação de Indicadores do IBGE: Índice Nacional de Preços ao Consumidor.\nReferência: junho/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9258",
+    "start": "2026-07-10T09:00:00-03:00",
+    "end": "2026-07-10T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9258",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4270@calendario-economico",
+    "tag": "IBGE",
+    "summary": "IPCA – junho/2026",
+    "description": "Divulgação de Indicadores do IBGE: Índice Nacional de Preços ao Consumidor Amplo.\nReferência: junho/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9256",
+    "start": "2026-07-10T09:00:00-03:00",
+    "end": "2026-07-10T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9256",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4271@calendario-economico",
+    "tag": "IBGE",
+    "summary": "SINAPI – junho/2026",
+    "description": "Divulgação de Indicadores do IBGE: Sistema Nacional de Pesquisa de Custos e Índices da Construção Civil.\nReferência: junho/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9270",
+    "start": "2026-07-10T09:00:00-03:00",
+    "end": "2026-07-10T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9270",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4272@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Produção industrial regional (PIM) – maio/2026",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisa Industrial Mensal: Produção Física - Regional.\nReferência: maio/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9296",
+    "start": "2026-07-10T09:00:00-03:00",
+    "end": "2026-07-10T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9296",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4268@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Produção industrial (PIM) – maio/2026",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisa Industrial Mensal: Produção Física - Brasil.\nReferência: maio/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9294",
+    "start": "2026-07-03T09:00:00-03:00",
+    "end": "2026-07-03T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9294",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4548@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Pesquisa Nacional por Amostra de Domicílios Contínua: Acesso à Internet e à tele",
+    "description": "Estudos e Pesquisas Estruturais e Especiais do IBGE: Pesquisa Nacional por Amostra de Domicílios Contínua: Acesso à Internet e à televisão e posse de telefone móvel celular para uso pessoal 2025.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/17270",
+    "start": "2026-07-02T10:00:00-03:00",
+    "end": "2026-07-02T10:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/17270",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4544@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Pesquisa Especial sobre as Enchentes no Rio Grande do Sul - PEERS – 2024",
+    "description": "Estudos e Pesquisas Estruturais e Especiais do IBGE: Pesquisa Especial sobre as Enchentes no Rio Grande do Sul - PEERS.\nReferência: 2024.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/",
+    "start": "2026-07-01T10:00:00-03:00",
+    "end": "2026-07-01T10:30:00-03:00",
+    "url": "https://www.ibge.gov.br/novo-portal-destaques.html?destaque=46805",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4267@calendario-economico",
+    "tag": "IBGE",
+    "summary": "IPP – maio/2026",
+    "description": "Divulgação de Indicadores do IBGE: Índice de Preços ao Produtor - Indústrias Extrativas e de Transformação.\nReferência: maio/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9282",
+    "start": "2026-06-30T09:00:00-03:00",
+    "end": "2026-06-30T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9282",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4549@calendario-economico",
+    "tag": "IBGE",
+    "summary": "4º Workshop sobre o Sistema Brasileiro de Classificação de Relevo",
+    "description": "Produtos da Geociências do IBGE: 4º Workshop sobre o Sistema Brasileiro de Classificação de Relevo.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/28098",
+    "start": "2026-06-29T10:00:00-03:00",
+    "end": "2026-06-29T10:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/28098",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4266@calendario-economico",
+    "tag": "IBGE",
+    "summary": "PNAD Contínua – maio/2026",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisa Nacional por Amostra de Domicílios Contínua Mensal.\nReferência: maio/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9171",
+    "start": "2026-06-26T09:00:00-03:00",
+    "end": "2026-06-26T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9171",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4556@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Estatísticas do Cadastro Central de Empresas – 2024",
+    "description": "Estudos e Pesquisas Estruturais e Especiais do IBGE: Estatísticas do Cadastro Central de Empresas.\nReferência: 2024.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9016",
+    "start": "2026-06-25T10:00:00-03:00",
+    "end": "2026-06-25T10:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9016",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4264@calendario-economico",
+    "tag": "IBGE",
+    "summary": "IPCA-15 – junho/2026",
+    "description": "Divulgação de Indicadores do IBGE: Índice Nacional de Preços ao Consumidor Amplo 15.\nReferência: junho/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9260",
+    "start": "2026-06-25T09:00:00-03:00",
+    "end": "2026-06-25T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9260",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4265@calendario-economico",
+    "tag": "IBGE",
+    "summary": "IPCA-E – 2º trimestre/2026",
+    "description": "Divulgação de Indicadores do IBGE: Índice Nacional de Preços ao Consumidor Amplo Especial.\nReferência: 2º trimestre/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9262",
+    "start": "2026-06-25T09:00:00-03:00",
+    "end": "2026-06-25T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9262",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4554@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Pesquisa Industrial Anual - Empresa – 2024",
+    "description": "Estudos e Pesquisas Estruturais e Especiais do IBGE: Pesquisa Industrial Anual - Empresa.\nReferência: 2024.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9042",
+    "start": "2026-06-24T10:00:00-03:00",
+    "end": "2026-06-24T10:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9042",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4555@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Pesquisa Industrial Anual - Produto – 2024",
+    "description": "Estudos e Pesquisas Estruturais e Especiais do IBGE: Pesquisa Industrial Anual - Produto.\nReferência: 2024.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9044",
+    "start": "2026-06-24T10:00:00-03:00",
+    "end": "2026-06-24T10:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9044",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4552@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Pesquisa Nacional por Amostra de Domicílios Contínua: Educação 2025 – 2025",
+    "description": "Estudos e Pesquisas Estruturais e Especiais do IBGE: Pesquisa Nacional por Amostra de Domicílios Contínua: Educação 2025.\nReferência: 2025.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/17270",
+    "start": "2026-06-19T10:00:00-03:00",
+    "end": "2026-06-19T10:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/17270",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4538@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Censo Demográfico 2022: Etnias e línguas indígenas: Resultados do universo (2ª e – 2022",
+    "description": "Estudos e Pesquisas Estruturais e Especiais do IBGE: Censo Demográfico 2022: Etnias e línguas indígenas: Resultados do universo (2ª edição).\nReferência: 2022.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/22827",
+    "start": "2026-06-18T10:00:00-03:00",
+    "end": "2026-06-18T10:30:00-03:00",
+    "url": "https://www.ibge.gov.br/novo-portal-destaques.html?destaque=46407",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4551@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Recortes Metropolitanos e Aglomerações Urbanas",
+    "description": "Produtos da Geociências do IBGE: Recortes Metropolitanos e Aglomerações Urbanas.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/18354",
+    "start": "2026-06-16T10:00:00-03:00",
+    "end": "2026-06-16T10:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/18354",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4262@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Pesquisas Trimestrais do Abate de Animais, do Leite, do Couro e da Produção de O – 1º trimestre/2026",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisas Trimestrais do Abate de Animais, do Leite, do Couro e da Produção de Ovos de Galinha.\nReferência: 1º trimestre/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/19111",
+    "start": "2026-06-16T09:00:00-03:00",
+    "end": "2026-06-16T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/19111",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4263@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Vendas no varejo (PMC) – abril/2026",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisa Mensal de Comércio.\nReferência: abril/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9227",
+    "start": "2026-06-16T09:00:00-03:00",
+    "end": "2026-06-16T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9227",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4543@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Estratégia de Amostragem para Mapeamento de Cobertura e Uso da Terra",
+    "description": "Produtos da Geociências do IBGE: Estratégia de Amostragem para Mapeamento de Cobertura e Uso da Terra.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/",
+    "start": "2026-06-15T10:00:00-03:00",
+    "end": "2026-06-15T10:30:00-03:00",
+    "url": "https://www.ibge.gov.br/novo-portal-destaques.html?destaque=46764",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4259@calendario-economico",
+    "tag": "IBGE",
+    "summary": "INPC – maio/2026",
+    "description": "Divulgação de Indicadores do IBGE: Índice Nacional de Preços ao Consumidor.\nReferência: maio/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9258",
+    "start": "2026-06-12T09:00:00-03:00",
+    "end": "2026-06-12T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9258",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4260@calendario-economico",
+    "tag": "IBGE",
+    "summary": "IPCA – maio/2026",
+    "description": "Divulgação de Indicadores do IBGE: Índice Nacional de Preços ao Consumidor Amplo.\nReferência: maio/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9256",
+    "start": "2026-06-12T09:00:00-03:00",
+    "end": "2026-06-12T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9256",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4261@calendario-economico",
+    "tag": "IBGE",
+    "summary": "SINAPI – maio/2026",
+    "description": "Divulgação de Indicadores do IBGE: Sistema Nacional de Pesquisa de Custos e Índices da Construção Civil.\nReferência: maio/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9270",
+    "start": "2026-06-12T09:00:00-03:00",
+    "end": "2026-06-12T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9270",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4256@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Levantamento Sistemático da Produção Agrícola – maio/2026",
+    "description": "Divulgação de Indicadores do IBGE: Levantamento Sistemático da Produção Agrícola.\nReferência: maio/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9201",
+    "start": "2026-06-11T09:00:00-03:00",
+    "end": "2026-06-11T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9201",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4257@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Pesquisa de Estoques – julho/2025 a dezembro/2025",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisa de Estoques.\nReferência: julho/2025 a dezembro/2025.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9199",
+    "start": "2026-06-11T09:00:00-03:00",
+    "end": "2026-06-11T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9199",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4258@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Volume de serviços (PMS) – abril/2026",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisa Mensal de Serviços.\nReferência: abril/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9229",
+    "start": "2026-06-11T09:00:00-03:00",
+    "end": "2026-06-11T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9229",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4550@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Pesquisa Anual da Indústria da Construção – 2024",
+    "description": "Estudos e Pesquisas Estruturais e Especiais do IBGE: Pesquisa Anual da Indústria da Construção.\nReferência: 2024.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9018",
+    "start": "2026-06-10T10:00:00-03:00",
+    "end": "2026-06-10T10:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9018",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4255@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Produção industrial regional (PIM) – abril/2026",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisa Industrial Mensal: Produção Física - Regional.\nReferência: abril/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9296",
+    "start": "2026-06-10T09:00:00-03:00",
+    "end": "2026-06-10T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9296",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4254@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Produção industrial (PIM) – abril/2026",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisa Industrial Mensal: Produção Física - Brasil.\nReferência: abril/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9294",
+    "start": "2026-06-03T09:00:00-03:00",
+    "end": "2026-06-03T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9294",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4545@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Coeficiente de Desequilíbrio Regional - CDR – 2025",
+    "description": "Estudos e Pesquisas Estruturais e Especiais do IBGE: Coeficiente de Desequilíbrio Regional - CDR.\nReferência: 2025.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/",
+    "start": "2026-05-29T10:00:00-03:00",
+    "end": "2026-05-29T10:30:00-03:00",
+    "url": "https://www.ibge.gov.br/estatisticas/sociais/trabalho/9171?=&t=coeficiente-de-desequilibrio-regional",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4253@calendario-economico",
+    "tag": "IBGE",
+    "summary": "PIB trimestral – 1º trimestre/2026",
+    "description": "Divulgação de Indicadores do IBGE: Sistema de Contas Nacionais Trimestrais.\nReferência: 1º trimestre/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9300",
+    "start": "2026-05-29T09:00:00-03:00",
+    "end": "2026-05-29T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9300",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4251@calendario-economico",
+    "tag": "IBGE",
+    "summary": "IPP – abril/2026",
+    "description": "Divulgação de Indicadores do IBGE: Índice de Preços ao Produtor - Indústrias Extrativas e de Transformação.\nReferência: abril/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9282",
+    "start": "2026-05-28T09:00:00-03:00",
+    "end": "2026-05-28T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9282",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4252@calendario-economico",
+    "tag": "IBGE",
+    "summary": "PNAD Contínua – abril/2026",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisa Nacional por Amostra de Domicílios Contínua Mensal.\nReferência: abril/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9171",
+    "start": "2026-05-28T09:00:00-03:00",
+    "end": "2026-05-28T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9171",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4250@calendario-economico",
+    "tag": "IBGE",
+    "summary": "IPCA-15 – maio/2026",
+    "description": "Divulgação de Indicadores do IBGE: Índice Nacional de Preços ao Consumidor Amplo 15.\nReferência: maio/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9260",
+    "start": "2026-05-27T09:00:00-03:00",
+    "end": "2026-05-27T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9260",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4546@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Avaliação dos dados sobre a biodiversidade brasileira – 2025",
+    "description": "Produtos da Geociências do IBGE: Avaliação dos dados sobre a biodiversidade brasileira.\nReferência: 2025.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/38371",
+    "start": "2026-05-26T10:00:00-03:00",
+    "end": "2026-05-26T10:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/38371",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4537@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Indicadores Econômicos do Brasil – 2025",
+    "description": "Estudos e Pesquisas Estruturais e Especiais do IBGE: Indicadores Econômicos do Brasil.\nReferência: 2025.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/43806",
+    "start": "2026-05-22T10:00:00-03:00",
+    "end": "2026-05-22T10:30:00-03:00",
+    "url": "https://www.ibge.gov.br/novo-portal-destaques.html?destaque=46374",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4536@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Série Relatórios Metodológicos Pesquisas Estruturais em Empresas",
+    "description": "Estudos e Pesquisas Estruturais e Especiais do IBGE: Série Relatórios Metodológicos Pesquisas Estruturais em Empresas.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/",
+    "start": "2026-05-21T10:00:00-03:00",
+    "end": "2026-05-21T10:30:00-03:00",
+    "url": "https://www.ibge.gov.br/novo-portal-destaques.html?destaque=46359",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4539@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Estimativas de Sub-Registro de Nascimentos e Óbitos 2024",
+    "description": "Estudos e Pesquisas Estruturais e Especiais do IBGE: Estimativas de Sub-Registro de Nascimentos e Óbitos 2024.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/26176",
+    "start": "2026-05-20T10:00:00-03:00",
+    "end": "2026-05-20T10:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/26176",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4249@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Pesquisas Trimestrais do Abate de Animais, do Leite, do Couro e da Produção de O – 1º trimestre/2026",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisas Trimestrais do Abate de Animais, do Leite, do Couro e da Produção de Ovos de Galinha: Primeiros resultados.\nReferência: 1º trimestre/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/19120",
+    "start": "2026-05-19T09:00:00-03:00",
+    "end": "2026-05-19T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/19120",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4248@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Volume de serviços (PMS) – março/2026",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisa Mensal de Serviços.\nReferência: março/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9229",
+    "start": "2026-05-15T09:00:00-03:00",
+    "end": "2026-05-15T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9229",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4246@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Levantamento Sistemático da Produção Agrícola – abril/2026",
+    "description": "Divulgação de Indicadores do IBGE: Levantamento Sistemático da Produção Agrícola.\nReferência: abril/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9201",
+    "start": "2026-05-14T09:00:00-03:00",
+    "end": "2026-05-14T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9201",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4247@calendario-economico",
+    "tag": "IBGE",
+    "summary": "PNAD Contínua (trimestral) – 1º trimestre/2026",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisa Nacional por Amostra de Domicílios Contínua Trimestral.\nReferência: 1º trimestre/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9173",
+    "start": "2026-05-14T09:00:00-03:00",
+    "end": "2026-05-14T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9173",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4244@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Produção industrial regional (PIM) – março/2026",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisa Industrial Mensal: Produção Física - Regional.\nReferência: março/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9296",
+    "start": "2026-05-13T09:00:00-03:00",
+    "end": "2026-05-13T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9296",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4245@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Vendas no varejo (PMC) – março/2026",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisa Mensal de Comércio.\nReferência: março/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9227",
+    "start": "2026-05-13T09:00:00-03:00",
+    "end": "2026-05-13T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9227",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4241@calendario-economico",
+    "tag": "IBGE",
+    "summary": "INPC – abril/2026",
+    "description": "Divulgação de Indicadores do IBGE: Índice Nacional de Preços ao Consumidor.\nReferência: abril/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9258",
+    "start": "2026-05-12T09:00:00-03:00",
+    "end": "2026-05-12T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9258",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4242@calendario-economico",
+    "tag": "IBGE",
+    "summary": "IPCA – abril/2026",
+    "description": "Divulgação de Indicadores do IBGE: Índice Nacional de Preços ao Consumidor Amplo.\nReferência: abril/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9256",
+    "start": "2026-05-12T09:00:00-03:00",
+    "end": "2026-05-12T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9256",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4243@calendario-economico",
+    "tag": "IBGE",
+    "summary": "SINAPI – abril/2026",
+    "description": "Divulgação de Indicadores do IBGE: Sistema Nacional de Pesquisa de Custos e Índices da Construção Civil.\nReferência: abril/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9270",
+    "start": "2026-05-12T09:00:00-03:00",
+    "end": "2026-05-12T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9270",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4542@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Pesquisa Nacional por Amostra de Domicílios Contínua: Rendimento de todas as fon",
+    "description": "Estudos e Pesquisas Estruturais e Especiais do IBGE: Pesquisa Nacional por Amostra de Domicílios Contínua: Rendimento de todas as fontes 2025.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/17270",
+    "start": "2026-05-08T10:00:00-03:00",
+    "end": "2026-05-08T10:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/17270",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4240@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Produção industrial (PIM) – março/2026",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisa Industrial Mensal: Produção Física - Brasil.\nReferência: março/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9294",
+    "start": "2026-05-07T09:00:00-03:00",
+    "end": "2026-05-07T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9294",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4540@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Brasil em números – 2025",
+    "description": "Estudos e Pesquisas Estruturais e Especiais do IBGE: Brasil em números.\nReferência: 2025.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/",
+    "start": "2026-05-04T10:00:00-03:00",
+    "end": "2026-05-04T10:30:00-03:00",
+    "url": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46265-ibge-inicia-comemoracoes-de-seus-90-anos-com-lancamento",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4541@calendario-economico",
+    "tag": "IBGE",
+    "summary": "IBGE pelo Mundo",
+    "description": "Estudos e Pesquisas Estruturais e Especiais do IBGE: IBGE pelo Mundo.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/",
+    "start": "2026-05-04T10:00:00-03:00",
+    "end": "2026-05-04T10:30:00-03:00",
+    "url": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46265-ibge-inicia-comemoracoes-de-seus-90-anos-com-lancamento",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4239@calendario-economico",
+    "tag": "IBGE",
+    "summary": "PNAD Contínua – março/2026",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisa Nacional por Amostra de Domicílios Contínua Mensal.\nReferência: março/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9171",
+    "start": "2026-04-30T09:00:00-03:00",
+    "end": "2026-04-30T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9171",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4238@calendario-economico",
+    "tag": "IBGE",
+    "summary": "IPP – março/2026",
+    "description": "Divulgação de Indicadores do IBGE: Índice de Preços ao Produtor - Indústrias Extrativas e de Transformação.\nReferência: março/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9282",
+    "start": "2026-04-29T09:00:00-03:00",
+    "end": "2026-04-29T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9282",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4237@calendario-economico",
+    "tag": "IBGE",
+    "summary": "IPCA-15 – abril/2026",
+    "description": "Divulgação de Indicadores do IBGE: Índice Nacional de Preços ao Consumidor Amplo 15.\nReferência: abril/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9260",
+    "start": "2026-04-28T09:00:00-03:00",
+    "end": "2026-04-28T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9260",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4535@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Pesquisa Nacional por Amostra de Domicílios Contínua: Características Gerais dos – 2025",
+    "description": "Estudos e Pesquisas Estruturais e Especiais do IBGE: Pesquisa Nacional por Amostra de Domicílios Contínua: Características Gerais dos Domicílios e Moradores.\nReferência: 2025.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/17270",
+    "start": "2026-04-17T10:00:00-03:00",
+    "end": "2026-04-17T10:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/17270",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4236@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Vendas no varejo (PMC) – fevereiro/2026",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisa Mensal de Comércio.\nReferência: fevereiro/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9227",
+    "start": "2026-04-15T09:00:00-03:00",
+    "end": "2026-04-15T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9227",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4234@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Levantamento Sistemático da Produção Agrícola – março/2026",
+    "description": "Divulgação de Indicadores do IBGE: Levantamento Sistemático da Produção Agrícola.\nReferência: março/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9201",
+    "start": "2026-04-14T09:00:00-03:00",
+    "end": "2026-04-14T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9201",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4235@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Volume de serviços (PMS) – fevereiro/2026",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisa Mensal de Serviços.\nReferência: fevereiro/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9229",
+    "start": "2026-04-14T09:00:00-03:00",
+    "end": "2026-04-14T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9229",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4231@calendario-economico",
+    "tag": "IBGE",
+    "summary": "INPC – março/2026",
+    "description": "Divulgação de Indicadores do IBGE: Índice Nacional de Preços ao Consumidor.\nReferência: março/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9258",
+    "start": "2026-04-10T09:00:00-03:00",
+    "end": "2026-04-10T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9258",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4232@calendario-economico",
+    "tag": "IBGE",
+    "summary": "IPCA – março/2026",
+    "description": "Divulgação de Indicadores do IBGE: Índice Nacional de Preços ao Consumidor Amplo.\nReferência: março/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9256",
+    "start": "2026-04-10T09:00:00-03:00",
+    "end": "2026-04-10T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9256",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4233@calendario-economico",
+    "tag": "IBGE",
+    "summary": "SINAPI – março/2026",
+    "description": "Divulgação de Indicadores do IBGE: Sistema Nacional de Pesquisa de Custos e Índices da Construção Civil.\nReferência: março/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9270",
+    "start": "2026-04-10T09:00:00-03:00",
+    "end": "2026-04-10T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9270",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4230@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Produção industrial regional (PIM) – fevereiro/2026",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisa Industrial Mensal: Produção Física - Regional.\nReferência: fevereiro/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9296",
+    "start": "2026-04-09T09:00:00-03:00",
+    "end": "2026-04-09T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9296",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4229@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Produção industrial (PIM) – fevereiro/2026",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisa Industrial Mensal: Produção Física - Brasil.\nReferência: fevereiro/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9294",
+    "start": "2026-04-02T09:00:00-03:00",
+    "end": "2026-04-02T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9294",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4525@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Lista de Produtos da Indústria - PRODLIST-Indústria 2025",
+    "description": "Estudos e Pesquisas Estruturais e Especiais do IBGE: Lista de Produtos da Indústria - PRODLIST-Indústria 2025.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9153",
+    "start": "2026-04-01T10:00:00-03:00",
+    "end": "2026-04-01T10:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9153",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4228@calendario-economico",
+    "tag": "IBGE",
+    "summary": "IPP – fevereiro/2026",
+    "description": "Divulgação de Indicadores do IBGE: Índice de Preços ao Produtor - Indústrias Extrativas e de Transformação.\nReferência: fevereiro/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9282",
+    "start": "2026-03-31T09:00:00-03:00",
+    "end": "2026-03-31T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9282",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4530@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Malha Municipal Digital, versão 2025",
+    "description": "Produtos da Geociências do IBGE: Malha Municipal Digital, versão 2025.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/15774",
+    "start": "2026-03-30T10:00:00-03:00",
+    "end": "2026-03-30T10:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/15774",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4531@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Áreas Territoriais Brasileiras, versão 2025",
+    "description": "Produtos da Geociências do IBGE: Áreas Territoriais Brasileiras, versão 2025.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/15761",
+    "start": "2026-03-30T10:00:00-03:00",
+    "end": "2026-03-30T10:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/15761",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4532@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Mapas Municipais das Estimativas Populacionais, versão 2025",
+    "description": "Produtos da Geociências do IBGE: Mapas Municipais das Estimativas Populacionais, versão 2025.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/27437",
+    "start": "2026-03-30T10:00:00-03:00",
+    "end": "2026-03-30T10:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/27437",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4533@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Divisão Territorial Brasileira, versão 2025",
+    "description": "Produtos da Geociências do IBGE: Divisão Territorial Brasileira, versão 2025.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/23701",
+    "start": "2026-03-30T10:00:00-03:00",
+    "end": "2026-03-30T10:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/23701",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4534@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Alterações Toponímicas Municipais, versão 2025",
+    "description": "Produtos da Geociências do IBGE: Alterações Toponímicas Municipais, versão 2025.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/27336",
+    "start": "2026-03-30T10:00:00-03:00",
+    "end": "2026-03-30T10:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/27336",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4227@calendario-economico",
+    "tag": "IBGE",
+    "summary": "PNAD Contínua – fevereiro/2026",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisa Nacional por Amostra de Domicílios Contínua Mensal.\nReferência: fevereiro/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9171",
+    "start": "2026-03-27T09:00:00-03:00",
+    "end": "2026-03-27T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9171",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4225@calendario-economico",
+    "tag": "IBGE",
+    "summary": "IPCA-15 – março/2026",
+    "description": "Divulgação de Indicadores do IBGE: Índice Nacional de Preços ao Consumidor Amplo 15.\nReferência: março/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9260",
+    "start": "2026-03-26T09:00:00-03:00",
+    "end": "2026-03-26T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9260",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4226@calendario-economico",
+    "tag": "IBGE",
+    "summary": "IPCA-E – 1º trimestre/2026",
+    "description": "Divulgação de Indicadores do IBGE: Índice Nacional de Preços ao Consumidor Amplo Especial.\nReferência: 1º trimestre/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9262",
+    "start": "2026-03-26T09:00:00-03:00",
+    "end": "2026-03-26T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9262",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4526@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Pesquisa Nacional de Saúde do Escolar 2024 – 2024",
+    "description": "Estudos e Pesquisas Estruturais e Especiais do IBGE: Pesquisa Nacional de Saúde do Escolar 2024.\nReferência: 2024.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9134",
+    "start": "2026-03-25T10:00:00-03:00",
+    "end": "2026-03-25T10:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9134",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4529@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Macrocaracterização dos Recursos Naturais do Brasil: Regiões Fitoecológicas e Ou",
+    "description": "Produtos da Geociências do IBGE: Macrocaracterização dos Recursos Naturais do Brasil: Regiões Fitoecológicas e Outras Áreas.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/24252",
+    "start": "2026-03-20T10:00:00-03:00",
+    "end": "2026-03-20T10:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/24252",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4523@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Pesquisa de Inovação Semestral 2024: Indicadores básicos",
+    "description": "Investigações Experimentais do IBGE: Pesquisa de Inovação Semestral 2024: Indicadores básicos.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/35867",
+    "start": "2026-03-19T10:00:00-03:00",
+    "end": "2026-03-19T10:30:00-03:00",
+    "url": "https://www.ibge.gov.br/estatisticas/multidominio/ciencia-tecnologia-e-inovacao/35867-pesquisa-de-inovacao-semestral.html?=&t=o-que-e",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-3890@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Pesquisas Trimestrais do Abate de Animais, do Leite, do Couro e da Produção de O – 4º trimestre/2025",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisas Trimestrais do Abate de Animais, do Leite, do Couro e da Produção de Ovos de Galinha.\nReferência: 4º trimestre/2025.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/19111",
+    "start": "2026-03-18T09:00:00-03:00",
+    "end": "2026-03-18T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/19111",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4222@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Levantamento Sistemático da Produção Agrícola – fevereiro/2026",
+    "description": "Divulgação de Indicadores do IBGE: Levantamento Sistemático da Produção Agrícola.\nReferência: fevereiro/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9201",
+    "start": "2026-03-13T09:00:00-03:00",
+    "end": "2026-03-13T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9201",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4223@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Produção industrial regional (PIM) – janeiro/2026",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisa Industrial Mensal: Produção Física - Regional.\nReferência: janeiro/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9296",
+    "start": "2026-03-13T09:00:00-03:00",
+    "end": "2026-03-13T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9296",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4224@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Volume de serviços (PMS) – janeiro/2026",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisa Mensal de Serviços.\nReferência: janeiro/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9229",
+    "start": "2026-03-13T09:00:00-03:00",
+    "end": "2026-03-13T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9229",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4219@calendario-economico",
+    "tag": "IBGE",
+    "summary": "INPC – fevereiro/2026",
+    "description": "Divulgação de Indicadores do IBGE: Índice Nacional de Preços ao Consumidor.\nReferência: fevereiro/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9258",
+    "start": "2026-03-12T09:00:00-03:00",
+    "end": "2026-03-12T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9258",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4220@calendario-economico",
+    "tag": "IBGE",
+    "summary": "IPCA – fevereiro/2026",
+    "description": "Divulgação de Indicadores do IBGE: Índice Nacional de Preços ao Consumidor Amplo.\nReferência: fevereiro/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9256",
+    "start": "2026-03-12T09:00:00-03:00",
+    "end": "2026-03-12T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9256",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4221@calendario-economico",
+    "tag": "IBGE",
+    "summary": "SINAPI – fevereiro/2026",
+    "description": "Divulgação de Indicadores do IBGE: Sistema Nacional de Pesquisa de Custos e Índices da Construção Civil.\nReferência: fevereiro/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9270",
+    "start": "2026-03-12T09:00:00-03:00",
+    "end": "2026-03-12T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9270",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4218@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Vendas no varejo (PMC) – janeiro/2026",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisa Mensal de Comércio.\nReferência: janeiro/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9227",
+    "start": "2026-03-11T09:00:00-03:00",
+    "end": "2026-03-11T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9227",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4217@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Produção industrial (PIM) – janeiro/2026",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisa Industrial Mensal: Produção Física - Brasil.\nReferência: janeiro/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9294",
+    "start": "2026-03-06T09:00:00-03:00",
+    "end": "2026-03-06T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9294",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4216@calendario-economico",
+    "tag": "IBGE",
+    "summary": "PNAD Contínua – janeiro/2026",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisa Nacional por Amostra de Domicílios Contínua Mensal.\nReferência: janeiro/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9171",
+    "start": "2026-03-05T09:00:00-03:00",
+    "end": "2026-03-05T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9171",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4215@calendario-economico",
+    "tag": "IBGE",
+    "summary": "IPP – janeiro/2026",
+    "description": "Divulgação de Indicadores do IBGE: Índice de Preços ao Produtor - Indústrias Extrativas e de Transformação.\nReferência: janeiro/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9282",
+    "start": "2026-03-04T09:00:00-03:00",
+    "end": "2026-03-04T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9282",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-3889@calendario-economico",
+    "tag": "IBGE",
+    "summary": "PIB trimestral – 4º trimestre/2025",
+    "description": "Divulgação de Indicadores do IBGE: Sistema de Contas Nacionais Trimestrais.\nReferência: 4º trimestre/2025.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9300",
+    "start": "2026-03-03T09:00:00-03:00",
+    "end": "2026-03-03T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9300",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4524@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Rendimento domiciliar per capita – 2025",
+    "description": "Estudos e Pesquisas Estruturais e Especiais do IBGE: Rendimento domiciliar per capita.\nReferência: 2025.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/",
+    "start": "2026-02-27T09:22:26-03:00",
+    "end": "2026-02-27T09:52:26-03:00",
+    "url": "https://www.ibge.gov.br/estatisticas/sociais/trabalho/17270-pnad-continua.html?=&t=renda-domiciliar-per-capita",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4214@calendario-economico",
+    "tag": "IBGE",
+    "summary": "IPCA-15 – fevereiro/2026",
+    "description": "Divulgação de Indicadores do IBGE: Índice Nacional de Preços ao Consumidor Amplo 15.\nReferência: fevereiro/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9260",
+    "start": "2026-02-27T09:00:00-03:00",
+    "end": "2026-02-27T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9260",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-3888@calendario-economico",
+    "tag": "IBGE",
+    "summary": "PNAD Contínua (trimestral) – 4º trimestre/2025",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisa Nacional por Amostra de Domicílios Contínua Trimestral.\nReferência: 4º trimestre/2025.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9173",
+    "start": "2026-02-20T09:00:00-03:00",
+    "end": "2026-02-20T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9173",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-3887@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Vendas no varejo (PMC) – dezembro/2025",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisa Mensal de Comércio.\nReferência: dezembro/2025.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9227",
+    "start": "2026-02-13T09:00:00-03:00",
+    "end": "2026-02-13T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9227",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-3885@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Volume de serviços (PMS) – dezembro/2025",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisa Mensal de Serviços.\nReferência: dezembro/2025.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9229",
+    "start": "2026-02-12T09:00:00-03:00",
+    "end": "2026-02-12T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9229",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-3886@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Pesquisas Trimestrais do Abate de Animais, do Leite, do Couro e da Produção de O – 4º trimestre/2025",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisas Trimestrais do Abate de Animais, do Leite, do Couro e da Produção de Ovos de Galinha: Primeiros resultados.\nReferência: 4º trimestre/2025.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/19120",
+    "start": "2026-02-12T09:00:00-03:00",
+    "end": "2026-02-12T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/19120",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4213@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Levantamento Sistemático da Produção Agrícola – janeiro/2026",
+    "description": "Divulgação de Indicadores do IBGE: Levantamento Sistemático da Produção Agrícola.\nReferência: janeiro/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9201",
+    "start": "2026-02-12T09:00:00-03:00",
+    "end": "2026-02-12T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9201",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-3884@calendario-economico",
+    "tag": "IBGE",
+    "summary": "IPP – dezembro/2025",
+    "description": "Divulgação de Indicadores do IBGE: Índice de Preços ao Produtor - Indústrias Extrativas e de Transformação.\nReferência: dezembro/2025.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9282",
+    "start": "2026-02-11T09:00:00-03:00",
+    "end": "2026-02-11T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9282",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-3883@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Produção industrial regional (PIM) – dezembro/2025",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisa Industrial Mensal: Produção Física - Regional.\nReferência: dezembro/2025.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9296",
+    "start": "2026-02-10T09:00:00-03:00",
+    "end": "2026-02-10T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9296",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4210@calendario-economico",
+    "tag": "IBGE",
+    "summary": "INPC – janeiro/2026",
+    "description": "Divulgação de Indicadores do IBGE: Índice Nacional de Preços ao Consumidor.\nReferência: janeiro/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9258",
+    "start": "2026-02-10T09:00:00-03:00",
+    "end": "2026-02-10T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9258",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4211@calendario-economico",
+    "tag": "IBGE",
+    "summary": "IPCA – janeiro/2026",
+    "description": "Divulgação de Indicadores do IBGE: Índice Nacional de Preços ao Consumidor Amplo.\nReferência: janeiro/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9256",
+    "start": "2026-02-10T09:00:00-03:00",
+    "end": "2026-02-10T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9256",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4212@calendario-economico",
+    "tag": "IBGE",
+    "summary": "SINAPI – janeiro/2026",
+    "description": "Divulgação de Indicadores do IBGE: Sistema Nacional de Pesquisa de Custos e Índices da Construção Civil.\nReferência: janeiro/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9270",
+    "start": "2026-02-10T09:00:00-03:00",
+    "end": "2026-02-10T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9270",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-3882@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Produção industrial (PIM) – dezembro/2025",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisa Industrial Mensal: Produção Física - Brasil.\nReferência: dezembro/2025.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9294",
+    "start": "2026-02-03T09:00:00-03:00",
+    "end": "2026-02-03T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9294",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-3881@calendario-economico",
+    "tag": "IBGE",
+    "summary": "PNAD Contínua – dezembro/2025",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisa Nacional por Amostra de Domicílios Contínua Mensal.\nReferência: dezembro/2025.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9171",
+    "start": "2026-01-30T09:00:00-03:00",
+    "end": "2026-01-30T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9171",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4209@calendario-economico",
+    "tag": "IBGE",
+    "summary": "IPCA-15 – janeiro/2026",
+    "description": "Divulgação de Indicadores do IBGE: Índice Nacional de Preços ao Consumidor Amplo 15.\nReferência: janeiro/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9260",
+    "start": "2026-01-27T09:00:00-03:00",
+    "end": "2026-01-27T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9260",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-3880@calendario-economico",
+    "tag": "IBGE",
+    "summary": "IPP – novembro/2025",
+    "description": "Divulgação de Indicadores do IBGE: Índice de Preços ao Produtor - Indústrias Extrativas e de Transformação.\nReferência: novembro/2025.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9282",
+    "start": "2026-01-16T09:00:00-03:00",
+    "end": "2026-01-16T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9282",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-3877@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Levantamento Sistemático da Produção Agrícola – dezembro/2025",
+    "description": "Divulgação de Indicadores do IBGE: Levantamento Sistemático da Produção Agrícola.\nReferência: dezembro/2025.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9201",
+    "start": "2026-01-15T09:00:00-03:00",
+    "end": "2026-01-15T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9201",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-3878@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Vendas no varejo (PMC) – novembro/2025",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisa Mensal de Comércio.\nReferência: novembro/2025.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9227",
+    "start": "2026-01-15T09:00:00-03:00",
+    "end": "2026-01-15T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9227",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-3879@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Prognóstico da Safra (3º prognóstico) – 2026",
+    "description": "Divulgação de Indicadores do IBGE: Prognóstico da Safra (3º prognóstico).\nReferência: 2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/19068",
+    "start": "2026-01-15T09:00:00-03:00",
+    "end": "2026-01-15T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/19068",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-3876@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Produção industrial regional (PIM) – novembro/2025",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisa Industrial Mensal: Produção Física - Regional.\nReferência: novembro/2025.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9296",
+    "start": "2026-01-14T09:00:00-03:00",
+    "end": "2026-01-14T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9296",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-3875@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Volume de serviços (PMS) – novembro/2025",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisa Mensal de Serviços.\nReferência: novembro/2025.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9229",
+    "start": "2026-01-13T09:00:00-03:00",
+    "end": "2026-01-13T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9229",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-3872@calendario-economico",
+    "tag": "IBGE",
+    "summary": "IPCA – dezembro/2025",
+    "description": "Divulgação de Indicadores do IBGE: Índice Nacional de Preços ao Consumidor Amplo.\nReferência: dezembro/2025.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9256",
+    "start": "2026-01-09T09:00:00-03:00",
+    "end": "2026-01-09T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9256",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-3873@calendario-economico",
+    "tag": "IBGE",
+    "summary": "INPC – dezembro/2025",
+    "description": "Divulgação de Indicadores do IBGE: Índice Nacional de Preços ao Consumidor.\nReferência: dezembro/2025.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9258",
+    "start": "2026-01-09T09:00:00-03:00",
+    "end": "2026-01-09T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9258",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-3874@calendario-economico",
+    "tag": "IBGE",
+    "summary": "SINAPI – dezembro/2025",
+    "description": "Divulgação de Indicadores do IBGE: Sistema Nacional de Pesquisa de Custos e Índices da Construção Civil.\nReferência: dezembro/2025.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9270",
+    "start": "2026-01-09T09:00:00-03:00",
+    "end": "2026-01-09T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9270",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-3871@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Produção industrial (PIM) – novembro/2025",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisa Industrial Mensal: Produção Física - Brasil.\nReferência: novembro/2025.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9294",
+    "start": "2026-01-08T09:00:00-03:00",
+    "end": "2026-01-08T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9294",
+    "all_day": false
+  }
+]

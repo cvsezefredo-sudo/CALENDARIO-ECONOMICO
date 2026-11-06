@@ -1,0 +1,322 @@
+[
+  {
+    "uid": "fed-ata-2026-12-30@calendario-economico",
+    "tag": "Fed",
+    "summary": "Ata do FOMC",
+    "description": "Publicação da ata do FOMC. Meeting of December 8-9.\nHorário original: 14:00 no Leste dos EUA (America/New_York), 16:00 em Brasília. O horário de verão dos EUA entra nessa conversão.\nFonte: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+    "start": "2026-12-30T16:00:00-03:00",
+    "end": "2026-12-30T16:30:00-03:00",
+    "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+    "all_day": false
+  },
+  {
+    "uid": "fed-ata-2026-11-18@calendario-economico",
+    "tag": "Fed",
+    "summary": "Ata do FOMC",
+    "description": "Publicação da ata do FOMC. Meeting of October 27-28.\nHorário original: 14:00 no Leste dos EUA (America/New_York), 16:00 em Brasília. O horário de verão dos EUA entra nessa conversão.\nFonte: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+    "start": "2026-11-18T16:00:00-03:00",
+    "end": "2026-11-18T16:30:00-03:00",
+    "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+    "all_day": false
+  },
+  {
+    "uid": "fed-ata-2026-10-07@calendario-economico",
+    "tag": "Fed",
+    "summary": "Ata do FOMC",
+    "description": "Publicação da ata do FOMC. Meeting of September 15-16.\nHorário original: 14:00 no Leste dos EUA (America/New_York), 15:00 em Brasília. O horário de verão dos EUA entra nessa conversão.\nFonte: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+    "start": "2026-10-07T15:00:00-03:00",
+    "end": "2026-10-07T15:30:00-03:00",
+    "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+    "all_day": false
+  },
+  {
+    "uid": "fed-ata-2026-08-19@calendario-economico",
+    "tag": "Fed",
+    "summary": "Ata do FOMC",
+    "description": "Publicação da ata do FOMC. Meeting of July 28-29.\nHorário original: 14:00 no Leste dos EUA (America/New_York), 15:00 em Brasília. O horário de verão dos EUA entra nessa conversão.\nFonte: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+    "start": "2026-08-19T15:00:00-03:00",
+    "end": "2026-08-19T15:30:00-03:00",
+    "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+    "all_day": false
+  },
+  {
+    "uid": "fed-ata-2026-07-08@calendario-economico",
+    "tag": "Fed",
+    "summary": "Ata do FOMC",
+    "description": "Publicação da ata do FOMC. Meeting of June 16-17.\nHorário original: 14:00 no Leste dos EUA (America/New_York), 15:00 em Brasília. O horário de verão dos EUA entra nessa conversão.\nFonte: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+    "start": "2026-07-08T15:00:00-03:00",
+    "end": "2026-07-08T15:30:00-03:00",
+    "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+    "all_day": false
+  },
+  {
+    "uid": "fed-ata-2026-05-20@calendario-economico",
+    "tag": "Fed",
+    "summary": "Ata do FOMC",
+    "description": "Publicação da ata do FOMC. Meeting of April 28-29.\nHorário original: 14:00 no Leste dos EUA (America/New_York), 15:00 em Brasília. O horário de verão dos EUA entra nessa conversão.\nFonte: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+    "start": "2026-05-20T15:00:00-03:00",
+    "end": "2026-05-20T15:30:00-03:00",
+    "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+    "all_day": false
+  },
+  {
+    "uid": "fed-ata-2026-04-08@calendario-economico",
+    "tag": "Fed",
+    "summary": "Ata do FOMC",
+    "description": "Publicação da ata do FOMC. Meeting of March 17-18.\nHorário original: 14:00 no Leste dos EUA (America/New_York), 15:00 em Brasília. O horário de verão dos EUA entra nessa conversão.\nFonte: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+    "start": "2026-04-08T15:00:00-03:00",
+    "end": "2026-04-08T15:30:00-03:00",
+    "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+    "all_day": false
+  },
+  {
+    "uid": "fed-ata-2026-02-18@calendario-economico",
+    "tag": "Fed",
+    "summary": "Ata do FOMC",
+    "description": "Publicação da ata do FOMC. Meeting of January 27-28.\nHorário original: 14:00 no Leste dos EUA (America/New_York), 16:00 em Brasília. O horário de verão dos EUA entra nessa conversão.\nFonte: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+    "start": "2026-02-18T16:00:00-03:00",
+    "end": "2026-02-18T16:30:00-03:00",
+    "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+    "all_day": false
+  },
+  {
+    "uid": "fed-decisao-2026-12-09@calendario-economico",
+    "tag": "Fed",
+    "summary": "Decisão de juros (FOMC)",
+    "description": "Decisão de juros no segundo dia da reunião do FOMC. Há coletiva de imprensa.\nHorário original: 14:00 no Leste dos EUA (America/New_York), 16:00 em Brasília. O horário de verão dos EUA entra nessa conversão.\nFonte: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+    "start": "2026-12-09T16:00:00-03:00",
+    "end": "2026-12-09T16:30:00-03:00",
+    "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+    "all_day": false
+  },
+  {
+    "uid": "fed-decisao-2026-10-28@calendario-economico",
+    "tag": "Fed",
+    "summary": "Decisão de juros (FOMC)",
+    "description": "Decisão de juros no segundo dia da reunião do FOMC. Há coletiva de imprensa.\nHorário original: 14:00 no Leste dos EUA (America/New_York), 15:00 em Brasília. O horário de verão dos EUA entra nessa conversão.\nFonte: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+    "start": "2026-10-28T15:00:00-03:00",
+    "end": "2026-10-28T15:30:00-03:00",
+    "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+    "all_day": false
+  },
+  {
+    "uid": "fed-decisao-2026-09-16@calendario-economico",
+    "tag": "Fed",
+    "summary": "Decisão de juros (FOMC)",
+    "description": "Decisão de juros no segundo dia da reunião do FOMC. Há coletiva de imprensa.\nHorário original: 14:00 no Leste dos EUA (America/New_York), 15:00 em Brasília. O horário de verão dos EUA entra nessa conversão.\nFonte: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+    "start": "2026-09-16T15:00:00-03:00",
+    "end": "2026-09-16T15:30:00-03:00",
+    "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+    "all_day": false
+  },
+  {
+    "uid": "fed-decisao-2026-07-29@calendario-economico",
+    "tag": "Fed",
+    "summary": "Decisão de juros (FOMC)",
+    "description": "Decisão de juros no segundo dia da reunião do FOMC. Há coletiva de imprensa.\nHorário original: 14:00 no Leste dos EUA (America/New_York), 15:00 em Brasília. O horário de verão dos EUA entra nessa conversão.\nFonte: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+    "start": "2026-07-29T15:00:00-03:00",
+    "end": "2026-07-29T15:30:00-03:00",
+    "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+    "all_day": false
+  },
+  {
+    "uid": "fed-decisao-2026-06-17@calendario-economico",
+    "tag": "Fed",
+    "summary": "Decisão de juros (FOMC)",
+    "description": "Decisão de juros no segundo dia da reunião do FOMC. Há coletiva de imprensa.\nHorário original: 14:00 no Leste dos EUA (America/New_York), 15:00 em Brasília. O horário de verão dos EUA entra nessa conversão.\nFonte: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+    "start": "2026-06-17T15:00:00-03:00",
+    "end": "2026-06-17T15:30:00-03:00",
+    "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+    "all_day": false
+  },
+  {
+    "uid": "fed-decisao-2026-04-29@calendario-economico",
+    "tag": "Fed",
+    "summary": "Decisão de juros (FOMC)",
+    "description": "Decisão de juros no segundo dia da reunião do FOMC. Há coletiva de imprensa.\nHorário original: 14:00 no Leste dos EUA (America/New_York), 15:00 em Brasília. O horário de verão dos EUA entra nessa conversão.\nFonte: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+    "start": "2026-04-29T15:00:00-03:00",
+    "end": "2026-04-29T15:30:00-03:00",
+    "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+    "all_day": false
+  },
+  {
+    "uid": "fed-decisao-2026-01-28@calendario-economico",
+    "tag": "Fed",
+    "summary": "Decisão de juros (FOMC)",
+    "description": "Decisão de juros no segundo dia da reunião do FOMC. Há coletiva de imprensa.\nHorário original: 14:00 no Leste dos EUA (America/New_York), 16:00 em Brasília. O horário de verão dos EUA entra nessa conversão.\nFonte: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+    "start": "2026-01-28T16:00:00-03:00",
+    "end": "2026-01-28T16:30:00-03:00",
+    "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+    "all_day": false
+  },
+  {
+    "uid": "fed-decisao-2026-03-18@calendario-economico",
+    "tag": "Fed",
+    "summary": "Decisão de juros (FOMC)",
+    "description": "Decisão de juros no segundo dia da reunião do FOMC. Há coletiva de imprensa.\nHorário original: 14:00 no Leste dos EUA (America/New_York), 15:00 em Brasília. O horário de verão dos EUA entra nessa conversão.\nFonte: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+    "start": "2026-03-18T15:00:00-03:00",
+    "end": "2026-03-18T15:30:00-03:00",
+    "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+    "all_day": false
+  },
+  {
+    "uid": "fed-ata-2025-12-30@calendario-economico",
+    "tag": "Fed",
+    "summary": "Ata do FOMC",
+    "description": "Publicação da ata do FOMC. Meeting of December 9-10.\nHorário original: 14:00 no Leste dos EUA (America/New_York), 16:00 em Brasília. O horário de verão dos EUA entra nessa conversão.\nFonte: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+    "start": "2025-12-30T16:00:00-03:00",
+    "end": "2025-12-30T16:30:00-03:00",
+    "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+    "all_day": false
+  },
+  {
+    "uid": "fed-ata-2025-11-19@calendario-economico",
+    "tag": "Fed",
+    "summary": "Ata do FOMC",
+    "description": "Publicação da ata do FOMC. Meeting of October 28-29.\nHorário original: 14:00 no Leste dos EUA (America/New_York), 16:00 em Brasília. O horário de verão dos EUA entra nessa conversão.\nFonte: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+    "start": "2025-11-19T16:00:00-03:00",
+    "end": "2025-11-19T16:30:00-03:00",
+    "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+    "all_day": false
+  },
+  {
+    "uid": "fed-ata-2025-10-08@calendario-economico",
+    "tag": "Fed",
+    "summary": "Ata do FOMC",
+    "description": "Publicação da ata do FOMC. Meeting of September 16-17.\nHorário original: 14:00 no Leste dos EUA (America/New_York), 15:00 em Brasília. O horário de verão dos EUA entra nessa conversão.\nFonte: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+    "start": "2025-10-08T15:00:00-03:00",
+    "end": "2025-10-08T15:30:00-03:00",
+    "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+    "all_day": false
+  },
+  {
+    "uid": "fed-ata-2025-08-20@calendario-economico",
+    "tag": "Fed",
+    "summary": "Ata do FOMC",
+    "description": "Publicação da ata do FOMC. Meeting of July 29-30.\nHorário original: 14:00 no Leste dos EUA (America/New_York), 15:00 em Brasília. O horário de verão dos EUA entra nessa conversão.\nFonte: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+    "start": "2025-08-20T15:00:00-03:00",
+    "end": "2025-08-20T15:30:00-03:00",
+    "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+    "all_day": false
+  },
+  {
+    "uid": "fed-ata-2025-07-09@calendario-economico",
+    "tag": "Fed",
+    "summary": "Ata do FOMC",
+    "description": "Publicação da ata do FOMC. Meeting of June 17-18.\nHorário original: 14:00 no Leste dos EUA (America/New_York), 15:00 em Brasília. O horário de verão dos EUA entra nessa conversão.\nFonte: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+    "start": "2025-07-09T15:00:00-03:00",
+    "end": "2025-07-09T15:30:00-03:00",
+    "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+    "all_day": false
+  },
+  {
+    "uid": "fed-ata-2025-05-28@calendario-economico",
+    "tag": "Fed",
+    "summary": "Ata do FOMC",
+    "description": "Publicação da ata do FOMC. Meeting of May 6-7.\nHorário original: 14:00 no Leste dos EUA (America/New_York), 15:00 em Brasília. O horário de verão dos EUA entra nessa conversão.\nFonte: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+    "start": "2025-05-28T15:00:00-03:00",
+    "end": "2025-05-28T15:30:00-03:00",
+    "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+    "all_day": false
+  },
+  {
+    "uid": "fed-ata-2025-04-09@calendario-economico",
+    "tag": "Fed",
+    "summary": "Ata do FOMC",
+    "description": "Publicação da ata do FOMC. Meeting of March 18-19.\nHorário original: 14:00 no Leste dos EUA (America/New_York), 15:00 em Brasília. O horário de verão dos EUA entra nessa conversão.\nFonte: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+    "start": "2025-04-09T15:00:00-03:00",
+    "end": "2025-04-09T15:30:00-03:00",
+    "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+    "all_day": false
+  },
+  {
+    "uid": "fed-ata-2025-02-19@calendario-economico",
+    "tag": "Fed",
+    "summary": "Ata do FOMC",
+    "description": "Publicação da ata do FOMC. Meeting of January 28-29.\nHorário original: 14:00 no Leste dos EUA (America/New_York), 16:00 em Brasília. O horário de verão dos EUA entra nessa conversão.\nFonte: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+    "start": "2025-02-19T16:00:00-03:00",
+    "end": "2025-02-19T16:30:00-03:00",
+    "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+    "all_day": false
+  },
+  {
+    "uid": "fed-decisao-2025-05-07@calendario-economico",
+    "tag": "Fed",
+    "summary": "Decisão de juros (FOMC)",
+    "description": "Decisão de juros no segundo dia da reunião do FOMC. Há coletiva de imprensa.\nHorário original: 14:00 no Leste dos EUA (America/New_York), 15:00 em Brasília. O horário de verão dos EUA entra nessa conversão.\nFonte: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+    "start": "2025-05-07T15:00:00-03:00",
+    "end": "2025-05-07T15:30:00-03:00",
+    "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+    "all_day": false
+  },
+  {
+    "uid": "fed-decisao-2025-12-10@calendario-economico",
+    "tag": "Fed",
+    "summary": "Decisão de juros (FOMC)",
+    "description": "Decisão de juros no segundo dia da reunião do FOMC. Há coletiva de imprensa.\nHorário original: 14:00 no Leste dos EUA (America/New_York), 16:00 em Brasília. O horário de verão dos EUA entra nessa conversão.\nFonte: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+    "start": "2025-12-10T16:00:00-03:00",
+    "end": "2025-12-10T16:30:00-03:00",
+    "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+    "all_day": false
+  },
+  {
+    "uid": "fed-decisao-2025-10-29@calendario-economico",
+    "tag": "Fed",
+    "summary": "Decisão de juros (FOMC)",
+    "description": "Decisão de juros no segundo dia da reunião do FOMC. Há coletiva de imprensa.\nHorário original: 14:00 no Leste dos EUA (America/New_York), 15:00 em Brasília. O horário de verão dos EUA entra nessa conversão.\nFonte: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+    "start": "2025-10-29T15:00:00-03:00",
+    "end": "2025-10-29T15:30:00-03:00",
+    "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+    "all_day": false
+  },
+  {
+    "uid": "fed-decisao-2025-09-17@calendario-economico",
+    "tag": "Fed",
+    "summary": "Decisão de juros (FOMC)",
+    "description": "Decisão de juros no segundo dia da reunião do FOMC. Há coletiva de imprensa.\nHorário original: 14:00 no Leste dos EUA (America/New_York), 15:00 em Brasília. O horário de verão dos EUA entra nessa conversão.\nFonte: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+    "start": "2025-09-17T15:00:00-03:00",
+    "end": "2025-09-17T15:30:00-03:00",
+    "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+    "all_day": false
+  },
+  {
+    "uid": "fed-decisao-2025-07-30@calendario-economico",
+    "tag": "Fed",
+    "summary": "Decisão de juros (FOMC)",
+    "description": "Decisão de juros no segundo dia da reunião do FOMC. Há coletiva de imprensa.\nHorário original: 14:00 no Leste dos EUA (America/New_York), 15:00 em Brasília. O horário de verão dos EUA entra nessa conversão.\nFonte: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+    "start": "2025-07-30T15:00:00-03:00",
+    "end": "2025-07-30T15:30:00-03:00",
+    "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+    "all_day": false
+  },
+  {
+    "uid": "fed-decisao-2025-06-18@calendario-economico",
+    "tag": "Fed",
+    "summary": "Decisão de juros (FOMC)",
+    "description": "Decisão de juros no segundo dia da reunião do FOMC. Há coletiva de imprensa.\nHorário original: 14:00 no Leste dos EUA (America/New_York), 15:00 em Brasília. O horário de verão dos EUA entra nessa conversão.\nFonte: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+    "start": "2025-06-18T15:00:00-03:00",
+    "end": "2025-06-18T15:30:00-03:00",
+    "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+    "all_day": false
+  },
+  {
+    "uid": "fed-decisao-2025-03-19@calendario-economico",
+    "tag": "Fed",
+    "summary": "Decisão de juros (FOMC)",
+    "description": "Decisão de juros no segundo dia da reunião do FOMC. Há coletiva de imprensa.\nHorário original: 14:00 no Leste dos EUA (America/New_York), 15:00 em Brasília. O horário de verão dos EUA entra nessa conversão.\nFonte: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+    "start": "2025-03-19T15:00:00-03:00",
+    "end": "2025-03-19T15:30:00-03:00",
+    "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+    "all_day": false
+  },
+  {
+    "uid": "fed-decisao-2025-01-29@calendario-economico",
+    "tag": "Fed",
+    "summary": "Decisão de juros (FOMC)",
+    "description": "Decisão de juros no segundo dia da reunião do FOMC. Há coletiva de imprensa.\nHorário original: 14:00 no Leste dos EUA (America/New_York), 16:00 em Brasília. O horário de verão dos EUA entra nessa conversão.\nFonte: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+    "start": "2025-01-29T16:00:00-03:00",
+    "end": "2025-01-29T16:30:00-03:00",
+    "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+    "all_day": false
+  }
+]
