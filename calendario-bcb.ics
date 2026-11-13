@@ -18442,6 +18442,17 @@ SUMMARY:[IBC-Br] Índice de Atividade Econômica do Banco Central (IBC-Br)
 DESCRIPTION:Índice de Atividade Econômica do Banco Central (IBC-Br)
 END:VEVENT
 BEGIN:VEVENT
+UID:eventosics160CircuitoPix
+DTSTAMP:20261113T143600Z
+DTSTART;TZID=America/Sao_Paulo:20261117T143000
+DTEND;TZID=America/Sao_Paulo:20261118T143000
+SUMMARY:[Eventos] Circuito Pix
+LOCATION:Evento on-line gratuito\, com transmissão pelo canal do Banco Cen
+ tral no YouTube.
+DESCRIPTION:Esclarecer os principais pontos das Resoluções BCB nº 587/20
+ 26 e nº 603/2026 e responder dúvidas dos participantes.
+END:VEVENT
+BEGIN:VEVENT
 UID:agendaics208ReuniãodaComoc
 DTSTAMP:20250922T183900Z
 DTSTART;TZID=America/Sao_Paulo:20261118T000000

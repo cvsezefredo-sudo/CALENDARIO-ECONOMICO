@@ -36850,6 +36850,46 @@
       {
         "name": "UID",
         "params": "",
+        "value": "eventosics160CircuitoPix"
+      },
+      {
+        "name": "DTSTAMP",
+        "params": "",
+        "value": "20261113T143600Z"
+      },
+      {
+        "name": "DTSTART",
+        "params": ";TZID=America/Sao_Paulo",
+        "value": "20261117T143000"
+      },
+      {
+        "name": "DTEND",
+        "params": ";TZID=America/Sao_Paulo",
+        "value": "20261118T143000"
+      },
+      {
+        "name": "SUMMARY",
+        "params": "",
+        "value": "[Eventos] Circuito Pix"
+      },
+      {
+        "name": "LOCATION",
+        "params": "",
+        "value": "Evento on-line gratuito, com transmissão pelo canal do Banco Central no YouTube."
+      },
+      {
+        "name": "DESCRIPTION",
+        "params": "",
+        "value": "Esclarecer os principais pontos das Resoluções BCB nº 587/2026 e nº 603/2026 e responder dúvidas dos participantes."
+      }
+    ]
+  },
+  {
+    "tag": "Eventos",
+    "props": [
+      {
+        "name": "UID",
+        "params": "",
         "value": "eventosics158Lançamentodoecossistemadeduplicatasescriturais"
       },
       {
