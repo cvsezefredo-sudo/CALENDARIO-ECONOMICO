@@ -240,6 +240,26 @@
     "all_day": false
   },
   {
+    "uid": "ibge-4590@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Características Urbanísticas do Entorno dos Domicílios 2022: Resultados Experime",
+    "description": "Produtos da Geociências do IBGE: Características Urbanísticas do Entorno dos Domicílios 2022: Resultados Experimentais e dados derivados.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/",
+    "start": "2026-12-16T10:00:00-03:00",
+    "end": "2026-12-16T10:30:00-03:00",
+    "url": "https://www.ibge.gov.br/comunicados/48649",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4589@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Pesquisa urbanística do entorno dos domicílios: metodologia de seleção dos setor",
+    "description": "Produtos da Geociências do IBGE: Pesquisa urbanística do entorno dos domicílios: metodologia de seleção dos setores censitários no Censo Demográfico 2022.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/",
+    "start": "2026-12-16T10:00:00-03:00",
+    "end": "2026-12-16T10:30:00-03:00",
+    "url": "https://www.ibge.gov.br/comunicados/48648",
+    "all_day": false
+  },
+  {
     "uid": "ibge-4577@calendario-economico",
     "tag": "IBGE",
     "summary": "Pesquisa Nacional por Amostra de Domicílios Contínua: Outras formas de trabalho – 2025",

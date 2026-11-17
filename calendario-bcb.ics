@@ -22836,6 +22836,34 @@ DESCRIPTION:Estudos e Pesquisas Estruturais e Especiais do IBGE: Pesquisa N
 URL:https://servicodados.ibge.gov.br/api/v3/calendario/17270
 END:VEVENT
 BEGIN:VEVENT
+UID:ibge-4589@calendario-economico
+DTSTAMP:20261216T130000Z
+DTSTART;TZID=America/Sao_Paulo:20261216T100000
+DTEND;TZID=America/Sao_Paulo:20261216T103000
+SUMMARY:[IBGE] Pesquisa urbanística do entorno dos domicílios: metodologi
+ a de seleção dos setor
+DESCRIPTION:Produtos da Geociências do IBGE: Pesquisa urbanística do ento
+ rno dos domicílios: metodologia de seleção dos setores censitários no 
+ Censo Demográfico 2022.\nHorário de Brasília\, convertido do UTC public
+ ado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasí
+ lia).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/
+URL:https://www.ibge.gov.br/comunicados/48648
+END:VEVENT
+BEGIN:VEVENT
+UID:ibge-4590@calendario-economico
+DTSTAMP:20261216T130000Z
+DTSTART;TZID=America/Sao_Paulo:20261216T100000
+DTEND;TZID=America/Sao_Paulo:20261216T103000
+SUMMARY:[IBGE] Características Urbanísticas do Entorno dos Domicílios 20
+ 22: Resultados Experime
+DESCRIPTION:Produtos da Geociências do IBGE: Características Urbanística
+ s do Entorno dos Domicílios 2022: Resultados Experimentais e dados deriva
+ dos.\nHorário de Brasília\, convertido do UTC publicado na API de calend
+ ário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https:
+ //servicodados.ibge.gov.br/api/v3/calendario/
+URL:https://www.ibge.gov.br/comunicados/48649
+END:VEVENT
+BEGIN:VEVENT
 UID:agendaics201IndicadoreseconômicosSelecionados(Indeco)
 DTSTAMP:20250903T184200Z
 DTSTART;TZID=America/Sao_Paulo:20261216T143000
