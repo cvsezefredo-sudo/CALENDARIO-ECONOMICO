@@ -22428,6 +22428,19 @@ DESCRIPTION:Estudos e Pesquisas Estruturais e Especiais do IBGE: Pesquisa d
 URL:https://servicodados.ibge.gov.br/api/v3/calendario/
 END:VEVENT
 BEGIN:VEVENT
+UID:ibge-4591@calendario-economico
+DTSTAMP:20261127T130000Z
+DTSTART;TZID=America/Sao_Paulo:20261127T100000
+DTEND;TZID=America/Sao_Paulo:20261127T103000
+SUMMARY:[IBGE] Tábuas Completas de Mortalidade para o Brasil – 2025
+DESCRIPTION:Estudos e Pesquisas Estruturais e Especiais do IBGE: Tábuas Co
+ mpletas de Mortalidade para o Brasil.\nReferência: 2025.\nHorário de Bra
+ sília\, convertido do UTC publicado na API de calendário do IBGE (12:00 
+ UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.g
+ ov.br/api/v3/calendario/9126
+URL:https://servicodados.ibge.gov.br/api/v3/calendario/9126
+END:VEVENT
+BEGIN:VEVENT
 UID:agendaics447RelatórioFocus
 DTSTAMP:20260130T202800Z
 DTSTART;TZID=America/Sao_Paulo:20261130T083000

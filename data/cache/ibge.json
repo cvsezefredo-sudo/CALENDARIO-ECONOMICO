@@ -430,6 +430,16 @@
     "all_day": false
   },
   {
+    "uid": "ibge-4591@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Tábuas Completas de Mortalidade para o Brasil – 2025",
+    "description": "Estudos e Pesquisas Estruturais e Especiais do IBGE: Tábuas Completas de Mortalidade para o Brasil.\nReferência: 2025.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9126",
+    "start": "2026-11-27T10:00:00-03:00",
+    "end": "2026-11-27T10:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9126",
+    "all_day": false
+  },
+  {
     "uid": "ibge-4579@calendario-economico",
     "tag": "IBGE",
     "summary": "Pesquisa de Orçamentos Familiares - 2024-2025 - Primeiros resultados",
