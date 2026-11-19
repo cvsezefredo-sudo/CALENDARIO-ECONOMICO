@@ -36850,6 +36850,46 @@
       {
         "name": "UID",
         "params": "",
+        "value": "eventosics162FórumdeSegurançaCorporativadoBancoCentral"
+      },
+      {
+        "name": "DTSTAMP",
+        "params": "",
+        "value": "20261119T185100Z"
+      },
+      {
+        "name": "DTSTART",
+        "params": ";TZID=America/Sao_Paulo",
+        "value": "20261124T080000"
+      },
+      {
+        "name": "DTEND",
+        "params": ";TZID=America/Sao_Paulo",
+        "value": "20261124T180000"
+      },
+      {
+        "name": "SUMMARY",
+        "params": "",
+        "value": "[Eventos] Fórum de Segurança Corporativa do Banco Central"
+      },
+      {
+        "name": "LOCATION",
+        "params": "",
+        "value": "Edifício-Sede do Banco Central do Brasil, Brasília/DF."
+      },
+      {
+        "name": "DESCRIPTION",
+        "params": "",
+        "value": "Promover o intercâmbio de experiências e conhecimentos sobre temas relevantes e atuais da segurança corporativa, reunindo representantes do Banco Central e de instituições públicas e privadas para debater desafios, tendências e boas práticas."
+      }
+    ]
+  },
+  {
+    "tag": "Eventos",
+    "props": [
+      {
+        "name": "UID",
+        "params": "",
         "value": "eventosics160CircuitoPix"
       },
       {

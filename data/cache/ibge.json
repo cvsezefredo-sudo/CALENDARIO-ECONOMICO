@@ -270,6 +270,16 @@
     "all_day": false
   },
   {
+    "uid": "ibge-4592@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Quadro Geográfico de Referência para Produção, Análise e Disseminação de Estatís",
+    "description": "Produtos da Geociências do IBGE: Quadro Geográfico de Referência para Produção, Análise e Disseminação de Estatísticas - 3ª Edição.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/24233",
+    "start": "2026-12-15T10:00:00-03:00",
+    "end": "2026-12-15T10:30:00-03:00",
+    "url": "https://www.ibge.gov.br/comunicados/48693",
+    "all_day": false
+  },
+  {
     "uid": "ibge-4342@calendario-economico",
     "tag": "IBGE",
     "summary": "Prognóstico da Safra (2º prognóstico) – 2027",
@@ -987,16 +997,6 @@
     "start": "2026-09-10T09:00:00-03:00",
     "end": "2026-09-10T09:30:00-03:00",
     "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9296",
-    "all_day": false
-  },
-  {
-    "uid": "ibge-4294@calendario-economico",
-    "tag": "IBGE",
-    "summary": "Volume de serviços (PMS) – julho/2026",
-    "description": "Divulgação de Indicadores do IBGE: Pesquisa Mensal de Serviços.\nReferência: julho/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9229",
-    "start": "2026-09-10T09:00:00-03:00",
-    "end": "2026-09-10T09:30:00-03:00",
-    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9229",
     "all_day": false
   },
   {

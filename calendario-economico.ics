@@ -20988,18 +20988,6 @@ SUMMARY:[IC-Br] Índice de Commodities – Brasil (IC-Br)
 DESCRIPTION:Índice de Commodities – Brasil (IC-Br)
 END:VEVENT
 BEGIN:VEVENT
-UID:ibge-4294@calendario-economico
-DTSTAMP:20260910T120000Z
-DTSTART;TZID=America/Sao_Paulo:20260910T090000
-DTEND;TZID=America/Sao_Paulo:20260910T093000
-SUMMARY:[IBGE] Volume de serviços (PMS) – julho/2026
-DESCRIPTION:Divulgação de Indicadores do IBGE: Pesquisa Mensal de Serviç
- os.\nReferência: julho/2026.\nHorário de Brasília\, convertido do UTC p
- ublicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em B
- rasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9229
-URL:https://servicodados.ibge.gov.br/api/v3/calendario/9229
-END:VEVENT
-BEGIN:VEVENT
 UID:ibge-4295@calendario-economico
 DTSTAMP:20260910T120000Z
 DTSTART;TZID=America/Sao_Paulo:20260910T090000
@@ -22287,6 +22275,18 @@ SUMMARY:[Comef] Reunião do Comef
 DESCRIPTION:Reunião do Comef
 END:VEVENT
 BEGIN:VEVENT
+UID:eventosics162FórumdeSegurançaCorporativadoBancoCentral
+DTSTAMP:20261119T185100Z
+DTSTART;TZID=America/Sao_Paulo:20261124T080000
+DTEND;TZID=America/Sao_Paulo:20261124T180000
+SUMMARY:[Eventos] Fórum de Segurança Corporativa do Banco Central
+LOCATION:Edifício-Sede do Banco Central do Brasil\, Brasília/DF.
+DESCRIPTION:Promover o intercâmbio de experiências e conhecimentos sobre 
+ temas relevantes e atuais da segurança corporativa\, reunindo representan
+ tes do Banco Central e de instituições públicas e privadas para debater
+  desafios\, tendências e boas práticas.
+END:VEVENT
+BEGIN:VEVENT
 UID:agendaics48ComunicadodoComef
 DTSTAMP:20260624T180400Z
 DTSTART;TZID=America/Sao_Paulo:20261125T000000
@@ -22818,6 +22818,20 @@ DESCRIPTION:Divulgação de Indicadores do IBGE: Prognóstico da Safra (2º
  0 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendari
  o/19068
 URL:https://servicodados.ibge.gov.br/api/v3/calendario/19068
+END:VEVENT
+BEGIN:VEVENT
+UID:ibge-4592@calendario-economico
+DTSTAMP:20261215T130000Z
+DTSTART;TZID=America/Sao_Paulo:20261215T100000
+DTEND;TZID=America/Sao_Paulo:20261215T103000
+SUMMARY:[IBGE] Quadro Geográfico de Referência para Produção\, Análise
+  e Disseminação de Estatís
+DESCRIPTION:Produtos da Geociências do IBGE: Quadro Geográfico de Referê
+ ncia para Produção\, Análise e Disseminação de Estatísticas - 3ª Ed
+ ição.\nHorário de Brasília\, convertido do UTC publicado na API de cal
+ endário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: htt
+ ps://servicodados.ibge.gov.br/api/v3/calendario/24233
+URL:https://www.ibge.gov.br/comunicados/48693
 END:VEVENT
 BEGIN:VEVENT
 UID:agendaics209ReuniãodaComoc
