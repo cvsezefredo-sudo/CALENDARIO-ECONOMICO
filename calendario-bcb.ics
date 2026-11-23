@@ -21506,6 +21506,13 @@ DESCRIPTION:Publicação da ata do FOMC. Meeting of September 15-16.\nHorá
 URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 END:VEVENT
 BEGIN:VEVENT
+UID:agendaics17ReuniãoextraordináriadoCoremec
+DTSTAMP:20261123T142900Z
+DTSTART;TZID=America/Sao_Paulo:20261008T000000
+SUMMARY:[Coremec] Reunião extraordinária do Coremec
+DESCRIPTION:Reunião extraordinária do Coremec
+END:VEVENT
+BEGIN:VEVENT
 UID:ibge-4307@calendario-economico
 DTSTAMP:20261008T120000Z
 DTSTART;TZID=America/Sao_Paulo:20261008T090000
@@ -21944,6 +21951,13 @@ DESCRIPTION:Payroll dos EUA\, mês de referência outubro/2026.\nHorário o
 URL:https://www.bls.gov/schedule/news_release/empsit.htm
 END:VEVENT
 BEGIN:VEVENT
+UID:agendaics12ReuniãodoCoremec
+DTSTAMP:20261123T142700Z
+DTSTART;TZID=America/Sao_Paulo:20261109T000000
+SUMMARY:[Coremec] Reunião do Coremec
+DESCRIPTION:Reunião do Coremec
+END:VEVENT
+BEGIN:VEVENT
 UID:agendaics444RelatórioFocus
 DTSTAMP:20260130T202600Z
 DTSTART;TZID=America/Sao_Paulo:20261109T083000
@@ -22261,6 +22275,14 @@ SUMMARY:[PTC] Pesquisa Trimestral de Condições de Crédito – PTC
 DESCRIPTION:Pesquisa Trimestral de Condições de Crédito – PTC
 END:VEVENT
 BEGIN:VEVENT
+UID:eventosics159ConferênciaAnualdoBancoCentraldoBrasil-chamadaparaaSubmis
+ sãodeArtigos
+DTSTAMP:20261123T161300Z
+DTSTART;TZID=America/Sao_Paulo:20261123T000000
+SUMMARY:[Eventos] Conferência Anual do Banco Central do Brasil - chamada p
+ ara a Submissão de Artigos
+END:VEVENT
+BEGIN:VEVENT
 UID:agendaics446RelatórioFocus
 DTSTAMP:20260130T202800Z
 DTSTART;TZID=America/Sao_Paulo:20261123T083000
@@ -22535,13 +22557,6 @@ DTSTAMP:20261002T193900Z
 DTSTART;TZID=America/Sao_Paulo:20261203T143000
 SUMMARY:[PTC] Pesquisa de Estabilidade Financeira – PEF
 DESCRIPTION:Pesquisa de Estabilidade Financeira – PEF
-END:VEVENT
-BEGIN:VEVENT
-UID:agendaics12ReuniãodoCoremec
-DTSTAMP:20250922T194700Z
-DTSTART;TZID=America/Sao_Paulo:20261204T000000
-SUMMARY:[Coremec] Reunião do Coremec
-DESCRIPTION:Reunião do Coremec
 END:VEVENT
 BEGIN:VEVENT
 UID:bls-empsit-2026-12-04@calendario-economico
@@ -23470,6 +23485,14 @@ DTSTAMP:20260114T134100Z
 DTSTART;TZID=America/Sao_Paulo:20270203T143000
 SUMMARY:[IC-Br] Índice de Commodities – Brasil (IC-Br)
 DESCRIPTION:Índice de Commodities – Brasil (IC-Br)
+END:VEVENT
+BEGIN:VEVENT
+UID:eventosics161ConferênciaAnualdoBancoCentraldoBrasil-chamadaparaaSubmis
+ sãodeArtigos
+DTSTAMP:20261123T161300Z
+DTSTART;TZID=America/Sao_Paulo:20270205T000000
+SUMMARY:[Eventos] Conferência Anual do Banco Central do Brasil - chamada p
+ ara a Submissão de Artigos
 END:VEVENT
 BEGIN:VEVENT
 UID:bls-empsit-2027-02-05@calendario-economico

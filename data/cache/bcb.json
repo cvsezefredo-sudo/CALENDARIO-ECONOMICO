@@ -19155,12 +19155,12 @@
       {
         "name": "DTSTAMP",
         "params": "",
-        "value": "20250922T194700Z"
+        "value": "20261123T142700Z"
       },
       {
         "name": "DTSTART",
         "params": ";TZID=America/Sao_Paulo",
-        "value": "20261204T000000"
+        "value": "20261109T000000"
       },
       {
         "name": "SUMMARY",
@@ -19171,6 +19171,36 @@
         "name": "DESCRIPTION",
         "params": "",
         "value": "Reunião do Coremec"
+      }
+    ]
+  },
+  {
+    "tag": "Coremec",
+    "props": [
+      {
+        "name": "UID",
+        "params": "",
+        "value": "agendaics17ReuniãoextraordináriadoCoremec"
+      },
+      {
+        "name": "DTSTAMP",
+        "params": "",
+        "value": "20261123T142900Z"
+      },
+      {
+        "name": "DTSTART",
+        "params": ";TZID=America/Sao_Paulo",
+        "value": "20261008T000000"
+      },
+      {
+        "name": "SUMMARY",
+        "params": "",
+        "value": "[Coremec] Reunião extraordinária do Coremec"
+      },
+      {
+        "name": "DESCRIPTION",
+        "params": "",
+        "value": "Reunião extraordinária do Coremec"
       }
     ]
   },
@@ -36850,6 +36880,36 @@
       {
         "name": "UID",
         "params": "",
+        "value": "eventosics161ConferênciaAnualdoBancoCentraldoBrasil-chamadaparaaSubmissãodeArtigos"
+      },
+      {
+        "name": "DTSTAMP",
+        "params": "",
+        "value": "20261123T161300Z"
+      },
+      {
+        "name": "DTSTART",
+        "params": ";TZID=America/Sao_Paulo",
+        "value": "20270205T000000"
+      },
+      {
+        "name": "SUMMARY",
+        "params": "",
+        "value": "[Eventos] Conferência Anual do Banco Central do Brasil - chamada para a Submissão de Artigos"
+      },
+      {
+        "name": "DESCRIPTION",
+        "params": "",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "tag": "Eventos",
+    "props": [
+      {
+        "name": "UID",
+        "params": "",
         "value": "eventosics162FórumdeSegurançaCorporativadoBancoCentral"
       },
       {
@@ -36881,6 +36941,36 @@
         "name": "DESCRIPTION",
         "params": "",
         "value": "Promover o intercâmbio de experiências e conhecimentos sobre temas relevantes e atuais da segurança corporativa, reunindo representantes do Banco Central e de instituições públicas e privadas para debater desafios, tendências e boas práticas."
+      }
+    ]
+  },
+  {
+    "tag": "Eventos",
+    "props": [
+      {
+        "name": "UID",
+        "params": "",
+        "value": "eventosics159ConferênciaAnualdoBancoCentraldoBrasil-chamadaparaaSubmissãodeArtigos"
+      },
+      {
+        "name": "DTSTAMP",
+        "params": "",
+        "value": "20261123T161300Z"
+      },
+      {
+        "name": "DTSTART",
+        "params": ";TZID=America/Sao_Paulo",
+        "value": "20261123T000000"
+      },
+      {
+        "name": "SUMMARY",
+        "params": "",
+        "value": "[Eventos] Conferência Anual do Banco Central do Brasil - chamada para a Submissão de Artigos"
+      },
+      {
+        "name": "DESCRIPTION",
+        "params": "",
+        "value": ""
       }
     ]
   },
