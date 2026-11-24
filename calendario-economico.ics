@@ -22352,14 +22352,6 @@ SUMMARY:[IBCR] Índice de Atividade Econômica Regional (IBCR)
 DESCRIPTION:Índice de Atividade Econômica Regional (IBCR)
 END:VEVENT
 BEGIN:VEVENT
-UID:agendaics95EstatísticasdoMercadoAberto
-DTSTAMP:20251230T200200Z
-DTSTART;TZID=America/Sao_Paulo:20261125T143000
-DTEND;TZID=America/Sao_Paulo:20261125T143000
-SUMMARY:[Aberto] Estatísticas do Mercado Aberto
-DESCRIPTION:Estatísticas do Mercado Aberto
-END:VEVENT
-BEGIN:VEVENT
 UID:agendaics4RelatóriodeInvestimentoDireto-RID
 DTSTAMP:20260721T211000Z
 DTSTART;TZID=America/Sao_Paulo:20261126T083000
@@ -22476,6 +22468,14 @@ DTSTART;TZID=America/Sao_Paulo:20261130T083000
 DTEND;TZID=America/Sao_Paulo:20261130T083000
 SUMMARY:[Fiscais] Estatísticas fiscais
 DESCRIPTION:Estatísticas fiscais
+END:VEVENT
+BEGIN:VEVENT
+UID:agendaics95EstatísticasdoMercadoAberto
+DTSTAMP:20261124T142200Z
+DTSTART;TZID=America/Sao_Paulo:20261130T143000
+DTEND;TZID=America/Sao_Paulo:20261130T143000
+SUMMARY:[Aberto] Estatísticas do Mercado Aberto
+DESCRIPTION:Estatísticas do Mercado Aberto
 END:VEVENT
 BEGIN:VEVENT
 UID:pmi-industrial-2026-11@calendario-economico

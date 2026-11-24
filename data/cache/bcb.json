@@ -21080,17 +21080,17 @@
       {
         "name": "DTSTAMP",
         "params": "",
-        "value": "20251230T200200Z"
+        "value": "20261124T142200Z"
       },
       {
         "name": "DTSTART",
         "params": ";TZID=America/Sao_Paulo",
-        "value": "20261125T143000"
+        "value": "20261130T143000"
       },
       {
         "name": "DTEND",
         "params": ";TZID=America/Sao_Paulo",
-        "value": "20261125T143000"
+        "value": "20261130T143000"
       },
       {
         "name": "SUMMARY",
