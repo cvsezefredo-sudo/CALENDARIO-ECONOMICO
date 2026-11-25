@@ -22581,14 +22581,15 @@ UID:ibge-4584@calendario-economico
 DTSTAMP:20261207T130000Z
 DTSTART;TZID=America/Sao_Paulo:20261207T100000
 DTEND;TZID=America/Sao_Paulo:20261207T103000
-SUMMARY:[IBGE] Censo Demográfico 2022: Localidades indígenas: Caracterís
- ticas socioorganizativa – 2022
+SUMMARY:[IBGE] Censo Demográfico 2022: Localidades indígenas: Principais 
+ características socio- – 2022
 DESCRIPTION:Estudos e Pesquisas Estruturais e Especiais do IBGE: Censo Demo
- gráfico 2022: Localidades indígenas: Características socioorganizativas
- \, acesso a infraestrutura e hábitos e práticas comunitárias.\nReferên
- cia: 2022.\nHorário de Brasília\, convertido do UTC publicado na API de 
- calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: 
- https://servicodados.ibge.gov.br/api/v3/calendario/22827
+ gráfico 2022: Localidades indígenas: Principais características socio-o
+ rganizativas\, acesso a infraestruturas de serviços e hábitos e prática
+ s comunitários.\nReferência: 2022.\nHorário de Brasília\, convertido d
+ o UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:
+ 00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendar
+ io/22827
 URL:https://servicodados.ibge.gov.br/api/v3/calendario/22827
 END:VEVENT
 BEGIN:VEVENT
