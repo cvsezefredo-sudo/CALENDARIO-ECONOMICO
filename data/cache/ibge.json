@@ -410,6 +410,16 @@
     "all_day": false
   },
   {
+    "uid": "ibge-4593@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Síntese de Indicadores Sociais – 2026",
+    "description": "Estudos e Pesquisas Estruturais e Especiais do IBGE: Síntese de Indicadores Sociais.\nReferência: 2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9221",
+    "start": "2026-12-04T10:00:00-03:00",
+    "end": "2026-12-04T10:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9221",
+    "all_day": false
+  },
+  {
     "uid": "ibge-4587@calendario-economico",
     "tag": "IBGE",
     "summary": "Grau de Urbanização no Brasil",
@@ -437,6 +447,16 @@
     "start": "2026-12-02T09:00:00-03:00",
     "end": "2026-12-02T09:30:00-03:00",
     "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9300",
+    "all_day": false
+  },
+  {
+    "uid": "ibge-4594@calendario-economico",
+    "tag": "IBGE",
+    "summary": "Modelo hgeoHNOR2025 para conversão entre altitudes elipsoidais e normais",
+    "description": "Produtos da Geociências do IBGE: Modelo hgeoHNOR2025 para conversão entre altitudes elipsoidais e normais.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/31283",
+    "start": "2026-11-30T10:00:00-03:00",
+    "end": "2026-11-30T10:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/31283",
     "all_day": false
   },
   {
@@ -980,13 +1000,13 @@
     "all_day": false
   },
   {
-    "uid": "ibge-4296@calendario-economico",
+    "uid": "ibge-4294@calendario-economico",
     "tag": "IBGE",
-    "summary": "INPC – agosto/2026",
-    "description": "Divulgação de Indicadores do IBGE: Índice Nacional de Preços ao Consumidor.\nReferência: agosto/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9258",
-    "start": "2026-09-11T09:00:00-03:00",
-    "end": "2026-09-11T09:30:00-03:00",
-    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9258",
+    "summary": "Volume de serviços (PMS) – julho/2026",
+    "description": "Divulgação de Indicadores do IBGE: Pesquisa Mensal de Serviços.\nReferência: julho/2026.\nHorário de Brasília, convertido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9229",
+    "start": "2026-09-10T09:00:00-03:00",
+    "end": "2026-09-10T09:30:00-03:00",
+    "url": "https://servicodados.ibge.gov.br/api/v3/calendario/9229",
     "all_day": false
   },
   {

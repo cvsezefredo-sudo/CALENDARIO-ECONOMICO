@@ -20988,6 +20988,18 @@ SUMMARY:[IC-Br] Índice de Commodities – Brasil (IC-Br)
 DESCRIPTION:Índice de Commodities – Brasil (IC-Br)
 END:VEVENT
 BEGIN:VEVENT
+UID:ibge-4294@calendario-economico
+DTSTAMP:20260910T120000Z
+DTSTART;TZID=America/Sao_Paulo:20260910T090000
+DTEND;TZID=America/Sao_Paulo:20260910T093000
+SUMMARY:[IBGE] Volume de serviços (PMS) – julho/2026
+DESCRIPTION:Divulgação de Indicadores do IBGE: Pesquisa Mensal de Serviç
+ os.\nReferência: julho/2026.\nHorário de Brasília\, convertido do UTC p
+ ublicado na API de calendário do IBGE (12:00 UTC corresponde a 09:00 em B
+ rasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/calendario/9229
+URL:https://servicodados.ibge.gov.br/api/v3/calendario/9229
+END:VEVENT
+BEGIN:VEVENT
 UID:ibge-4295@calendario-economico
 DTSTAMP:20260910T120000Z
 DTSTART;TZID=America/Sao_Paulo:20260910T090000
@@ -20999,19 +21011,6 @@ DESCRIPTION:Divulgação de Indicadores do IBGE: Pesquisa Industrial Mensal
   UTC corresponde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.
  gov.br/api/v3/calendario/9296
 URL:https://servicodados.ibge.gov.br/api/v3/calendario/9296
-END:VEVENT
-BEGIN:VEVENT
-UID:ibge-4296@calendario-economico
-DTSTAMP:20260911T120000Z
-DTSTART;TZID=America/Sao_Paulo:20260911T090000
-DTEND;TZID=America/Sao_Paulo:20260911T093000
-SUMMARY:[IBGE] INPC – agosto/2026
-DESCRIPTION:Divulgação de Indicadores do IBGE: Índice Nacional de Preço
- s ao Consumidor.\nReferência: agosto/2026.\nHorário de Brasília\, conve
- rtido do UTC publicado na API de calendário do IBGE (12:00 UTC correspond
- e a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/c
- alendario/9258
-URL:https://servicodados.ibge.gov.br/api/v3/calendario/9258
 END:VEVENT
 BEGIN:VEVENT
 UID:ibge-4297@calendario-economico
@@ -22470,6 +22469,20 @@ SUMMARY:[Fiscais] Estatísticas fiscais
 DESCRIPTION:Estatísticas fiscais
 END:VEVENT
 BEGIN:VEVENT
+UID:ibge-4594@calendario-economico
+DTSTAMP:20261130T130000Z
+DTSTART;TZID=America/Sao_Paulo:20261130T100000
+DTEND;TZID=America/Sao_Paulo:20261130T103000
+SUMMARY:[IBGE] Modelo hgeoHNOR2025 para conversão entre altitudes elipsoid
+ ais e normais
+DESCRIPTION:Produtos da Geociências do IBGE: Modelo hgeoHNOR2025 para conv
+ ersão entre altitudes elipsoidais e normais.\nHorário de Brasília\, con
+ vertido do UTC publicado na API de calendário do IBGE (12:00 UTC correspo
+ nde a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3
+ /calendario/31283
+URL:https://servicodados.ibge.gov.br/api/v3/calendario/31283
+END:VEVENT
+BEGIN:VEVENT
 UID:agendaics95EstatísticasdoMercadoAberto
 DTSTAMP:20261124T142200Z
 DTSTART;TZID=America/Sao_Paulo:20261130T143000
@@ -22557,6 +22570,19 @@ DTSTAMP:20261002T193900Z
 DTSTART;TZID=America/Sao_Paulo:20261203T143000
 SUMMARY:[PTC] Pesquisa de Estabilidade Financeira – PEF
 DESCRIPTION:Pesquisa de Estabilidade Financeira – PEF
+END:VEVENT
+BEGIN:VEVENT
+UID:ibge-4593@calendario-economico
+DTSTAMP:20261204T130000Z
+DTSTART;TZID=America/Sao_Paulo:20261204T100000
+DTEND;TZID=America/Sao_Paulo:20261204T103000
+SUMMARY:[IBGE] Síntese de Indicadores Sociais – 2026
+DESCRIPTION:Estudos e Pesquisas Estruturais e Especiais do IBGE: Síntese d
+ e Indicadores Sociais.\nReferência: 2026.\nHorário de Brasília\, conver
+ tido do UTC publicado na API de calendário do IBGE (12:00 UTC corresponde
+  a 09:00 em Brasília).\nFonte: https://servicodados.ibge.gov.br/api/v3/ca
+ lendario/9221
+URL:https://servicodados.ibge.gov.br/api/v3/calendario/9221
 END:VEVENT
 BEGIN:VEVENT
 UID:bls-empsit-2026-12-04@calendario-economico
